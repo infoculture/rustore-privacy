@@ -4,8 +4,16 @@ import time
 import pprint
 import requests
 import json
+
+def get_airtable_key(filename):
+    f = open(filename, 'r', encoding='utf8')
+    key = f.read()
+    f.close()
+    return key
+
+
 AIRTABLE_API_DB = 'app5nfpdGUNScgwGV'
-AIRTABLE_API_KEY = get_airtable_key('airtable.key')
+AIRTABLE_API_KEY = get_airtable_key('airtable.key')     # airtable.key is a local text file, write key into it
 TABLE_APPS = 'Apps'
 TABLE_TRACKERS = 'Trackers'
 TABLE_PERMISSIONS = 'Permissions'
