@@ -1,0 +1,77 @@
+{
+  "application": {
+    "handle": "com.m.vodovoz",
+    "version_name": "1.4.87",
+    "version_code": "96",
+    "uaid": "9B37DC0B6BD2B3ED7E1EAD8FDDAF35622D4C3169",
+    "name": "Vodovoz",
+    "permissions": [
+      "android.permission.READ_APP_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.USE_BIOMETRIC",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.INTERNET",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.google.android.gms.permission.AD_ID",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.BLUETOOTH",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.m.vodovoz.apk",
+    "checksum": "6e919c4bb86db2cb909cacf5ffde74be453b16f8c9895a66655a6d47833019fb"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

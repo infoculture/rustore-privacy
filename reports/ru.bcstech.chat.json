@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "ru.bcstech.chat",
+    "version_name": "4.27.0",
+    "version_code": "21",
+    "uaid": "0A450BA41AC389EB850EC47A67DC13D791D6C28B",
+    "name": "\u0411\u041a\u0421.\u0427\u0430\u0442",
+    "permissions": [
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.VIBRATE",
+      "android.permission.MANAGE_OWN_CALLS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.bcstech.chat.apk",
+    "checksum": "843bb51ce933f6f991d43b66cfd1df0f8cafaa15e35e49ce69e5e2cb563abade"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Bugsnag",
+      "id": 207
+    }
+  ]
+}

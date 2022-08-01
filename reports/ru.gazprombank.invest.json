@@ -1,0 +1,74 @@
+{
+  "application": {
+    "handle": "ru.gazprombank.invest",
+    "version_name": "1.56.17",
+    "version_code": "501054041",
+    "uaid": "6BD23F9CEE3D81F0A3A8A26D295271C062472206",
+    "name": "\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.READ_PHONE_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.VIBRATE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.oppo.launcher.permission.READ_SETTINGS"
+    ],
+    "libraries": [
+      "android.test.runner"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.gazprombank.invest.apk",
+    "checksum": "4c3eeed304a2abc8bfe62dbc00151146acd97447234af787dd0498fa0680bd75"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Bugsnag",
+      "id": 207
+    }
+  ]
+}

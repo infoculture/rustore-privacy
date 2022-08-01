@@ -1,0 +1,41 @@
+{
+  "application": {
+    "handle": "ru.cenozavr.mobile_android",
+    "version_name": "1.0.59",
+    "version_code": "59",
+    "uaid": "FB3017075141A6191A259B9FFB647908BF734275",
+    "name": "\u0426\u0435\u043d\u043e\u0437\u0430\u0432\u0440",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CAMERA",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.cenozavr.mobile_android.apk",
+    "checksum": "17a2a28a85bfd88ed2a71f7335af6ff43430b90d7793a6332350b011cf0f87be"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "digital.fact.saver",
+    "version_name": "1.0.27",
+    "version_code": "56",
+    "uaid": "E59152E79BE2606E75C4A4A1A811A4621E854848",
+    "name": "Greedy Piggy",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/digital.fact.saver.apk",
+    "checksum": "987704ab9bd65fb8c56517c1a9de980c3312d380dca36e159460e9fc6e5c8753"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

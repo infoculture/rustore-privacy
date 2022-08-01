@@ -1,0 +1,36 @@
+{
+  "application": {
+    "handle": "uralpro.CapitalsOfTheWorld",
+    "version_name": "1.1",
+    "version_code": "1",
+    "uaid": "9727C568F3E5B55D419293C42E3806E66BE0D5AF",
+    "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u044b \u043c\u0438\u0440\u0430",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/uralpro.CapitalsOfTheWorld.apk",
+    "checksum": "ffcc0b74b69726bef73297a705a1ec91e5abcf278b0a6fed57f5d80ecc646b66"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

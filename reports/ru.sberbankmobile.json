@@ -1,0 +1,84 @@
+{
+  "application": {
+    "handle": "ru.sberbankmobile",
+    "version_name": "12.20.0",
+    "version_code": "2022070716",
+    "uaid": "22610E1C6808B055417A310FAB799D763F3ABE6E",
+    "name": "\u0421\u0431\u0435\u0440\u0411\u0430\u043d\u043a",
+    "permissions": [
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.GET_TASKS",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "android.permission.WRITE_EMBEDDED_SUBSCRIPTIONS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "ru.sberbankmobile.permission.PROCESS_PUSH_MSG",
+      "ru.sberbankmobile.permission.PUSH_PROVIDER",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.INTERNET",
+      "android.permission.CALL_PHONE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.REQUEST_DELETE_PACKAGES",
+      "android.permission.BLUETOOTH",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.QUICKBOOT_POWERON",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.MANAGE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.NFC",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.ACCESS_COARSE_UPDATES"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sberbankmobile.apk",
+    "checksum": "9200ea2f35b6d219551a61c524d3609c51d006e0a973026bd6bc6a374fd39d6c"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

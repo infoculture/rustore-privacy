@@ -1,0 +1,38 @@
+{
+  "application": {
+    "handle": "com.wfsys.carfleet",
+    "version_name": "1.0.8",
+    "version_code": "8",
+    "uaid": "D3D8E912CF4BB1789C3952E2EDAC037EAB359FFF",
+    "name": "WS. Carfleet",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.wfsys.carfleet.apk",
+    "checksum": "d2e268d58851d526ed19962912a3b72e0a433e0b78cfb881ef55aa7732a2b450"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    }
+  ]
+}

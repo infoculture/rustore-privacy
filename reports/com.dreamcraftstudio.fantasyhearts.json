@@ -1,0 +1,66 @@
+{
+  "application": {
+    "handle": "com.dreamcraftstudio.fantasyhearts",
+    "version_name": "0.18",
+    "version_code": "13",
+    "uaid": "3AAFC0636B32CF20E0C946901156F1BC2A7BE704",
+    "name": "Fantasy Hearts",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.dreamcraftstudio.fantasyhearts.permission.C2D_MESSAGE",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.WAKE_LOCK",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.BLUETOOTH_ADMIN",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.BLUETOOTH",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.dreamcraftstudio.fantasyhearts.apk",
+    "checksum": "ba5fde29ce157a67b6f29011a4d82febd8b8c465c45f114178fe25ef85d4d4f7"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

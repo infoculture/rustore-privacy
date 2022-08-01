@@ -1,0 +1,95 @@
+{
+  "application": {
+    "handle": "ru.yandex.searchplugin",
+    "version_name": "22.51",
+    "version_code": "220501021",
+    "uaid": "504F87A2627C9B913ED9C6D0FC21A47DC175ECA7",
+    "name": "Yandex",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_ACCOUNTS",
+      "com.samsung.android.app.spage.permission.READ_CARD_DATA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.VIBRATE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.yandex.alice.icon.permission.READ_STATE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACTIVITY_RECOGNITION",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH_CONNECT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "ru.yandex.searchplugin.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.samsung.android.app.spage.permission.WRITE_CARD_DATA",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.FLASHLIGHT",
+      "ru.yandex.searchplugin.appicons.APPICONS_FULL",
+      "com.sec.android.launcher.permission.BIND_WIDGET",
+      "com.yandex.permission.READ_CREDENTIALS",
+      "ru.yandex.searchplugin.images.IMAGES_FULL",
+      "com.yandex.permission.AM_COMMUNICATION",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.CAMERA",
+      "com.android.alarm.permission.SET_ALARM",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "ru.yandex.searchplugin.permission.PUSH_PROVIDER",
+      "android.permission.WRITE_USER_DICTIONARY",
+      "android.permission.RECORD_AUDIO",
+      "com.yandex.permission.SUPER_APP_STATE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.BLUETOOTH_SCAN",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "ru.yandex.searchplugin.permission.PROCESS_PUSH_MSG",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.WRITE_SETTINGS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.yandex.searchplugin.apk",
+    "checksum": "06146e7980604294359eed2d6b88c4e24718c366f5d9963502bbe79087a0e3c4"
+  },
+  "trackers": [
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

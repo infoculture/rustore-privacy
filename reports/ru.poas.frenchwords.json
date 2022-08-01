@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.frenchwords",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "1BED7E2A01005655BC1D0864D9F30CA289D4E8D4",
+    "name": "Learn French",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.frenchwords.apk",
+    "checksum": "20a92b08957b1eb8ab42b910b1bbcf87603e9ae493f7069934c70248925c26f0"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

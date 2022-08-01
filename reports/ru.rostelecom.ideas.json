@@ -1,0 +1,44 @@
+{
+  "application": {
+    "handle": "ru.rostelecom.ideas",
+    "version_name": "1.13.53",
+    "version_code": "53",
+    "uaid": "52A0086C81CB93A344F99C160580AB0B0C87BE60",
+    "name": "IdeaRT",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.BLUETOOTH",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.rostelecom.ideas.apk",
+    "checksum": "ef7b7e602774133f52325028dc7527df4fbc3d849e6f939fcd5132e7ed945649"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

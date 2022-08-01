@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "ru.yoo.kassa",
+    "version_name": "2.7.0",
+    "version_code": "2070000",
+    "uaid": "386523B4C40ECB2AFF0CB45946B366CA93850DEF",
+    "name": "YooMoney",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.REORDER_TASKS",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.yoo.kassa.apk",
+    "checksum": "4be7368a4b7ec48d120334e8ddb979f13a33e4fca503f99c52cbde1f5d9c4aa4"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

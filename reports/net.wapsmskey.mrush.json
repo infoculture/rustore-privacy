@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "net.wapsmskey.mrush",
+    "version_name": "8.0.0",
+    "version_code": "800",
+    "uaid": "C1F1EC278B2FF78E5FC8DB62E132E347ACFF5DA4",
+    "name": "\u0420\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u0438",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "net.wapsmskey.mrush.permission.C2D_MESSAGE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/net.wapsmskey.mrush.apk",
+    "checksum": "171b7d6c340ecd18e9f0da1210efb7c8ee3af3161ca6a69ba021e9b3341b3d41"
+  },
+  "trackers": [
+    {
+      "name": "Adjust",
+      "id": 52
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

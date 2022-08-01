@@ -1,0 +1,20 @@
+{
+  "application": {
+    "handle": "com.stdio.pue_7",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "F3326C02E5AA7EAAD591ED1D4E97ED6274285E59",
+    "name": "\u041f\u0423\u042d-7",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.stdio.pue_7.apk",
+    "checksum": "90eecbb9b3e60a061c0eaa2666d6c8faee41a087c2b9fa31c03dcb9fbac0439f"
+  },
+  "trackers": []
+}

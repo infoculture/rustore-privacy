@@ -1,0 +1,31 @@
+{
+  "application": {
+    "handle": "com.fimkos.electroseti_24_mobile_v1_0_1",
+    "version_name": "1.0.1",
+    "version_code": "1",
+    "uaid": "04C532AE0CEF1F16562E06CF16E033A16557C069",
+    "name": "\u042d\u041b\u0415\u041a\u0422\u0420\u041e\u0421\u0415\u0422\u041824",
+    "permissions": [
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+      "android.permission.VIBRATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.fimkos.electroseti_24_mobile_v1_0_1.apk",
+    "checksum": "f16d1bcaf1b6ea2cbb8f6a81222cb87798324ba3b09f5087d4e07e92b51263bb"
+  },
+  "trackers": []
+}

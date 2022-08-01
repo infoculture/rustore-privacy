@@ -1,0 +1,18 @@
+{
+  "application": {
+    "handle": "am.mobile.olife",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "1EDB2394FFC79E671FA42C66FEF499F7FD26D468",
+    "name": "\u041e\u043b\u0430\u0439\u0444 - Evergreen life",
+    "permissions": [
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/am.mobile.olife.apk",
+    "checksum": "8efeb62b2bbb2625c6674e92b102420f7659c4875b6758527579d31c50d1a14d"
+  },
+  "trackers": []
+}

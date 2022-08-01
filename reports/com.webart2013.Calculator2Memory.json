@@ -1,0 +1,18 @@
+{
+  "application": {
+    "handle": "com.webart2013.Calculator2Memory",
+    "version_name": "1.2.20",
+    "version_code": "20",
+    "uaid": "BAA89567CE8C5CF3982607059B8DF9AC5BAD5020",
+    "name": "Calculator2Memory",
+    "permissions": [
+      "android.permission.VIBRATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.webart2013.Calculator2Memory.apk",
+    "checksum": "885449d59d5b40f089d55153e7c1e6cd69f2458517e735525d26a3541d22d5fc"
+  },
+  "trackers": []
+}

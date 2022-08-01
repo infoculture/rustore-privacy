@@ -1,0 +1,62 @@
+{
+  "application": {
+    "handle": "com.ciliz.spinthebottle",
+    "version_name": "2.11.3",
+    "version_code": "21103",
+    "uaid": "401073C419454CF671D4165FBC9002270517805E",
+    "name": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Spin The Bottle",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.ciliz.spinthebottle.apk",
+    "checksum": "680cc37f79ed7ca00b03e58bed51ee83337157ad3e7b8afff7fba8078f8fa33b"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Tapjoy",
+      "id": 199
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "application": {
+    "handle": "ru.alfa.alfapeople",
+    "version_name": "2.3.0",
+    "version_code": "2030008",
+    "uaid": "42E5C86BA6A3B996FF2793790A6D255A0D022E65",
+    "name": "Alfa People",
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.USE_FINGERPRINT"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.alfa.alfapeople.apk",
+    "checksum": "6b4f5d50e69dd8a5c14a4e49e176411c6451e95fa78e8df639085d3b77bf6ce8"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

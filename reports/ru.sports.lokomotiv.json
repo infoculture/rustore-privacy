@@ -1,0 +1,90 @@
+{
+  "application": {
+    "handle": "ru.sports.lokomotiv",
+    "version_name": "5.0.8",
+    "version_code": "4112",
+    "uaid": "217A44568DBA7B379275EF70EC67342C8D0FC9E7",
+    "name": "\u041b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_CALENDAR",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sports.lokomotiv.apk",
+    "checksum": "c94b8911f778a97c1623eccf9feba32a6e9cbe6a0e53c84be899e516b0ae3c82"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Snowplow",
+      "id": 108
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "application": {
+    "handle": "ru.dev_professional.ru.xoonline",
+    "version_name": "1.1",
+    "version_code": "2",
+    "uaid": "36918EA3F69AB833B76FFEB689F19EA19814C0BE",
+    "name": "XO Online",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.dev_professional.ru.xoonline.apk",
+    "checksum": "de4a03c2a86af9842531f7223fde98cf529b12342b4a5af3e623519004adc2a4"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

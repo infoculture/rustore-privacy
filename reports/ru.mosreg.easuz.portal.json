@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "ru.mosreg.easuz.portal",
+    "version_name": "2.7.3",
+    "version_code": "64",
+    "uaid": "B3B49F85EA8E84FE3944A078C89BBAE07D7F8941",
+    "name": "\u0415\u0410\u0421\u0423\u0417",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.WRITE_CALENDAR"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.mosreg.easuz.portal.apk",
+    "checksum": "b6953bf66a9fbc5ecf306148cef1f5a7ad175f6ce6375dfc81b866fd52716160"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Mapbox",
+      "id": 171
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    }
+  ]
+}

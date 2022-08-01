@@ -1,0 +1,58 @@
+{
+  "application": {
+    "handle": "com.bssys.roscapretail",
+    "version_name": "4.37.0.42",
+    "version_code": "4370042",
+    "uaid": "5F6A7E57A01352867D69D1005F2EF6E92A158DEA",
+    "name": "\u0411\u0430\u043d\u043a \u0414\u041e\u041c.\u0420\u0424",
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CONTACTS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CAMERA",
+      "android.permission.READ_APP_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.bssys.roscapretail.apk",
+    "checksum": "b7d6d20056c24a3fe1a370d95e8d336124b2ff4e9a586a1869eda45742612545"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

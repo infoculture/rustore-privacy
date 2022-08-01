@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "ru.boxberry.couriers",
+    "version_name": "1.1.0",
+    "version_code": "312",
+    "uaid": "2B3DF6453DB6D603880AEC58F72093E9321D63CC",
+    "name": "\u041a\u0443\u0440\u044c\u0435\u0440\u044b",
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.boxberry.couriers.apk",
+    "checksum": "2220001b21380b420b1b9527b4587bee172b42f06341a29915cb2668747db21d"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

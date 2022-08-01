@@ -1,0 +1,111 @@
+{
+  "application": {
+    "handle": "ru.mail.cloud",
+    "version_name": "3.19.9.10000090",
+    "version_code": "10000090",
+    "uaid": "8E4973730AF48EDACE8FB6C2B0704A263E596DE3",
+    "name": "Cloud Mail.ru",
+    "permissions": [
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.READ_SYNC_STATS",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USE_BIOMETRIC",
+      "ru.mail.cloud.READPERMISSION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.USE_CREDENTIALS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.mail.cloud.apk",
+    "checksum": "328f8404b3dfb0fa6066bff4e932b7d13eb7f36338b9004f3e0e0880e5d2c808"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Schibsted",
+      "id": 30
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

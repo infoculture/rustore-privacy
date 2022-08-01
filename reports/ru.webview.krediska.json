@@ -1,0 +1,20 @@
+{
+  "application": {
+    "handle": "ru.webview.krediska",
+    "version_name": "1.1",
+    "version_code": "2",
+    "uaid": "37828F5988EBEEB36BD5F6BBC5C2302E291E0CF6",
+    "name": "krediska",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.webview.krediska.apk",
+    "checksum": "297af1b2f9793c9d4296fccfb6fef14629c18752fb239ae692e97e7801ab20c0"
+  },
+  "trackers": []
+}

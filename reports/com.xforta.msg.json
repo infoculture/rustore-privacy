@@ -1,0 +1,44 @@
+{
+  "application": {
+    "handle": "com.xforta.msg",
+    "version_name": "1.4.20-dev",
+    "version_code": "211876930",
+    "uaid": "02995746839D56ECE41BEC7088790CB726C86CFC",
+    "name": "FORTA MESSENGER",
+    "permissions": [
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH_CONNECT",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MANAGE_OWN_CALLS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.xforta.msg.apk",
+    "checksum": "abac9ead678a6c6e80950bbde9deeeb080f83c34fb3fffd72e6c7a0d44e80c66"
+  },
+  "trackers": []
+}

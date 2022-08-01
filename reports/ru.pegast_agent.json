@@ -1,0 +1,22 @@
+{
+  "application": {
+    "handle": "ru.pegast_agent",
+    "version_name": "1.0.3",
+    "version_code": "4",
+    "uaid": "13161D06FFFA4F620D419DD690846A4EB555B5D2",
+    "name": "Pegas Touristik",
+    "permissions": [
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.pegast_agent.apk",
+    "checksum": "0b0ffa16e007a7fb2bac142e9f48173b20bdbe787932aeff2f4727133e25ea1b"
+  },
+  "trackers": []
+}

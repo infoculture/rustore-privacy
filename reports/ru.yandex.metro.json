@@ -1,0 +1,46 @@
+{
+  "application": {
+    "handle": "ru.yandex.metro",
+    "version_name": "3.6.4",
+    "version_code": "936500",
+    "uaid": "2A4EDA39A332F62138DD19D40B5FEB0092B6D455",
+    "name": "Yandex.Metro",
+    "permissions": [
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.NFC",
+      "android.permission.WAKE_LOCK",
+      "com.android.alarm.permission.SET_ALARM",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.yandex.metro.apk",
+    "checksum": "beb0b3ee992a5c9d1a69997c13f361c802db4edaf8d828eb97c0d3a79b1b9fc9"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

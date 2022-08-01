@@ -1,0 +1,21 @@
+{
+  "application": {
+    "handle": "ru.eligovision.msk.ar.model.journal",
+    "version_name": "1.0",
+    "version_code": "100",
+    "uaid": "9411130116DE082A6CE3929DC5EC2CA9568F27A8",
+    "name": "AR\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u041c\u043e\u0441\u043a\u0432\u044b",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.MODIFY_AUDIO_SETTINGS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.eligovision.msk.ar.model.journal.apk",
+    "checksum": "857d919843be6587e23353e9d0bec62fcc1c388a64c8e379bfa08dd3742db467"
+  },
+  "trackers": []
+}

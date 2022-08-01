@@ -1,0 +1,122 @@
+{
+  "application": {
+    "handle": "com.herocraft.game.free.jollydaysfarm",
+    "version_name": "1.0.82",
+    "version_code": "10082",
+    "uaid": "42721AC2608D8428103797599E8DB94BA5B93257",
+    "name": "Jolly Days Farm",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.SET_ORIENTATION",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.android.vending.BILLING",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_MEDIA_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.herocraft.game.free.jollydaysfarm.apk",
+    "checksum": "88e2c8e7559216ab4ffeb09748367d515c93d7cbed80d75b2d1f1453cd6a9e77"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Fyber",
+      "id": 104
+    },
+    {
+      "name": "Inmobi",
+      "id": 106
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Tapjoy",
+      "id": 199
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Mail.ru",
+      "id": 336
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    }
+  ]
+}

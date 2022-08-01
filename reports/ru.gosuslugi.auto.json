@@ -1,0 +1,56 @@
+{
+  "application": {
+    "handle": "ru.gosuslugi.auto",
+    "version_name": "1.0.32.74-gms",
+    "version_code": "74",
+    "uaid": "5496001F98E3DC6DF05B001FA751902ADF952DAC",
+    "name": "\u0410\u0432\u0442\u043e",
+    "permissions": [
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER",
+      "android.permission.NFC",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.gosuslugi.auto.apk",
+    "checksum": "fbe9ae26d73910e58a93969a9c94301feeaff51c661fccb82e38c0dbb615e03b"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

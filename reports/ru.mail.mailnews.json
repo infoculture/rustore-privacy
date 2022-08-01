@@ -1,0 +1,45 @@
+{
+  "application": {
+    "handle": "ru.mail.mailnews",
+    "version_name": "4.2.1",
+    "version_code": "11352",
+    "uaid": "3B62E4865D4FFABBAC1857E5679940D585DDE55F",
+    "name": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.mail.mailnews.apk",
+    "checksum": "aca386dfd1b02c03c17c23c31ba75eaf5f07cf0ff5c2f9ca1e0bd8d59d8f3a88"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    }
+  ]
+}

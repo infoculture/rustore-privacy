@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "pro.crpt.p",
+    "version_name": "3.0.3",
+    "version_code": "20",
+    "uaid": "C81C4FE889A7DE25BA2B6D490AA2E0C78DAAB6CB",
+    "name": "solOS.Push",
+    "permissions": [
+      "com.sec.android.provider.badge.permission.READ",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.INTERNET",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_APP_BADGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.WAKE_LOCK",
+      "com.oppo.launcher.permission.WRITE_SETTINGS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/pro.crpt.p.apk",
+    "checksum": "5dee6bf2d13d648ff498f2f9940c1285833ec001db83b2af3004ba448684a0af"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

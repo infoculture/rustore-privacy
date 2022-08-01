@@ -1,0 +1,56 @@
+id	name	num
+12	AppsFlyer	24
+49	Google Firebase Analytics	45
+65	Facebook Ads	25
+66	Facebook Analytics	31
+67	Facebook Login	31
+70	Facebook Share	30
+72	AppLovin (MAX and SparkLabs)	28
+90	AdColony	22
+92	Amazon Advertisement	23
+104	Fyber	11
+106	Inmobi	14
+121	Unity3d Ads	42
+124	Yandex Ad	34
+125	Amplitude	17
+140	AppMetrica	39
+169	Vungle	23
+175	myTracker	21
+199	Tapjoy	19
+312	Google AdMob	51
+328	IAB Open Measurement	31
+363	Pangle	19
+200	Mintegral	14
+83	Smaato	1
+163	AppMonet	1
+183	PubNative	2
+198	myTarget	14
+249	Tenjin	8
+320	Verizon Ads	2
+336	Mail.ru	6
+48	Google Analytics	7
+105	Google Tag Manager	5
+205	GameAnalytics	5
+146	ironSource	15
+25	Flurry	2
+382	VKontakte SDK	5
+190	Bugly	1
+333	Huawei Mobile Services (HMS) Core	6
+27	Google CrashLytics	16
+53	ChartBoost	2
+58	HelpShift	1
+207	Bugsnag	3
+34	Ogury Presage	4
+162	Appodeal	5
+170	Criteo	5
+368	Appodeal Stack	5
+370	BidMachine	5
+238	Microsoft Visual Studio App Center Crashes	1
+243	Microsoft Visual Studio App Center Analytics	1
+52	Adjust	4
+35	Twitter MoPub	1
+61	Moat	2
+193	OneSignal	5
+127	Kochava	1
+422	Solar2D (Corona)	1
+189	HyprMX	1

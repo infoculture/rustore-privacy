@@ -1,0 +1,63 @@
+{
+  "application": {
+    "handle": "ru.elt.ubsmobile",
+    "version_name": "1.1.4",
+    "version_code": "14",
+    "uaid": "C25D778F170277CEED77D8AE07405550BB475C38",
+    "name": "\u0411\u0430\u043d\u043a \u042d\u043b\u0438\u0442\u0430",
+    "permissions": [
+      "com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_CONTACTS",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.READ_PROFILE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.INTERNET",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "com.android.vending.CHECK_LICENSE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.CAMERA",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.USE_BIOMETRIC",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.elt.ubsmobile.apk",
+    "checksum": "68299193f57d1bb94e96b7965ee7b4e5ad189357cdf08becc2a3c12d97fdec66"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.spanishwords",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "81DA135FB2E90EE84607D44F3C7323CEAC74FFD2",
+    "name": "Learn Spanish",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.spanishwords.apk",
+    "checksum": "52496d5c29df047b00c838230c89c1bafb63505f1b4072d6ac1ead22063254bf"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

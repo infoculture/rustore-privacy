@@ -1,0 +1,24 @@
+{
+  "application": {
+    "handle": "ru.beeline.dol",
+    "version_name": "1.15.0",
+    "version_code": "273",
+    "uaid": "168D7FA80F30A9622E842D4C6690A99F98682F85",
+    "name": "\u0414\u0438\u043b\u0435\u0440\u041e\u043d\u043b\u0430\u0439\u043d",
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.beeline.dol.apk",
+    "checksum": "78cdd62a3aed91a50597865c4434982ceb768a704f561cdb232192a244dee2bd"
+  },
+  "trackers": []
+}

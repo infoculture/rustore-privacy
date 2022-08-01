@@ -1,0 +1,32 @@
+{
+  "application": {
+    "handle": "ru.bank_hlynov.xbank",
+    "version_name": "3.2.5",
+    "version_code": "176",
+    "uaid": "946250D5691635099E053140215D7D6CEB45F5F0",
+    "name": "\u0425\u043b\u044b\u043d\u043e\u0432",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CONTACTS",
+      "android.permission.USE_FINGERPRINT",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.bank_hlynov.xbank.apk",
+    "checksum": "edb27a36ab922164c604583d0f31426366a49f4d946838d97d32acc8ecd14bdf"
+  },
+  "trackers": [
+    {
+      "name": "Scandit",
+      "id": 84
+    }
+  ]
+}

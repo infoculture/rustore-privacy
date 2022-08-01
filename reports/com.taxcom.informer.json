@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "com.taxcom.informer",
+    "version_name": "3.1.1",
+    "version_code": "36",
+    "uaid": "51290995003699A21E861EEE4F5DC26C9B642E82",
+    "name": "\u0422\u0430\u043a\u0441\u043a\u043e\u043c \u0418\u043d\u0444\u043e\u0440\u043c\u0435\u0440",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.taxcom.informer.permission.C2D_MESSAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.taxcom.informer.apk",
+    "checksum": "5c1c383c00c82cb3317d51d811c65f0acc68a435321dbeb4a033707f10aeb4cc"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

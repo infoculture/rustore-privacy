@@ -1,0 +1,72 @@
+{
+  "application": {
+    "handle": "ru.dobro",
+    "version_name": "1.3.0",
+    "version_code": "21",
+    "uaid": "0C317D421B28746E9937669544C793C07657829F",
+    "name": "\u0414\u041e\u0411\u0420\u041e.\u0420\u0424",
+    "permissions": [
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.USE_CREDENTIALS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "ru.dobro.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.htc.launcher.permission.READ_SETTINGS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.dobro.apk",
+    "checksum": "06d4abcad7dd4fd3132210713006ca0a18d686c751f028455b6637d77bd3b721"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

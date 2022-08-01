@@ -1,0 +1,41 @@
+{
+  "application": {
+    "handle": "ru.godville.android",
+    "version_name": "8.2.2s",
+    "version_code": "842",
+    "uaid": "BF6AED57BEED5A35BB6E73A238F735569D0DFDF8",
+    "name": "\u0413\u043e\u0434\u0432\u0438\u043b\u043b\u044c",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.INSTALL_PACKAGES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.BILLING",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_BIOMETRIC",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.REQUEST_INSTALL_PACKAGES"
+    ],
+    "libraries": [
+      "com.sec.android.app.multiwindow"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.godville.android.apk",
+    "checksum": "1eea8f60a7af4e3418169bd9483ddcf2081618c2be31d0a2ee8b4d701f0b062e"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

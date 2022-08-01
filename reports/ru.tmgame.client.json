@@ -1,0 +1,29 @@
+{
+  "application": {
+    "handle": "ru.tmgame.client",
+    "version_name": "703",
+    "version_code": "176",
+    "uaid": "DA52E97E8515226ABB9D2D2C6677E052302147C7",
+    "name": "TeknoMagic",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.tmgame.client.apk",
+    "checksum": "d67a8291581d664b5e187289005ceb3c461bb923b9b469af500c2be7347e4b5a"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    }
+  ]
+}

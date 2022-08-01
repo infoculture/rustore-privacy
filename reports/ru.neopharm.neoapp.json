@@ -1,0 +1,28 @@
+{
+  "application": {
+    "handle": "ru.neopharm.neoapp",
+    "version_name": "3.5.0",
+    "version_code": "16",
+    "uaid": "C2BCBB85B48B81EAA01439AD9AB20DE5E97A675C",
+    "name": "\u041d\u0415\u041e\u0424\u0410\u0420\u041c",
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "com.google.android.maps",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.neopharm.neoapp.apk",
+    "checksum": "74935b677d7981c20336ae47ea8a948d950ccfe281426273e2f1684ab44bf369"
+  },
+  "trackers": []
+}

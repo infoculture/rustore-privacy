@@ -1,0 +1,24 @@
+{
+  "application": {
+    "handle": "air.com.gs.aqualife3d.android",
+    "version_name": "1.6.6",
+    "version_code": "81006006",
+    "uaid": "ED2E1341C836BB0A1EAE59DA4BEA7B0A64AAE95B",
+    "name": "AquaLife 3D",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/air.com.gs.aqualife3d.android.apk",
+    "checksum": "cf9864ec4fd4271c87552c9d19b501c2b9e407038f7cbca4d8a011a7cda487e4"
+  },
+  "trackers": [
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

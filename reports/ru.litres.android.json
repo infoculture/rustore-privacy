@@ -1,0 +1,75 @@
+{
+  "application": {
+    "handle": "ru.litres.android",
+    "version_name": "3.56.0-nash",
+    "version_code": "720220604",
+    "uaid": "26B510AEDF0511593557AA398B34347A7B7A70A5",
+    "name": "\u041a\u043d\u0438\u0433\u0438!",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "ru.litres.android.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.WRITE_BILLING"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.litres.android.apk",
+    "checksum": "f72fd376b0a8939cfcc7c4491cab9eb7e51f686845e56177db5633482c45015e"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

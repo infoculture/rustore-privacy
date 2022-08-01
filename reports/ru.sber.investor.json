@@ -1,0 +1,50 @@
+{
+  "application": {
+    "handle": "ru.sber.investor",
+    "version_name": "7.5.4.21",
+    "version_code": "55",
+    "uaid": "7875750377C47210351C02F2A3930240CF6C4120",
+    "name": "\u0418\u043d\u0432\u0435\u0441\u0442\u043e\u0440",
+    "permissions": [
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.READ_PHONE_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "ru.sber.investor.permission.pushserver.RECEIVE",
+      "android.permission.READ_APP_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "ru.sber.investor.permission.C2D_MESSAGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.WAKE_LOCK",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.sber.investor.apk",
+    "checksum": "9767273dc7a626d4315a82f93928f34ca671a9cd198ed961e3ea71d8bcdfee19"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "application": {
+    "handle": "ru.boloid.lifenews",
+    "version_name": "4.4.3",
+    "version_code": "145",
+    "uaid": "6C329F7CAE8072CE0AED0F56978204113B75FF88",
+    "name": "LiveCorr",
+    "permissions": [
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECORD_AUDIO",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "ru.boloid.lifenews.permission.C2D_MESSAGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.INTERNET",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.htc.launcher.permission.READ_SETTINGS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.boloid.lifenews.apk",
+    "checksum": "7a5630972928124dcf2cdabb159e319d2696a1751da824ab4cece7f8f302ef19"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Brightcove",
+      "id": 178
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

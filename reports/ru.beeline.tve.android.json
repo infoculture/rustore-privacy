@@ -1,0 +1,65 @@
+{
+  "application": {
+    "handle": "ru.beeline.tve.android",
+    "version_name": "12.0.1",
+    "version_code": "120001",
+    "uaid": "2240702BC7129D5EA14AB7B0A68C66A681D43A53",
+    "name": "\u0431\u0438\u043b\u0430\u0439\u043d \u0442\u0432",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.beeline.tve.android.apk",
+    "checksum": "7f5dc9fb7c764fff6088a6e8f7068d13d14a509219dcfa9f2820bcbcc180c617"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

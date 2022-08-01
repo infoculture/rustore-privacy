@@ -1,0 +1,169 @@
+{
+  "application": {
+    "handle": "com.my.lts.ru",
+    "version_name": "5.1.0",
+    "version_code": "260525010",
+    "uaid": "35654FDA81529F126081C4742473DEE0D1FF410B",
+    "name": "Left to Survive",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.android.vending.BILLING",
+      "com.samsung.android.iap.permission.BILLING",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.my.lts.ru.apk",
+    "checksum": "1abd9b14ea5f29d4fd402402fdaea556a672553911d5d094be941dd736e515c6"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Ogury Presage",
+      "id": 34
+    },
+    {
+      "name": "Twitter MoPub",
+      "id": 35
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "ChartBoost",
+      "id": 53
+    },
+    {
+      "name": "Moat",
+      "id": 61
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Smaato",
+      "id": 83
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Fyber",
+      "id": 104
+    },
+    {
+      "name": "Inmobi",
+      "id": 106
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "PubNative",
+      "id": 183
+    },
+    {
+      "name": "HyprMX",
+      "id": 189
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Tapjoy",
+      "id": 199
+    },
+    {
+      "name": "Mintegral",
+      "id": 200
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "Verizon Ads",
+      "id": 320
+    },
+    {
+      "name": "maio by i-mobile",
+      "id": 322
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Mail.ru",
+      "id": 336
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    },
+    {
+      "name": "Snap Ad Kit",
+      "id": 433
+    }
+  ]
+}

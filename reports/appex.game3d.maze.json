@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "appex.game3d.maze",
+    "version_name": "1.5.5g",
+    "version_code": "6",
+    "uaid": "570B4DEAEA2D76FF117D1097519D6FCD434F5FCA",
+    "name": "Maze",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/appex.game3d.maze.apk",
+    "checksum": "bfdc64402a9762821eb8dfb258b72b0badc17a6c459fe2a1f9f146a4010ff7fb"
+  },
+  "trackers": []
+}

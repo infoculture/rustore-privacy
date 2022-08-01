@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "com.Maam.ru.Openthedoor",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "620C76155181A6C64A7B9E891DDD91B3EDF3F5C0",
+    "name": "\u041e\u0442\u043a\u0440\u043e\u0439 \u0414\u0432\u0435\u0440\u044c. K\u0432\u0435\u0441\u0442 \u0434\u043b\u044f \u0434\u0435\u0442\u0435\u0439",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.Maam.ru.Openthedoor.apk",
+    "checksum": "2f422238ca9721b14e10e5e5e511fad2301f1fa041f8220048cd7dcf495ef90e"
+  },
+  "trackers": []
+}

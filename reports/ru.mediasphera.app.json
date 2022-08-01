@@ -1,0 +1,62 @@
+{
+  "application": {
+    "handle": "ru.mediasphera.app",
+    "version_name": "1.0",
+    "version_code": "100",
+    "uaid": "EA4E891375B2252DAE04C5D87F4D8F21A9C0FD38",
+    "name": "Media Sphera",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.USE_FINGERPRINT",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.VIBRATE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "ru.mediasphera.app.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.READ_APP_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.NFC"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.mediasphera.app.apk",
+    "checksum": "5ca110b529421f3afceb143d195b5bc343e955aa94bfb79031e51ed74ce8bd2e"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

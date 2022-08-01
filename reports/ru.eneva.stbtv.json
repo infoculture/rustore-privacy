@@ -1,0 +1,21 @@
+{
+  "application": {
+    "handle": "ru.eneva.stbtv",
+    "version_name": "1.07",
+    "version_code": "107",
+    "uaid": "316C96AE8CD746EDF0C1A1CD63447B1B69AC8B49",
+    "name": "\u0415\u043d\u0435\u0432\u0430 \u0422\u0412",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.eneva.stbtv.apk",
+    "checksum": "c4e71330597aa43b1a32795b580bd8770c6ef77a6277e962a8b1eebd10c6e709"
+  },
+  "trackers": []
+}

@@ -1,0 +1,29 @@
+{
+  "application": {
+    "handle": "ru.gazprombank.broker",
+    "version_name": "1.8.2.29",
+    "version_code": "103",
+    "uaid": "E08CCB8245876DFB88E9D493133C67AC0A8CFA0B",
+    "name": "\u0413\u041f\u0411 \u0411\u0440\u043e\u043a\u0435\u0440",
+    "permissions": [
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.USE_FINGERPRINT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.gazprombank.broker.apk",
+    "checksum": "264d2b0e9d754da115a62903c571dd7265a690c06461ebc47c180cb6a6929c0d"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

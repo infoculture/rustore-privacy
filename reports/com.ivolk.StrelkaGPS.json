@@ -1,0 +1,41 @@
+{
+  "application": {
+    "handle": "com.ivolk.StrelkaGPS",
+    "version_name": "22.07.1s",
+    "version_code": "22071",
+    "uaid": "B3E7A1EF5F22C13AA7E526C2346DB0E6AECAFFF2",
+    "name": "\u0421\u0442\u0440\u0435\u043b\u043a\u0430",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.BLUETOOTH",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.QUICKBOOT_POWERON",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.android.vending.BILLING",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.INTERNET",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH_CONNECT"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.ivolk.StrelkaGPS.apk",
+    "checksum": "580a2751debc51396a21622979ee2aad6739d9cd4ae714bc563bac31868fe93e"
+  },
+  "trackers": []
+}

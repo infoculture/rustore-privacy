@@ -1,0 +1,61 @@
+{
+  "application": {
+    "handle": "ru.megafon.mlk",
+    "version_name": "4.34.1",
+    "version_code": "42400148",
+    "uaid": "F2D2A5A7E1B3D8C02844875A0A115814B551A29A",
+    "name": "\u041c\u0435\u0433\u0430\u0424\u043e\u043d",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.megafon.mlk.apk",
+    "checksum": "b75f8aad238e6cec33ba95c702a45c26c1d8806043f48138d16961575f9cf2f6"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Mozilla Telemetry",
+      "id": 221
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    }
+  ]
+}

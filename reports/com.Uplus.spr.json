@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "com.Uplus.spr",
+    "version_name": "1.1",
+    "version_code": "5",
+    "uaid": "475CE073025E4760E1C160C11C4DF5DB1C2A801E",
+    "name": "spr",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.Uplus.spr.apk",
+    "checksum": "4de83bacc52fff12006b72d9204a910e6b5f564f88b3504fd5a51b54b7ebe609"
+  },
+  "trackers": []
+}

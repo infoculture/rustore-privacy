@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "com.Uplus.Suffix",
+    "version_name": "1.1",
+    "version_code": "4",
+    "uaid": "08A9E222064C9EE623CA24AB26A816263D153452",
+    "name": "Suffix",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.Uplus.Suffix.apk",
+    "checksum": "b6fe7e586f0fca27eeb503dbaea73501aa8abd43d2dd4102d315d8d1a0d3a90c"
+  },
+  "trackers": []
+}

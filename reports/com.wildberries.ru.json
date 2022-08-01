@@ -1,0 +1,69 @@
+{
+  "application": {
+    "handle": "com.wildberries.ru",
+    "version_name": "4.7.1000",
+    "version_code": "60506",
+    "uaid": "9AC5A524DEDEE2601687832B8826103ABFF73969",
+    "name": "Wildberries",
+    "permissions": [
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.BLUETOOTH",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.CAMERA",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.READ_LOGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.FOREGROUND_SERVICE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE"
+    ],
+    "libraries": [
+      "android.test.runner",
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.wildberries.ru.apk",
+    "checksum": "d4ea9240c05ecb0db9592bd71714be64e5ee318f8e929ed91fa80127d34f9c35"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

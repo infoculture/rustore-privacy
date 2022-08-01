@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "ru.itserebra.bloki",
+    "version_name": "1007",
+    "version_code": "5",
+    "uaid": "3FD96666D7155A1FDFAA0014801FD8B28EAC7548",
+    "name": "\u0426\u0432\u0435\u0442\u043d\u044b\u0435 \u0431\u043b\u043e\u043a\u0438",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.itserebra.bloki.apk",
+    "checksum": "92c8e62a064387ae447a793bb5019ebc21359e42976c09f9d798e0f7af40fb08"
+  },
+  "trackers": []
+}

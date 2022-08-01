@@ -1,0 +1,37 @@
+{
+  "application": {
+    "handle": "com.mesus.android",
+    "version_name": "0.0.52",
+    "version_code": "52",
+    "uaid": "2C57DEAE8355D88E7D194B2C6EA476696BBB7246",
+    "name": "MES \u0423\u0421",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.mesus.android.apk",
+    "checksum": "e1b50845190b7444bfee5c34861c043e8cf4fe2ac47bdaf1a4752f9a445cce9a"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

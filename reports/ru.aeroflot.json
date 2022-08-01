@@ -1,0 +1,59 @@
+{
+  "application": {
+    "handle": "ru.aeroflot",
+    "version_name": "4.11.0.858",
+    "version_code": "1021141100",
+    "uaid": "5881BD9C6E5A88B2F99D16C5729DE55EE260428F",
+    "name": "Aeroflot",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.NFC",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.FLASHLIGHT",
+      "ru.aeroflot.permission.pushserver.RECEIVE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.BLUETOOTH"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.aeroflot.apk",
+    "checksum": "47a9399e0c08afe61e5b2f6613352dbdeecb319b8163b774b4ae60aea2cc3840"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Locuslabs",
+      "id": 60
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    }
+  ]
+}

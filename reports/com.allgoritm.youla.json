@@ -1,0 +1,101 @@
+{
+  "application": {
+    "handle": "com.allgoritm.youla",
+    "version_name": "4.108.1 (a108c1eb08)",
+    "version_code": "11000",
+    "uaid": "A3285BC2FA4E6A50FBC278CED8B32E60B378D950",
+    "name": "\u042e\u043b\u0430",
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.NFC",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.provider.Telephony.SMS_RECEIVED",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.CALL_PHONE",
+      "com.allgoritm.cp",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.READ_PHONE_NUMBERS",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.VIBRATE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.BLUETOOTH",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.allgoritm.youla.apk",
+    "checksum": "ad5eef77e7cb0a79468549b38923bd76e50558b7b14bd2b241ed01e8c98b63e1"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

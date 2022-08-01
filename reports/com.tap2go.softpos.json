@@ -1,0 +1,27 @@
+{
+  "application": {
+    "handle": "com.tap2go.softpos",
+    "version_name": "3.4.09",
+    "version_code": "3409",
+    "uaid": "94A5FA41D82425709A5ACACC5D9B2C78952EFFA4",
+    "name": "tap2go",
+    "permissions": [
+      "android.permission.NFC",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.tap2go.softpos.apk",
+    "checksum": "f3f13b7466b30a3aae43830e02105b321dc149cb87493ca21ca91f179d0f97cf"
+  },
+  "trackers": []
+}

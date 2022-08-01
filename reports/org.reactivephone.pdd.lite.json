@@ -1,0 +1,116 @@
+{
+  "application": {
+    "handle": "org.reactivephone.pdd.lite",
+    "version_name": "4.6.6.1",
+    "version_code": "207",
+    "uaid": "2BBBBD4B101A0AF4961981986B36F8AB31BF5FB4",
+    "name": "\u042d\u043a\u0437\u0430\u043c\u0435\u043d \u041f\u0414\u0414",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "org.reactivephone.pdd.lite.permission.C2D_MESSAGE",
+      "com.android.vending.BILLING",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.sec.android.iap.permission.BILLING",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "huawei.android.permission.HW_SIGNATURE_OR_SYSTEM",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.SECURITY_ACTIVITY",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/org.reactivephone.pdd.lite.apk",
+    "checksum": "fbf8ea8fb3c5eb67240c1862cf9672f4df28f84accbdda0fd713fca56653d0bd"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

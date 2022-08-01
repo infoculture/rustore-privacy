@@ -1,0 +1,56 @@
+{
+  "application": {
+    "handle": "co.kalitero.coman.app",
+    "version_name": "1.4.1",
+    "version_code": "1655735246",
+    "uaid": "EEF7F59EDB88C5AF78B4BBE19434B65B678AA570",
+    "name": "coman",
+    "permissions": [
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.INTERNET",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.sec.android.provider.badge.BadgeProvider",
+      "android.permission.USE_FINGERPRINT",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.READ_APP_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.USE_BIOMETRIC"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/co.kalitero.coman.app.apk",
+    "checksum": "30dec04ced515b6d55667c2a3998ad141d65b5d219a61a12581bec22327cbccb"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    }
+  ]
+}

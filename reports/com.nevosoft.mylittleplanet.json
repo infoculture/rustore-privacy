@@ -1,0 +1,112 @@
+{
+  "application": {
+    "handle": "com.nevosoft.mylittleplanet",
+    "version_name": "11.82",
+    "version_code": "11823000",
+    "uaid": "2687D67E2C2C31D301FCB3B7EBCA8046455C2897",
+    "name": "Gemmy Lands",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.nevosoft.mylittleplanet.apk",
+    "checksum": "e8e4788e37c1dec6bdf982c375f5758cf91d225ea5f9ea0f1e4f60d14d89595a"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Twitter MoPub",
+      "id": 35
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Fyber",
+      "id": 104
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Tapjoy",
+      "id": 199
+    },
+    {
+      "name": "Mintegral",
+      "id": 200
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "application": {
+    "handle": "tech.zappa.coupons",
+    "version_name": "1.10",
+    "version_code": "10",
+    "uaid": "CCD259A3567584A7DC70481F2118C24ACD8625A6",
+    "name": "\u0418\u043d\u0444\u043e\u041a\u0440\u0443\u0433",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/tech.zappa.coupons.apk",
+    "checksum": "99d411a01943f0986d303ea5fdff8e569101cbd39afc50603703eefc369f64b1"
+  },
+  "trackers": []
+}

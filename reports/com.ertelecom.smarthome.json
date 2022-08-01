@@ -1,0 +1,85 @@
+{
+  "application": {
+    "handle": "com.ertelecom.smarthome",
+    "version_name": "6.16.4",
+    "version_code": "6160401",
+    "uaid": "66930016E49CE630F94A0B56FE524B57464E3D0A",
+    "name": "\u0423\u043c\u043d\u044b\u0439 \u0414\u043e\u043c.ru",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.POST_NOTIFICATIONS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.ertelecom.smarthome.apk",
+    "checksum": "1a280249d98ac057c651a0316108b86db4d0f8324ea1f4a347aefac2e1565ad2"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Pushwoosh",
+      "id": 39
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    }
+  ]
+}

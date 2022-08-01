@@ -1,0 +1,112 @@
+{
+  "application": {
+    "handle": "com.breackneck.mysecondprojectmoneybox",
+    "version_name": "3.0",
+    "version_code": "5",
+    "uaid": "4C4C72B94D6D6273B1552D02605929710512E8AB",
+    "name": "SimpleSave",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.breackneck.mysecondprojectmoneybox.apk",
+    "checksum": "de31de59934532d38f289bc5b4d595e44bccd77e5cbb68d22ca50847fe4dfe57"
+  },
+  "trackers": [
+    {
+      "name": "Ogury Presage",
+      "id": 34
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Appodeal",
+      "id": 162
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "Criteo",
+      "id": 170
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "Appodeal Stack",
+      "id": 368
+    },
+    {
+      "name": "BidMachine",
+      "id": 370
+    }
+  ]
+}

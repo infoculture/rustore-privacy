@@ -1,0 +1,29 @@
+{
+  "application": {
+    "handle": "com.maningame.fanwars.rs",
+    "version_name": "0.99.21",
+    "version_code": "48",
+    "uaid": "BF1B5E14EA097CBEA740FF7253EC6C224FED2281",
+    "name": "\u0411\u0438\u0442\u0432\u0430 \u0437\u0430 \u0440\u0430\u0439\u043e\u043d",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.maningame.fanwars.rs.apk",
+    "checksum": "0ba6e51587e11c949f7f74c7aba16399773a6c327db0e588d49f9907afa310fa"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

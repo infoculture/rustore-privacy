@@ -1,0 +1,32 @@
+{
+  "application": {
+    "handle": "bel.argun.candycoloration",
+    "version_name": "2.2.1",
+    "version_code": "27",
+    "uaid": "84901B00CA7E8D5A03E6C42118E51D73E41C13D7",
+    "name": "Puzzle of life",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/bel.argun.candycoloration.apk",
+    "checksum": "4583498077e64afdc3ff991a2141f95c97cff3ede2e5ede28abc38f88d5568ad"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

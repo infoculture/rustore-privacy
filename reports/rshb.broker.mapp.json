@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "rshb.broker.mapp",
+    "version_name": "1.35.1-production",
+    "version_code": "3878",
+    "uaid": "F1462EF90898580595A377FE92E619D21EF58E61",
+    "name": "\u0420\u0421\u0425\u0411-\u0411\u0420\u041e\u041a\u0415\u0420",
+    "permissions": [
+      "com.sec.android.provider.badge.permission.READ",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.INTERNET",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.POST_NOTIFICATIONS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.USE_FINGERPRINT",
+      "com.android.vending.CHECK_LICENSE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/rshb.broker.mapp.apk",
+    "checksum": "650ac23e327174a8e6857634d3f31201397d1f72e6f41b46ac1a088a088d8555"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

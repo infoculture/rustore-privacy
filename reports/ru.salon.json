@@ -1,0 +1,76 @@
+{
+  "application": {
+    "handle": "ru.salon",
+    "version_name": "2.64",
+    "version_code": "1290",
+    "uaid": "612A50D9492B72E7CBE79BF8C69D984786AA9AF7",
+    "name": "\u041c\u043e\u0439 \u041f\u0440\u043e\u0444\u0438",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "ru.salon.permission.READ_PROVIDER",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.QUICKBOOT_POWERON",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.google.android.apps.photos.permission.GOOGLE_PHOTOS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_CALENDAR",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.WRITE_CONTACTS",
+      "ru.salon.permission.C2D_MESSAGE",
+      "ru.salon.smsautomator.permission.SCHEDULE_SMS",
+      "com.android.alarm.permission.SET_ALARM",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_PROFILE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.salon.apk",
+    "checksum": "e1192fae9ada6e8bdc699e935345dbcf779b7103f62a5e026a524c2c5d75bad1"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "application": {
+    "handle": "ru.yandex.yandexmaps",
+    "version_name": "10.8.2",
+    "version_code": "11110600",
+    "uaid": "E3FC9F84D491878BA8BD7C63FC2FEEBAC69DF224",
+    "name": "Yandex\u00a0Maps",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "com.android.vending.BILLING",
+      "android.permission.RECORD_AUDIO",
+      "ru.yandex.yandexmaps.permission.READ_TRANSFER",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.yandex.permission.READ_CREDENTIALS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "androidx.car.app.ACCESS_SURFACE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACTIVITY_RECOGNITION",
+      "androidx.car.app.NAVIGATION_TEMPLATES",
+      "com.google.android.gms.permission.CAR_VENDOR_EXTENSION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.yandex.permission.AM_COMMUNICATION",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_CALENDAR",
+      "android.permission.CAMERA",
+      "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+      "ru.yandex.yandexmaps.permission.PROCESS_PUSH_MSG",
+      "ru.yandex.yandexmaps.permission.PUSH_PROVIDER",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.REORDER_TASKS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.yandex.yandexmaps.apk",
+    "checksum": "556e82cc42280b75668d9a75d9ee1eaf3471871b74fc7758724445989927d3fe"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Schibsted",
+      "id": 30
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "com.e1c.MobileAccounting",
+    "version_name": "1.0.98",
+    "version_code": "1405",
+    "uaid": "F8C834AD2B6D774526AD196EC76594A3E11ED9B8",
+    "name": "1\u0421:\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0431\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u0438\u044f",
+    "permissions": [
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.USE_BIOMETRIC",
+      "com.android.vending.BILLING",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.e1c.MobileAccounting.apk",
+    "checksum": "8fac9f56c12e8e65f181416339e3056524874618f061749837cc833074835785"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

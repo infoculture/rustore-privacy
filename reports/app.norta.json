@@ -1,0 +1,44 @@
+{
+  "application": {
+    "handle": "app.norta",
+    "version_name": "1.4.20-dev",
+    "version_code": "40104200",
+    "uaid": "68F587836C3350EF09311748938736B5760B47A7",
+    "name": "Norta",
+    "permissions": [
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH_CONNECT",
+      "android.permission.VIBRATE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.MANAGE_OWN_CALLS",
+      "android.permission.BLUETOOTH",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/app.norta.apk",
+    "checksum": "62fc0342d8fd7a3605eade1b92cefcd8a71c2542c2cc844610aa892291ad0cb4"
+  },
+  "trackers": []
+}

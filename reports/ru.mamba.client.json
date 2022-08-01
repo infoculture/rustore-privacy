@@ -1,0 +1,124 @@
+{
+  "application": {
+    "handle": "ru.mamba.client",
+    "version_name": "3.169.0 (15924)",
+    "version_code": "15924",
+    "uaid": "28B592EB6330DC5894072B3C56163BE259313208",
+    "name": "Mamba",
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.BILLING",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_APP_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.RECORD_AUDIO",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.VIBRATE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.WAKE_LOCK",
+      "android.provider.Telephony.SMS_RECEIVED",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.USE_BIOMETRIC",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.oppo.launcher.permission.READ_SETTINGS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.mamba.client.apk",
+    "checksum": "df5eb4a3da66866c2ee2b125f891ffef992448972875c3dee3e80cad53ca3037"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

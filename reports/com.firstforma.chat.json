@@ -1,0 +1,72 @@
+{
+  "application": {
+    "handle": "com.firstforma.chat",
+    "version_name": "4.23.624",
+    "version_code": "4236240",
+    "uaid": "BADEEED3FF200CDB349228A9DACE1E6D98C37BFE",
+    "name": "1F Mobile",
+    "permissions": [
+      "android.permission.BLUETOOTH",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.RAISED_THREAD_PRIORITY",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.MANAGE_OWN_CALLS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.PREVENT_POWER_KEY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "com.firstforma.chat.permission.C2D_MESSAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.firstforma.chat.apk",
+    "checksum": "bc4d8252a47622c5aa104c23f368397ad2412daca607c42b088f02ac0536e3b2"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "application": {
+    "handle": "ru.vseapteki",
+    "version_name": "4.4.0",
+    "version_code": "5112",
+    "uaid": "F419A4023B2B04574D43EE0C895DAD8637494FA7",
+    "name": "Vse Apteki",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_NUMBERS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_FINGERPRINT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.provider.Telephony.SMS_RECEIVED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy",
+      "androidx.camera.extensions.impl"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.vseapteki.apk",
+    "checksum": "1e204113e7df1abf4512e39daeeaf9e7276cdaad67eea2cef7dc6c6327f1a46c"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

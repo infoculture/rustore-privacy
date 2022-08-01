@@ -1,0 +1,65 @@
+{
+  "application": {
+    "handle": "ru.gosuslugi.culture",
+    "version_name": "1.0.25",
+    "version_code": "65",
+    "uaid": "D633B4777B5E47F19C3678B9D85AAE0ED5BF7E6D",
+    "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "ru.gosuslugi.culture.permission.PROCESS_PUSH_MSG",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.BLUETOOTH",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.RECORD_AUDIO",
+      "ru.gosuslugi.culture.permission.PUSH_PROVIDER",
+      "android.permission.SCHEDULE_EXACT_ALARM"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.gosuslugi.culture.apk",
+    "checksum": "4607711ba93d6d81d3ed34467af5e0ca886312f060f53d8febe25835e0be68ce"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

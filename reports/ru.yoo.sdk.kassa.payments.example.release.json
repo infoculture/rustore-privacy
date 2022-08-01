@@ -1,0 +1,36 @@
+{
+  "application": {
+    "handle": "ru.yoo.sdk.kassa.payments.example.release",
+    "version_name": "6.5.2",
+    "version_code": "6050200",
+    "uaid": "CBA21822C47F30495C0ADCA7A2D9FC1C0E06B7D6",
+    "name": "Demo mSDK",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.yoo.sdk.kassa.payments.example.release.apk",
+    "checksum": "05a8f926aef89757ae1bc5a873c1de5728085c2f71495995d8e0df20e7239d8b"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

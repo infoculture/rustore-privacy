@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "ru.zen.android",
+    "version_name": "22.7.1",
+    "version_code": "15369",
+    "uaid": "D35120CBAFA02E601B668E4E3046B9AFA017DCE2",
+    "name": "\u0414\u0437\u0435\u043d",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "com.yandex.zenkitpartnerconfig.permission.READ",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FLAG_GRANT_READ_URI_PERMISSION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.zen.android.apk",
+    "checksum": "8db8ec84bcf810625496fb9f9c01bc76d367728e8938482a17b04f13d382581d"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

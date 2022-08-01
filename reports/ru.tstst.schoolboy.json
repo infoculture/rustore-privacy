@@ -1,0 +1,37 @@
+{
+  "application": {
+    "handle": "ru.tstst.schoolboy",
+    "version_name": "1.8",
+    "version_code": "500160",
+    "uaid": "10A6B4CCF0737AC09289150B0A3BF5A117E1D242",
+    "name": "\u042f \u2014 \u0448\u043a\u043e\u043b\u044c\u043d\u0438\u043a",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.tstst.schoolboy.apk",
+    "checksum": "36816836aac6fe568d1c06f5224805b966f4acd4bd306b8b47518624c7cec3e7"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

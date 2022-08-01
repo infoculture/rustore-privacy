@@ -1,0 +1,106 @@
+{
+  "application": {
+    "handle": "ru.mail.search.electroscope",
+    "version_name": "1.63.0",
+    "version_code": "102",
+    "uaid": "0910969ECA0BC5C1A69B2C91B2B50D0769D137E1",
+    "name": "\u041c\u0430\u0440\u0443\u0441\u044f",
+    "permissions": [
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_TASKS",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_PHONE_NUMBERS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "com.hihonor.permission.MANAGE_FOLD_SCREEN_PRIVILEGED",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECORD_AUDIO",
+      "android.provider.Telephony.SMS_RECEIVED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.android.alarm.permission.SET_ALARM",
+      "android.permission.READ_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.REAL_GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.permission.sec.MDM.v2",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "ru.mail.search.electroscope.permission.PROCESS_PUSH_MSG",
+      "com.hihonor.permission.sec.MDM.v2",
+      "com.hihonor.permission.MANAGE_FOLD_SCREEN",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CAMERA",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "com.huawei.permission.sec.ACCESS_UDID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "ru.mail.search.electroscope.permission.PUSH_PROVIDER",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.BLUETOOTH_SCAN",
+      "com.huawei.permission.app.DOWNLOAD",
+      "android.permission.BLUETOOTH_CONNECT",
+      "com.hihonor.permission.sec.ACCESS_UDID",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.SET_ALARM",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.android.permission.GET_INSTALLED_APPS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "Manifest.permission.READ_CONTACTS",
+      "android.permission.BROADCAST_STICKY"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.mail.search.electroscope.apk",
+    "checksum": "a1e9ded2a416982add88d96757b240733fce469403dcbb4f38fdae7eda5aaf06"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

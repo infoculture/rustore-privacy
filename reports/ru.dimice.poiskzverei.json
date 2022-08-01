@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "ru.dimice.poiskzverei",
+    "version_name": "3.7",
+    "version_code": "83",
+    "uaid": "9020335FE87EDD85C75150D0BFF0F27E21B8CE63",
+    "name": "Pet search",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.dimice.poiskzverei.apk",
+    "checksum": "565017417259fbc5ed286390fb48cc93b20bb29784479655b9cfe6a24b18955e"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

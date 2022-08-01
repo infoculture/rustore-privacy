@@ -1,0 +1,42 @@
+{
+  "application": {
+    "handle": "com.playtox.mf.rustore",
+    "version_name": "2.0.565",
+    "version_code": "565",
+    "uaid": "4604F7B93B49192B3E73DBEC3396BFC59D57F3E9",
+    "name": "\u041c\u043e\u044f \u0424\u0435\u0440\u043c\u0430",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.playtox.mf.rustore.apk",
+    "checksum": "9f227dc3e76e5ea93f2aaee320d9e6dde8fae733b0e9180f3df1a0250fc7cafc"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

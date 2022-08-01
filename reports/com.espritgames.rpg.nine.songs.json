@@ -1,0 +1,79 @@
+{
+  "application": {
+    "handle": "com.espritgames.rpg.nine.songs",
+    "version_name": "3.0.1",
+    "version_code": "3",
+    "uaid": "4D7971AF77F205D5420F8D11BC97CC79F55559A0",
+    "name": "Fox Legends",
+    "permissions": [
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RESTART_PACKAGES",
+      "android.permission.BLUETOOTH",
+      "com.android.vending.BILLING",
+      "android.permission.REORDER_TASKS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.KILL_BACKGROUND_PROCESSES",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.REQUEST_INSTALL_PACKAGES"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.espritgames.rpg.nine.songs.apk",
+    "checksum": "3d7e25aa19060818058e52eecf7ce2190c797cef40351728bffbc11c7bda9b87"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Bugly",
+      "id": 190
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

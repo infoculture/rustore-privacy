@@ -1,0 +1,51 @@
+{
+  "application": {
+    "handle": "ru.rt.video.app.mobile.b2b",
+    "version_name": "1.3.2",
+    "version_code": "103200",
+    "uaid": "6103F3D0C28893A6331C620E0FAB80645A9BE8D7",
+    "name": "\u0411\u0438\u0437\u043d\u0435\u0441.\u0422\u0412",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NOTIFICATION_POLICY",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.rt.video.app.mobile.b2b.apk",
+    "checksum": "266889ba452b5f698b4ce2222a586de1ace081abddc09eb916907d3a141b0ba2"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

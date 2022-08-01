@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "ru.allsee.autocoach",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "FE667EE0A55F35129A5BF6531E289921DCC66EAB",
+    "name": "AutoCoach",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.allsee.autocoach.apk",
+    "checksum": "e40e11248690edce891df4f3b389f1319fed2dcafcdbc009d44554c04c4a1a13"
+  },
+  "trackers": []
+}

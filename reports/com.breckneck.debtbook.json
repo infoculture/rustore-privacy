@@ -1,0 +1,31 @@
+{
+  "application": {
+    "handle": "com.breckneck.debtbook",
+    "version_name": "1.1",
+    "version_code": "2",
+    "uaid": "DD68A7280E794651DBD1ED9ABA6E01AFEDDCC9C7",
+    "name": "Debt book",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.breckneck.debtbook.apk",
+    "checksum": "3ea0d267092e9f1b08ad3c201e2d3ab146a59d000b2bcb24a7b76353e40f94cd"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

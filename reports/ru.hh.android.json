@@ -1,0 +1,80 @@
+{
+  "application": {
+    "handle": "ru.hh.android",
+    "version_name": "6.70",
+    "version_code": "11146",
+    "uaid": "3097A6B02FD0309506CE0D5D16BE6F53C85523F9",
+    "name": "hh \u0440\u0430\u0431\u043e\u0442\u0430",
+    "permissions": [
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "ru.hh.android.permission.PUSH_PROVIDER",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "ru.hh.android.permission.C2D_MESSAGE",
+      "android.permission.READ_CALL_LOG",
+      "ru.hh.android.permission.PROCESS_PUSH_MSG",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.hh.android.apk",
+    "checksum": "5b66a4d3ffdead8a36c1fd12bc77ef68bdc37a8eafc5dd07a088c26a1bf6e044"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

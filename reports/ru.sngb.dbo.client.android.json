@@ -1,0 +1,41 @@
+{
+  "application": {
+    "handle": "ru.sngb.dbo.client.android",
+    "version_name": "0.218.0",
+    "version_code": "2022061701",
+    "uaid": "510D9CAA4627D690A2B645538BB20296DCA1035D",
+    "name": "SNGB",
+    "permissions": [
+      "oppo.permission.OPPO_COMPONENT_SAFE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_NUMBERS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.NFC",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.USE_FINGERPRINT"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sngb.dbo.client.android.apk",
+    "checksum": "1c280ccacebb7d2513f7e8d9a6f603af841f1553cfa5d0d3f75c22535b387dcf"
+  },
+  "trackers": [
+    {
+      "name": "HyperTrack",
+      "id": 77
+    }
+  ]
+}

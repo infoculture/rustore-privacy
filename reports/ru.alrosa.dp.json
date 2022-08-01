@@ -1,0 +1,41 @@
+{
+  "application": {
+    "handle": "ru.alrosa.dp",
+    "version_name": "1.46.65",
+    "version_code": "65",
+    "uaid": "555F2988B9FCB18CE9D389581E1723DF181E8640",
+    "name": "\u042d\u041f \u0410\u041b\u0420\u041e\u0421\u0410",
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.USE_FINGERPRINT",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.READ_INTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.alrosa.dp.apk",
+    "checksum": "05cd0aaa3f56d620c90237a840c8d8aa6057f36400202af460d91d48b08df926"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

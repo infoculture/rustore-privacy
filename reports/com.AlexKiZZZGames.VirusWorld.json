@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "com.AlexKiZZZGames.VirusWorld",
+    "version_name": "1.030",
+    "version_code": "18",
+    "uaid": "3728C8F40357666B9135A816252C30A6CA18F2FC",
+    "name": "Dr. Marioldo's Virus World",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.AlexKiZZZGames.VirusWorld.apk",
+    "checksum": "24030cd7ca2a6e1ea1608faf463ff75ac55441116f278c436c5e176729a102c9"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

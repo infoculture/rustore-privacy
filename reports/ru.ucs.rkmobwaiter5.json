@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "ru.ucs.rkmobwaiter5",
+    "version_name": "4.5.19",
+    "version_code": "339",
+    "uaid": "A95B9268C78BEBE2BB4688E814DABAD205E89A8A",
+    "name": "r_k MobWaiter 5",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.SCHEDULE_EXACT_ALARM"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.ucs.rkmobwaiter5.apk",
+    "checksum": "e5037ec3905ddfd9e54ee58561cdd3af24c8431cb5af5dee7ecb7d691062af9e"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

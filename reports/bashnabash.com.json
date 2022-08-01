@@ -1,0 +1,32 @@
+{
+  "application": {
+    "handle": "bashnabash.com",
+    "version_name": "1.0.17",
+    "version_code": "17",
+    "uaid": "5842EDB25235F018423E86D0538865AEEAA40637",
+    "name": "\u0411\u0410\u0428-\u041d\u0410-\u0411\u0410\u0428",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/bashnabash.com.apk",
+    "checksum": "1c584ac256c066259fa61d6a70030373b5ab634b0144d35a9d3d76e141b0650f"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

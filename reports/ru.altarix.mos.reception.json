@@ -1,0 +1,46 @@
+{
+  "application": {
+    "handle": "ru.altarix.mos.reception",
+    "version_name": "4.21.3",
+    "version_code": "212",
+    "uaid": "D10A813063B991BAA3734276DC20C4155C353F84",
+    "name": "\u041d\u0430\u0448 \u0433\u043e\u0440\u043e\u0434",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permissioms.WRITE_DATABASE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permissions.READ_DATABASE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.google.android.apps.photos.permission.GOOGLE_PHOTOS",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.altarix.mos.reception.apk",
+    "checksum": "392269eebeff98381acd3b393c7fe768e815e8a044064b712e2c538ced7e6f56"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

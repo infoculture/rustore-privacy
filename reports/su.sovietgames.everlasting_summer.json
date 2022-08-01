@@ -1,0 +1,23 @@
+{
+  "application": {
+    "handle": "su.sovietgames.everlasting_summer",
+    "version_name": "1.6",
+    "version_code": "1652091982",
+    "uaid": "7F21C9ACC2109A5DED3912A721F424C849ABA1D0",
+    "name": "Everlasting Summer",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.android.vending.BILLING",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/su.sovietgames.everlasting_summer.apk",
+    "checksum": "b70d48f7801bb19f2a1c43008bd4aa530be20a9af72bd30dddaac7c468d5f2b7"
+  },
+  "trackers": []
+}

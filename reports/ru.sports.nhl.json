@@ -1,0 +1,90 @@
+{
+  "application": {
+    "handle": "ru.sports.nhl",
+    "version_name": "5.0.7",
+    "version_code": "4112",
+    "uaid": "AE3655AFF5701CAEB625AB99854DC8BF3489A859",
+    "name": "\u041d\u0425\u041b",
+    "permissions": [
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.android.vending.BILLING",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CALENDAR",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sports.nhl.apk",
+    "checksum": "2fdedcbc3743d74a06f2a08ef9bc491b80dc68926d07bb1af7860600ba2c7d44"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Snowplow",
+      "id": 108
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "com.zigzag_mobile.skorolek",
+    "version_name": "121",
+    "version_code": "459",
+    "uaid": "4C8BA0FE6DE15296760177DB4F568721893CB1B6",
+    "name": "\u0410\u043a\u0446\u0438\u0438 \u0432\u0441\u0435\u0445 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.zigzag_mobile.skorolek.apk",
+    "checksum": "d47ca890f62fec07eded418fbe8e0c0d3ba0978eae5c1518cb458ad67d56117a"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

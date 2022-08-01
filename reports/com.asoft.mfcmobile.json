@@ -1,0 +1,45 @@
+{
+  "application": {
+    "handle": "com.asoft.mfcmobile",
+    "version_name": "1.0.1",
+    "version_code": "10001",
+    "uaid": "6C75C94BAD2D212420B804F3984EA12B760DD05B",
+    "name": "\u041c\u0424\u042621",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.BLUETOOTH",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH_ADMIN"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.asoft.mfcmobile.apk",
+    "checksum": "09eca63fed401d746741d86b676f1a7d8bc9a9b80a2ed22b85e9453a158ef3e1"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Flipper",
+      "id": 392
+    }
+  ]
+}

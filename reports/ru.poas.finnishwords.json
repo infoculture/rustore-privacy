@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.finnishwords",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "DAF1074DE7DE01AB3ED1DC8510FCD1FB315359A6",
+    "name": "Learn Finnish",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.VIBRATE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.finnishwords.apk",
+    "checksum": "4e8b7c80e0c627e66b33b2d9c83c070fb7999179c34009216c8618ec071aafc7"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

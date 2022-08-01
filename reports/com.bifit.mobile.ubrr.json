@@ -1,0 +1,42 @@
+{
+  "application": {
+    "handle": "com.bifit.mobile.ubrr",
+    "version_name": "32.0.65",
+    "version_code": "32000065",
+    "uaid": "FF35235945C06513CF2C2283EB40A87C24DADBB3",
+    "name": "\u0423\u0411\u0420\u0438\u0420 Pro",
+    "permissions": [
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.bifit.mobile.ubrr.permission.C2D_MESSAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "android.permission.USE_SIP",
+      "android.permission.INTERNET",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.bifit.mobile.ubrr.apk",
+    "checksum": "eff88ad52e5de7a4b9b76a9cee83ce920b88f53677cf8b396fa43f2ce66fd045"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

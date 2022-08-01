@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "ru.beeline.family",
+    "version_name": "5.7.1",
+    "version_code": "57100",
+    "uaid": "18B2ED124CFF579437F1BA99F650BEB7EBBDF876",
+    "name": "\u041b\u043e\u043a\u0430\u0442\u043e\u0440",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.PACKAGE_USAGE_STATS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.beeline.family.apk",
+    "checksum": "c702a5f4e1b9775a2bbb41fa949f7609049810e7cebdd9d26120dc766250d6e8"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

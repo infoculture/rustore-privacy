@@ -1,0 +1,71 @@
+{
+  "application": {
+    "handle": "media.worldpotatoco",
+    "version_name": "1.1",
+    "version_code": "11",
+    "uaid": "75F8A453DCA756B6361F8236560698A2A99B3FF8",
+    "name": "\u041b\u0443\u043a\u043e\u0432\u043e\u0434\u044b",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "android.test.runner"
+    ]
+  },
+  "apk": {
+    "path": "apks/media.worldpotatoco.apk",
+    "checksum": "4c2361c913e637c1f14956c01828d8a6258a2a27ba6d2e8a2da1b2399487cab8"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "ATInternet",
+      "id": 31
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Countly",
+      "id": 122
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

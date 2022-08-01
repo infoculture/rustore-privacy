@@ -1,0 +1,56 @@
+{
+  "application": {
+    "handle": "com.alxsakh.corp",
+    "version_name": "3.5.8",
+    "version_code": "175",
+    "uaid": "B1660482104094468E2C0121DAB7AFC6BA488BE5",
+    "name": "\u041a\u0430\u0431\u0438\u043d\u0435\u0442 \u041b\u041c",
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_BIOMETRIC",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.android.vending.CHECK_LICENSE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.INTERNET",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.WAKE_LOCK",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.alxsakh.corp.apk",
+    "checksum": "5370699dc861d8cd0c3a24fd331cccab61e1de19e20560700c2b4a5f39d240fa"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "application": {
+    "handle": "ru.mymove.app",
+    "version_name": "1.4.6",
+    "version_code": "46",
+    "uaid": "883C47F58C9C680E90667E5D46AD8244313703BC",
+    "name": "MyMove",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "com.android.vending.BILLING"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.mymove.app.apk",
+    "checksum": "f7fcaf2535a84c019f20ab63205cfce30a47c0177a7a447dbe90b53bce4c5bb2"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "application": {
+    "handle": "ru.opentrainer.app",
+    "version_name": "2.11.0 (323)",
+    "version_code": "323",
+    "uaid": "1A942BA46747547985D8CCACA8FC355C3485061C",
+    "name": "\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.BILLING"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.opentrainer.app.apk",
+    "checksum": "9e9be84b9458c32bab300925e276e327bc9e57b419477aee7d7b7bc76a01652b"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Dynatrace",
+      "id": 137
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

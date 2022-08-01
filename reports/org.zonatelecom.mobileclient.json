@@ -1,0 +1,70 @@
+{
+  "application": {
+    "handle": "org.zonatelecom.mobileclient",
+    "version_name": "3.0.5",
+    "version_code": "421030005",
+    "uaid": "0F395F5D441DB5412B37E6D294F65E1B6992D5D4",
+    "name": "Zonatelecom",
+    "permissions": [
+      "android.permission.READ_PHONE_NUMBERS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WRITE_CONTACTS",
+      "org.zonatelecom.mobileclient.permission.PROCESS_PUSH_MSG",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BLUETOOTH",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.READ_CONTACTS",
+      "org.zonatelecom.mobileclient.permission.PUSH_PROVIDER",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.BLUETOOTH_CONNECT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.MANAGE_OWN_CALLS"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/org.zonatelecom.mobileclient.apk",
+    "checksum": "709aa7e2f0d0a1ba1679cc23ec2939ca55a5a46f56b5f5d4c3b920990ef276d7"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

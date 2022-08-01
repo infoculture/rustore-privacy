@@ -1,0 +1,31 @@
+{
+  "application": {
+    "handle": "com.revisorlab.vms.eyecont",
+    "version_name": "2.6",
+    "version_code": "32",
+    "uaid": "BD35DBC57EB575BECF4AD7F0CE9C523F7604C318",
+    "name": "EYECONT",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.revisorlab.vms.eyecont.apk",
+    "checksum": "087acf631c389864d8ac7c9a2c955f280098ae057723347d3db518052d3b4983"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

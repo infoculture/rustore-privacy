@@ -1,0 +1,117 @@
+{
+  "application": {
+    "handle": "com.adaptech.gymup",
+    "version_name": "10.73",
+    "version_code": "146",
+    "uaid": "5D5C5655D0DE2C8FBDEF90BED14BE25DABF4622A",
+    "name": "GymUp",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.adaptech.gymup.apk",
+    "checksum": "de494c8acaed9d144023eb4f8864b4311c230a7f309cdc29d53e7bf2d5e3e607"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Ogury Presage",
+      "id": 34
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Appodeal",
+      "id": 162
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "Criteo",
+      "id": 170
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "Appodeal Stack",
+      "id": 368
+    },
+    {
+      "name": "BidMachine",
+      "id": 370
+    }
+  ]
+}

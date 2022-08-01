@@ -1,0 +1,51 @@
+{
+  "application": {
+    "handle": "com.hikari.crimea_unobvious",
+    "version_name": "1.0.2",
+    "version_code": "1001",
+    "uaid": "990649C20D6B4EF08EC00C2C4E1E1E4921442065",
+    "name": "\u041a\u0440\u044b\u043c \u041d\u0435\u043e\u0447\u0435\u0432\u0438\u0434\u043d\u044b\u0439",
+    "permissions": [
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.INTERNET",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.VIBRATE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.hikari.crimea_unobvious.permission.C2D_MESSAGE",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.READ_APP_BADGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.hikari.crimea_unobvious.apk",
+    "checksum": "996c2bdd0fd174540f443983597609e7646b1b6fa2bd6164eab7dc96c17aea74"
+  },
+  "trackers": [
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

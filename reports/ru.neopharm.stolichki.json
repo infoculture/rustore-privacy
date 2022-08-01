@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "ru.neopharm.stolichki",
+    "version_name": "2.24.2",
+    "version_code": "147",
+    "uaid": "BEE4E921F072088F6DAA0AD62A53B7CA55F47CF2",
+    "name": "\u0421\u0442\u043e\u043b\u0438\u0447\u043a\u0438",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.neopharm.stolichki.apk",
+    "checksum": "bb88ce29b2496dc52881a770c18d7154b6572d19d8adb6f95a3311c393f651d4"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

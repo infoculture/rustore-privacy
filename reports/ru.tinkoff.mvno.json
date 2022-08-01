@@ -1,0 +1,87 @@
+{
+  "application": {
+    "handle": "ru.tinkoff.mvno",
+    "version_name": "3.28",
+    "version_code": "1297",
+    "uaid": "D59EFC63F51062A00EDDFAF56B33427CBD7A3DBA",
+    "name": "\u041c\u043e\u0431\u0430\u0439\u043b",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "ru.tinkoff.mvno.permission.PROCESS_PUSH_MSG",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BLUETOOTH",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.GET_TASKS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.NFC",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "ru.tinkoff.mvno.permission.PUSH_PROVIDER",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.MODIFY_AUDIO_SETTINGS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.tinkoff.mvno.apk",
+    "checksum": "c87918aa6f3908f12c1b9c01360cb8ce7b0d08552c45de2140985b02352d8d13"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

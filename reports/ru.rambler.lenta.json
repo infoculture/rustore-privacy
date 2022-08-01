@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "ru.rambler.lenta",
+    "version_name": "1.1.19",
+    "version_code": "2020070801",
+    "uaid": "1B6FC2B59A742A3B93B0CD9D96DBDC774C68C28C",
+    "name": "Lenta.ru",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.rambler.lenta.apk",
+    "checksum": "22b907fc1ef6f4cf43fbb23744090cae115307b3b7acefd291af8d0deddbd8d7"
+  },
+  "trackers": []
+}

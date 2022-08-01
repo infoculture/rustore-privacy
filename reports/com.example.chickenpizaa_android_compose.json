@@ -1,0 +1,29 @@
+{
+  "application": {
+    "handle": "com.example.chickenpizaa_android_compose",
+    "version_name": "1.2.4",
+    "version_code": "1",
+    "uaid": "7D75F4B61B9FE11ACF9F7E9CD67E43F4EA5C56AB",
+    "name": "Chicken Pizza",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.example.chickenpizaa_android_compose.apk",
+    "checksum": "4318656ad38001074d0c091033acaf595e2eb0d57b80436741631b8d382af415"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

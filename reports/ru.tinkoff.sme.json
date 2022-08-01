@@ -1,0 +1,73 @@
+{
+  "application": {
+    "handle": "ru.tinkoff.sme",
+    "version_name": "2.63.0",
+    "version_code": "4115",
+    "uaid": "606CA693F5A644EEDCD8CC92C33A1338B437B96A",
+    "name": "\u0411\u0438\u0437\u043d\u0435\u0441",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BLUETOOTH",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "ru.tinkoff.sme.permission.PUSH_PROVIDER",
+      "android.permission.REORDER_TASKS",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.READ_CALENDAR",
+      "android.permission.VIBRATE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.NFC",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "ru.tinkoff.sme.permission.PROCESS_PUSH_MSG",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.CHANGE_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.tinkoff.sme.apk",
+    "checksum": "9bb96670a27b20ef8e0b31f5c2489c8c37eb2eeee2e7419606eed2621c753315"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

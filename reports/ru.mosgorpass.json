@@ -1,0 +1,78 @@
+{
+  "application": {
+    "handle": "ru.mosgorpass",
+    "version_name": "7.1.2",
+    "version_code": "2099738111",
+    "uaid": "98DA60A9573F98FA949256E2B65FDFA7E4ADDB26",
+    "name": "\u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_TASKS",
+      "ru.mosgorpass.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.NFC",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.mosgorpass.apk",
+    "checksum": "a5a59af259bd7742e6a97133e566cecec82d3b4a0537cb3651fa2b36cc81087c"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Mapbox",
+      "id": 171
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

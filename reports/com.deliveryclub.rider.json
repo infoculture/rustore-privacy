@@ -1,0 +1,76 @@
+{
+  "application": {
+    "handle": "com.deliveryclub.rider",
+    "version_name": "3.22.0",
+    "version_code": "322000",
+    "uaid": "FE7A70B0BC8E82465DE819E3F994DAFCBEBC703E",
+    "name": "\u041a\u0443\u0440\u044c\u0435\u0440 Delivery Club",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.BLUETOOTH",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_PHONE_NUMBERS",
+      "android.permission.ACCESS_NOTIFICATION_POLICY",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.deliveryclub.rider.apk",
+    "checksum": "b966d27ba527e1e0187b06858c360e4dcf0aede5d292f58c321794c2e16e1f4c"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "AltBeacon",
+      "id": 219
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

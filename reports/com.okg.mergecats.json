@@ -1,0 +1,86 @@
+{
+  "application": {
+    "handle": "com.okg.mergecats",
+    "version_name": "2.9.21",
+    "version_code": "109",
+    "uaid": "BA988C890147120B74E49A33B787BB077BA8BE5E",
+    "name": "Merge Cats",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.android.vending.BILLING",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.samsung.android.iap.permission.BILLING",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "com.okg.mergecats.permission.C2D_MESSAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.okg.mergecats.apk",
+    "checksum": "e626ed7375a77585bd79d7751d2a04665bc577d254b6e1e479e3a344f0b59e41"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Mail.ru",
+      "id": 336
+    }
+  ]
+}

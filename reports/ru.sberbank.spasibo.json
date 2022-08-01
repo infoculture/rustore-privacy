@@ -1,0 +1,57 @@
+{
+  "application": {
+    "handle": "ru.sberbank.spasibo",
+    "version_name": "5.4.0",
+    "version_code": "134",
+    "uaid": "B3EC364825DC9F3466983BFA32F98F9956332A91",
+    "name": "\u0421\u0431\u0435\u0440\u0421\u043f\u0430\u0441\u0438\u0431\u043e",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_BIOMETRIC",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.sberbank.spasibo.apk",
+    "checksum": "690b0947e0f21cb60d7a564a84703d376964dc9e96687f361f0bdd72f906c87e"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

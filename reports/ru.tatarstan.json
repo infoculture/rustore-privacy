@@ -1,0 +1,79 @@
+{
+  "application": {
+    "handle": "ru.tatarstan",
+    "version_name": "2.0.2",
+    "version_code": "26",
+    "uaid": "2753BE86B22D3CC03ACE5A52FB0D344132EB1C2F",
+    "name": "\u041b\u043e\u043a\u043e\u043b\u043e",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.USE_CREDENTIALS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "com.sec.android.provider.badge.permission.READ",
+      "ru.tatarstan.permission.C2D_MESSAGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.CAMERA",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.READ_APP_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.GET_TASKS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT"
+    ],
+    "libraries": [
+      "androidx.camera.extensions.impl"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.tatarstan.apk",
+    "checksum": "79ba759e30c035d9c3d9786235fe29269e40e27f9f1332a16813486d92fb3f46"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Mapbox",
+      "id": 171
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

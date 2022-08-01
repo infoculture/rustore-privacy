@@ -1,0 +1,94 @@
+{
+  "application": {
+    "handle": "ru.sold.fat.burner",
+    "version_name": "version 4.111.146",
+    "version_code": "104111146",
+    "uaid": "2330D98730DBC458305E8011699617F34CA1FABB",
+    "name": "Opti-fit",
+    "permissions": [
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sold.fat.burner.apk",
+    "checksum": "018c84085b7d7c8b15e9e43f1f58585a4bc4a2eae8de87cc71ddca6fb59c8f6f"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Adjust",
+      "id": 52
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Appodeal",
+      "id": 162
+    },
+    {
+      "name": "Criteo",
+      "id": 170
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "Appodeal Stack",
+      "id": 368
+    },
+    {
+      "name": "BidMachine",
+      "id": 370
+    }
+  ]
+}

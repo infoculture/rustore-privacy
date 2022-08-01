@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "ru.livegames.playnet",
+    "version_name": "4.10",
+    "version_code": "4100",
+    "uaid": "0FC2AB23CED8B28A0291575D11BED97A755169F8",
+    "name": "LiveGames Playnet",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "ru.livegames.playnet.permission.C2D_MESSAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.livegames.playnet.apk",
+    "checksum": "2adb7a5c0ad4ce137c913031ba451e3fd073e356d5b551bd001dd82665680b2e"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "application": {
+    "handle": "ru.taxcom.vsd",
+    "version_name": "1.4.4",
+    "version_code": "34",
+    "uaid": "2494EFF59BE76C5A834A734B4577EA1CAE89E921",
+    "name": "\u0422\u0430\u043a\u0441\u043a\u043e\u043c \u0412\u0435\u0442\u0438\u0441",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.taxcom.vsd.apk",
+    "checksum": "2d670ea38852a22978e19a372e8c31a76da1eaef53b746ff5baef3e47cd50bb6"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

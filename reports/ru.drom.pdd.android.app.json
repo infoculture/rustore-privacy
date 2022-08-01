@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "ru.drom.pdd.android.app",
+    "version_name": "3.8",
+    "version_code": "100",
+    "uaid": "8A135B13E3C42F3F6E1746A74A50A6317C3D27CA",
+    "name": "\u0414\u0440\u043e\u043c \u041f\u0414\u0414",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "ru.drom.pdd.android.app.permission.PUSH_PROVIDER",
+      "com.android.vending.BILLING",
+      "android.permission.QUICKBOOT_POWERON",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "ru.drom.pdd.android.app.permission.PROCESS_PUSH_MSG",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.REQUEST_INSTALL_PACKAGES"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.drom.pdd.android.app.apk",
+    "checksum": "069959f46e2cc7516e7409bbec39cabf832be99caa7bec0a803af63847812840"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

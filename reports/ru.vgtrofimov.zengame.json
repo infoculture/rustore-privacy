@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "ru.vgtrofimov.zengame",
+    "version_name": "1.05",
+    "version_code": "5",
+    "uaid": "BB096946CF0263171D48DF120F6B0B244DC9B812",
+    "name": "Zen Relax",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.vgtrofimov.zengame.apk",
+    "checksum": "fa98ecb2bc4fff7126a57c1bae12d639ec7131341125be00a1b475dd84600cd0"
+  },
+  "trackers": []
+}

@@ -1,0 +1,63 @@
+{
+  "application": {
+    "handle": "live.talkme.sprint_2",
+    "version_name": "1.0.4",
+    "version_code": "20",
+    "uaid": "D3EF13BE5C65942C93CB48D3397E817867B93344",
+    "name": "Talkme",
+    "permissions": [
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PRIVILEGED_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH",
+      "android.permission.CAMERA",
+      "com.android.vending.BILLING"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/live.talkme.sprint_2.apk",
+    "checksum": "4b759daec26c0ed1e1e33d2cad307c45d7b8873390ea62a3778d70e03e361ec9"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

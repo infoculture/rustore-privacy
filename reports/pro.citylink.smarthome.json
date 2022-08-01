@@ -1,0 +1,56 @@
+{
+  "application": {
+    "handle": "pro.citylink.smarthome",
+    "version_name": "0.92",
+    "version_code": "64",
+    "uaid": "DBC00BC10837E1F97EB1F67F2E4A2DFB49A809AA",
+    "name": "\u0421\u0438\u0442\u0438\u043b\u0438\u043d\u043a",
+    "permissions": [
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "pro.citylink.smarthome.PRIVATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.MODIFY_AUDIO_SETTINGS"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/pro.citylink.smarthome.apk",
+    "checksum": "4a3b54a61d0aaace897d32bb2f43b88df96dd1d17c591924749c0216db6b1768"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

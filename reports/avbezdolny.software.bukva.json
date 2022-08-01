@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "avbezdolny.software.bukva",
+    "version_name": "1.1",
+    "version_code": "2",
+    "uaid": "777FCDA06BA97CDE69C3E5E844C5AEBEE735E0EC",
+    "name": "\u0411\u0423\u041a\u0412\u0410",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/avbezdolny.software.bukva.apk",
+    "checksum": "f7ae6c936c8429bc1a7716a79ace16984673fc916134e8d52f6505bb0ec04c1a"
+  },
+  "trackers": []
+}

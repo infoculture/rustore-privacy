@@ -1,0 +1,47 @@
+id	name	num
+12	AppsFlyer	31
+27	Google CrashLytics	78
+49	Google Firebase Analytics	111
+140	AppMetrica	53
+333	Huawei Mobile Services (HMS) Core	31
+412	OpenTelemetry (OpenCensus, OpenTracing)	11
+25	Flurry	2
+48	Google Analytics	17
+105	Google Tag Manager	16
+108	Snowplow	3
+238	Microsoft Visual Studio App Center Crashes	4
+243	Microsoft Visual Studio App Center Analytics	3
+175	myTracker	6
+392	Facebook Flipper	3
+125	Amplitude	10
+312	Google AdMob	7
+137	Dynatrace	2
+66	Facebook Analytics	9
+67	Facebook Login	10
+69	Facebook Places	5
+70	Facebook Share	10
+167	Branch	5
+207	Bugsnag	2
+39	Pushwoosh	1
+382	VKontakte SDK	1
+58	HelpShift	1
+124	Yandex Ad	5
+193	OneSignal	2
+84	Scandit	1
+34	Ogury Presage	1
+65	Facebook Ads	1
+72	AppLovin (MAX and SparkLabs)	1
+90	AdColony	1
+92	Amazon Advertisement	1
+121	Unity3d Ads	1
+146	ironSource	1
+162	Appodeal	1
+169	Vungle	1
+170	Criteo	1
+198	myTarget	1
+328	IAB Open Measurement	1
+363	Pangle	1
+368	Appodeal Stack	1
+370	BidMachine	1
+77	HyperTrack	1
+246	Metrics	1

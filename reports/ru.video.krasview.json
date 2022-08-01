@@ -1,0 +1,42 @@
+{
+  "application": {
+    "handle": "ru.video.krasview",
+    "version_name": "0.9.75",
+    "version_code": "2015",
+    "uaid": "6AA281D497BFD864F48FCC6EB004B3FA5DA0B048",
+    "name": "krasview",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.NFC",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.video.krasview.apk",
+    "checksum": "70c02fbde8228e5ff322f74afe3f7ac51709c874c08e6617ce3fd4d16cd50735"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

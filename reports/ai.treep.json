@@ -1,0 +1,123 @@
+{
+  "application": {
+    "handle": "ai.treep",
+    "version_name": "3.26.0",
+    "version_code": "248",
+    "uaid": "A97543CC106AFF949D4FE52EBA8615833B08C140",
+    "name": "Treeps",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_APP_BADGE",
+      "com.android.vending.BILLING",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.VIBRATE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "ai.treep.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.INTERNET",
+      "android.permission.POST_NOTIFICATIONS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ai.treep.apk",
+    "checksum": "1a82ce375e34f1dc9e55d7f90d7dd66d612beae8728cc0b8ef60ff14b2007a19"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "nend",
+      "id": 222
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

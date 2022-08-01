@@ -1,0 +1,29 @@
+{
+  "application": {
+    "handle": "com.mommylonggame.ca",
+    "version_name": "3",
+    "version_code": "3",
+    "uaid": "094AC48BE131ACD08653A62FEEFCA7606F71C9CB",
+    "name": "Mommy Long Game",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.mommylonggame.ca.apk",
+    "checksum": "073c04715f20ffeda42ad6d8fedd61d63d94baf1ca5e30cf0b6718411b325e04"
+  },
+  "trackers": [
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

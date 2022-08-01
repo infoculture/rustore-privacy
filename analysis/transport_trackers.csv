@@ -1,0 +1,42 @@
+id	name	num
+27	Google CrashLytics	47
+49	Google Firebase Analytics	56
+124	Yandex Ad	8
+140	AppMetrica	39
+12	AppsFlyer	10
+66	Facebook Analytics	5
+67	Facebook Login	10
+70	Facebook Share	8
+125	Amplitude	8
+219	AltBeacon	2
+333	Huawei Mobile Services (HMS) Core	12
+382	VKontakte SDK	7
+30	Schibsted	1
+48	Google Analytics	13
+60	Locuslabs	1
+105	Google Tag Manager	10
+238	Microsoft Visual Studio App Center Crashes	4
+25	Flurry	2
+171	Mapbox	6
+118	MixPanel	2
+312	Google AdMob	9
+328	IAB Open Measurement	2
+52	Adjust	2
+58	HelpShift	1
+17	Braze (formerly Appboy)	1
+39	Pushwoosh	1
+392	Facebook Flipper	1
+341	Carto (formerly Nutiteq)	1
+412	OpenTelemetry (OpenCensus, OpenTracing)	3
+28	LeanPlum	1
+175	myTracker	2
+198	myTarget	2
+62	Segment	1
+108	Snowplow	1
+116	Tencent Stats	1
+207	Bugsnag	1
+291	SmartLook	1
+193	OneSignal	1
+240	Google Analytics Plugin (Cordova)	1
+241	Bugsee	1
+243	Microsoft Visual Studio App Center Analytics	3

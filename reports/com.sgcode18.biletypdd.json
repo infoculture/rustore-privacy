@@ -1,0 +1,22 @@
+{
+  "application": {
+    "handle": "com.sgcode18.biletypdd",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "1C4948EF9E818A006494CEC8FDDFEF7D69B8D2B2",
+    "name": "\u0411\u0438\u043b\u0435\u0442\u044b \u041f\u0414\u0414",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.sgcode18.biletypdd.apk",
+    "checksum": "1b816cd439374e9db8d85f75c335dd64ca6600bb424a3e9d6829b9e4cb5cdfe9"
+  },
+  "trackers": []
+}

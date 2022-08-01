@@ -1,0 +1,81 @@
+{
+  "application": {
+    "handle": "com.UltramarineGames.ColoringGarden",
+    "version_name": "1.0.5",
+    "version_code": "1",
+    "uaid": "CCC15BCFD466535A50A3725C3BEC6CA620496E4E",
+    "name": "Garden Coloring Puzzle",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.UltramarineGames.ColoringGarden.apk",
+    "checksum": "9bb1e5ece37536cf2903a011780a25d076deeebb4a6902832d04bd6777bb1ceb"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "Tapjoy",
+      "id": 199
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    }
+  ]
+}

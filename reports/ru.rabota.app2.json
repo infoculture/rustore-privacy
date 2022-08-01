@@ -1,0 +1,67 @@
+{
+  "application": {
+    "handle": "ru.rabota.app2",
+    "version_name": "4.54.1",
+    "version_code": "2021045401",
+    "uaid": "973BD735AA9B03A7FC3FD586ED8AD3BB5E610473",
+    "name": "\u0420\u0430\u0431\u043e\u0442\u0430.\u0440\u0443",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.USE_CREDENTIALS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BLUETOOTH"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.rabota.app2.apk",
+    "checksum": "f794b88e957605beba6f807a1e7ebe5f0c29c85c18614a4f712d29cd74262a82"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

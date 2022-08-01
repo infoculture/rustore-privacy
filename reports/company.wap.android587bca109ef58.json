@@ -1,0 +1,70 @@
+{
+  "application": {
+    "handle": "company.wap.android587bca109ef58",
+    "version_name": "1.6",
+    "version_code": "1006001",
+    "uaid": "FA6166C0538FA367D0F363C958A839D66E43EFA2",
+    "name": "\u041a\u0430\u0440\u0442\u0430 \u0433\u043e\u0441\u0442\u044f",
+    "permissions": [
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.CAMERA",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.RECORD_AUDIO",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NOTIFICATION_POLICY",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/company.wap.android587bca109ef58.apk",
+    "checksum": "4925e3dca416dd8182f2c1c4f80e5355fe96356ce84429c55aede1c7119f0dc5"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Startapp",
+      "id": 195
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

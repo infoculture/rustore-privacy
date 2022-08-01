@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "ru.vigroup.apteka",
+    "version_name": "2.0.78",
+    "version_code": "725",
+    "uaid": "6C8264348A7CFD9B9FF4551738CEBC5D82B6BE31",
+    "name": "\u0410\u043f\u0442\u0435\u043a\u0430",
+    "permissions": [
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.vigroup.apteka.apk",
+    "checksum": "dabc902358e5e392e23e2ccc9694999fd267d75adcd7dc34dc1a5f2c0f48ca91"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "application": {
+    "handle": "com.anlina.fraziruss",
+    "version_name": "5.0",
+    "version_code": "5",
+    "uaid": "A15E2C130B74EF5BD9947539DE158A4179EEDF01",
+    "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0435 \u0441\u0442\u0438\u043a\u0435\u0440\u044b \u0434\u043b\u044f Telegram \u0438 WhatsApp",
+    "permissions": [
+      "android.permission.QUERY_ALL_PACKAGES",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.anlina.fraziruss.apk",
+    "checksum": "133d2d6385d417c48fa98570d981aa84c883a6d46d0341c43be54d90f6c0da54"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

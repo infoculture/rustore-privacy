@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "com.catdonut.smartrabbit",
+    "version_name": "1.9",
+    "version_code": "16",
+    "uaid": "2490C55EBB94755E60B831C565D6E61ED810BC26",
+    "name": "Smart Bunny",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.catdonut.smartrabbit.apk",
+    "checksum": "25159071c87f050a1bc24efbbb428883ca86e7236ad81457b5a30de583440e75"
+  },
+  "trackers": []
+}

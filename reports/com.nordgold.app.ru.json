@@ -1,0 +1,25 @@
+{
+  "application": {
+    "handle": "com.nordgold.app.ru",
+    "version_name": "1.0.20",
+    "version_code": "22",
+    "uaid": "34E104307B2A94FAA418DA39F07FF4034ADED495",
+    "name": "Nordgold Info",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.nordgold.app.ru.apk",
+    "checksum": "494647e19104344a740d4dc0504459552ede50b62bf6db404433cd653342ccb9"
+  },
+  "trackers": []
+}

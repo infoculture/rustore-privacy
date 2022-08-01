@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.learn.russian.language.words.vocabulary",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "8756DDA0184A6CDEE0B63911DA6B8E396822B13C",
+    "name": "Learn Russian",
+    "permissions": [
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.learn.russian.language.words.vocabulary.apk",
+    "checksum": "d3c6c2721984a543ae29d5afd812fa83fbfc5e411e84a767472c7ccb94b89b47"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

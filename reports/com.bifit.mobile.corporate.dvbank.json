@@ -1,0 +1,42 @@
+{
+  "application": {
+    "handle": "com.bifit.mobile.corporate.dvbank",
+    "version_name": "32.0.36",
+    "version_code": "32000036",
+    "uaid": "E845007CEE1BB673455A1CC1E5DFDCCBF3C4C862",
+    "name": "\u0414\u0412\u0411 \u0411\u0438\u0437\u043d\u0435\u0441",
+    "permissions": [
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.USE_SIP",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CALENDAR",
+      "com.bifit.mobile.corporate.dvbank.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.bifit.mobile.corporate.dvbank.apk",
+    "checksum": "bbcea85b3ff615d25cd91f9fc54138c52410f373013906a14057890ff8674131"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

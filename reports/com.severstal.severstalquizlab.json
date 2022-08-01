@@ -1,0 +1,98 @@
+{
+  "application": {
+    "handle": "com.severstal.severstalquizlab",
+    "version_name": "3.32.2",
+    "version_code": "33202",
+    "uaid": "50625BC00796664858BA3E1AE2E099A17A06C0B9",
+    "name": "\u0426\u0438\u0444\u0440\u043e\u0432\u0430\u044f \u0441\u0442\u0430\u043b\u044c",
+    "permissions": [
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.severstal.severstalquizlab.permission.RECEIVE_ADM_MESSAGE",
+      "android.permission.READ_APP_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.INTERNET",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.severstal.severstalquizlab.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.htc.launcher.permission.READ_SETTINGS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.severstal.severstalquizlab.apk",
+    "checksum": "9c889e24186d2aa6c83a01a72e640a529ed441fade87c82e48ed841973c3334b"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Inmobi",
+      "id": 106
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "RjFun",
+      "id": 377
+    }
+  ]
+}

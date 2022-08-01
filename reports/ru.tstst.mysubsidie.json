@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "ru.tstst.mysubsidie",
+    "version_name": "6.0.0",
+    "version_code": "21",
+    "uaid": "49ABAF1580EDE9B60716F02F12C2E81F526AAA49",
+    "name": "\u041c\u043e\u0438 \u0441\u0443\u0431\u0441\u0438\u0434\u0438\u0438",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.WAKE_LOCK",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.tstst.mysubsidie.apk",
+    "checksum": "79e09253c074025ecd7eec8c6ad8a13ee526a0b56fbbef5bce728af6dcd5d806"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

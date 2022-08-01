@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "com.holden.radio",
+    "version_name": "4.8.8",
+    "version_code": "220207014",
+    "uaid": "494679FD1D0FCA045E35310E422833CF6D039CFA",
+    "name": "Radio ON",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.POST_NOTIFICATIONS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.holden.radio.apk",
+    "checksum": "26d5ccc042dc7fc7d2bcab0bc9411301619c3f05563d115d4dff2b9612dd4afc"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

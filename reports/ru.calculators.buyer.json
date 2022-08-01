@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "ru.calculators.buyer",
+    "version_name": "1.0",
+    "version_code": "24",
+    "uaid": "DE3D61CB7A5BD445840DCF9237CD69D838A62006",
+    "name": "Buyer Calculators",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET ",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.calculators.buyer.apk",
+    "checksum": "01e75dc53347b4ce807c7f24339ea9dac46e1997d10520051dbdd31624ab51e6"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

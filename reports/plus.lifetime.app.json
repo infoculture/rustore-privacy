@@ -1,0 +1,59 @@
+{
+  "application": {
+    "handle": "plus.lifetime.app",
+    "version_name": "1.2.2",
+    "version_code": "26",
+    "uaid": "DDE5132E8444C050CD8325FD8F29DC6D5182BDE2",
+    "name": "Lifetime+",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.QUICKBOOT_POWERON",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "oppo.permission.OPPO_COMPONENT_SAFE",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.huawei.permission.external_app_settings.USE_COMPONENT",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/plus.lifetime.app.apk",
+    "checksum": "89fc44a7fc99adf8839991daeeb707537dd32e92f360fbc90cb4dbe39bc4b8a2"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

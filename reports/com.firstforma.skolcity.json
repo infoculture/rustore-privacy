@@ -1,0 +1,71 @@
+{
+  "application": {
+    "handle": "com.firstforma.skolcity",
+    "version_name": "1.10.611",
+    "version_code": "1106110",
+    "uaid": "E4EA339EAC1DBCA0FAD6EA498868B1620BD172CD",
+    "name": "SkolCity",
+    "permissions": [
+      "com.firstforma.skolcity.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.RAISED_THREAD_PRIORITY",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.PREVENT_POWER_KEY",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_TASKS",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.MANAGE_OWN_CALLS",
+      "android.permission.CAMERA",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.BLUETOOTH",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.CALL_PHONE",
+      "android.permission.VIBRATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.BLUETOOTH_ADMIN"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.firstforma.skolcity.apk",
+    "checksum": "276e8c4ab48be558f35e531d166f5ed6a09e914ea60042864d9e57105c488d8c"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

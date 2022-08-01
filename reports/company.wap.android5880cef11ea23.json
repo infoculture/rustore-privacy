@@ -1,0 +1,72 @@
+{
+  "application": {
+    "handle": "company.wap.android5880cef11ea23",
+    "version_name": "2.0",
+    "version_code": "2000001",
+    "uaid": "885DCB837486FBBCC7A510E63ECE196005EA8525",
+    "name": "\u041f\u043e\u044f\u0441 \u0423\u0440\u0430\u043b\u0430",
+    "permissions": [
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NOTIFICATION_POLICY",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_APP_BADGE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_PHONE_STATE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.FLASHLIGHT"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/company.wap.android5880cef11ea23.apk",
+    "checksum": "05a54c777dcc7b3da03d7173bc3b5ece04c5ec2f320e39bbdbe129ca476cc745"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Startapp",
+      "id": 195
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

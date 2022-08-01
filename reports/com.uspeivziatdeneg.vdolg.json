@@ -1,0 +1,38 @@
+{
+  "application": {
+    "handle": "com.uspeivziatdeneg.vdolg",
+    "version_name": "1.4",
+    "version_code": "5",
+    "uaid": "A9BC9A866765CCF976A87923494E9D97DDAC1F57",
+    "name": "\u0417\u0430\u0439\u043c",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.uspeivziatdeneg.vdolg.apk",
+    "checksum": "dab0fbf8ec3ad8711dc38e68755cefb9cc51f1f7247d827e952f1bdef2ec55b5"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

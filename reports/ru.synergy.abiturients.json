@@ -1,0 +1,51 @@
+{
+  "application": {
+    "handle": "ru.synergy.abiturients",
+    "version_name": "1.67",
+    "version_code": "67",
+    "uaid": "5EA19B6871ACD937434AF260BDE26EE0A7E03D73",
+    "name": "Synergy Education",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.synergy.abiturients.apk",
+    "checksum": "f292ddd918cb3eceff9f35fff30d86c1cca27b3a48823435ffd928b934aed66b"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

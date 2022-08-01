@@ -1,0 +1,28 @@
+{
+  "application": {
+    "handle": "com.fireboywatergirl.al",
+    "version_name": "1",
+    "version_code": "1",
+    "uaid": "0977BC411BB29C07F09A1E8C01DE8AB0E773262F",
+    "name": "Ates ve Su Kacma Oyunu",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.fireboywatergirl.al.apk",
+    "checksum": "b75093ed5050c6685797e95d63448177c17ef43fca5092c9accbe79dd2588d5a"
+  },
+  "trackers": [
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

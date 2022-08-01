@@ -1,0 +1,64 @@
+{
+  "application": {
+    "handle": "com.ertelecom.domrutv",
+    "version_name": "4.0.4",
+    "version_code": "61761",
+    "uaid": "9F95883D59849B9601B0A2AFB8A4B2A454ACD29F",
+    "name": "Movix",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.ertelecom.domrutv.permission.PUSH_PROVIDER",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "com.ertelecom.domrutv.permission.LOCAL_BROADCAST",
+      "com.ertelecom.domrutv.permission.PROCESS_PUSH_MSG",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.ertelecom.domrutv.apk",
+    "checksum": "0658035a767449312d1943ce7eda8a596719ce70e2b3b173760a2f935e03d2d9"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

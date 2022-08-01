@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "ru.gazprombank.android.eventmanager",
+    "version_name": "1.0.1",
+    "version_code": "101",
+    "uaid": "AAD081C850539C76400E9C0B2E3D155F0024E4C7",
+    "name": "Gazprombank. Events",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "oppo.permission.OPPO_COMPONENT_SAFE",
+      "ru.gazprombank.android.eventmanager.permission.PROCESS_PUSH_MSG",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.INTERNET",
+      "com.huawei.permission.external_app_settings.USE_COMPONENT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "ru.gazprombank.android.eventmanager.permission.PUSH_PROVIDER",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.gazprombank.android.eventmanager.apk",
+    "checksum": "2cb5b6a31ad886c63129d5c43f1ff3679f0b528a92389cb8a515ed0abc027a70"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

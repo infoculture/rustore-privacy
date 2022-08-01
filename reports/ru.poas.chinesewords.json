@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.chinesewords",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "D657F93C7E4643B2532F1B3E94EA1322DB9B4C01",
+    "name": "Learn Chinese",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.chinesewords.apk",
+    "checksum": "f90db2f86ce7fdea0ac3c30abc6b2fd0c568511366aeef8366b6f901083171df"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

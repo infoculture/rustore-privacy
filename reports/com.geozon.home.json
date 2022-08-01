@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "com.geozon.home",
+    "version_name": "1.0.1",
+    "version_code": "2",
+    "uaid": "7BB86D7FEF9D8B19B2960096DD070992504B9C00",
+    "name": "GEOZON HOME",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.VIBRATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.INTERNET",
+      "android.permission.USE_FULL_SCREEN_INTENT"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.geozon.home.apk",
+    "checksum": "39bc32297dc67247214c5df3794bf3416235a95e6d00b754168eb6e481e5bbc3"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

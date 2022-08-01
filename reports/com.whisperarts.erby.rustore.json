@@ -1,0 +1,100 @@
+{
+  "application": {
+    "handle": "com.whisperarts.erby.rustore",
+    "version_name": "2.1.7",
+    "version_code": "120",
+    "uaid": "7FBF49DA7653A76B374B0B8263C43F2C86303905",
+    "name": "Erby",
+    "permissions": [
+      "com.hihonor.permission.MANAGE_FOLD_SCREEN_PRIVILEGED",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.whisperarts.erby.rustore.permission.PROCESS_PUSH_MSG",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.BROADCAST_STICKY",
+      "com.hihonor.permission.MANAGE_FOLD_SCREEN",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.android.vending.BILLING",
+      "com.whisperarts.erby.rustore.permission.PUSH_PROVIDER",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.REQUEST_INSTALL_PACKAGES"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.whisperarts.erby.rustore.apk",
+    "checksum": "5b82e5ea46c9b048d99f8f0d38fa1aee1240a18204be583366fcc60dc13b65d3"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Tenjin",
+      "id": 249
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "application": {
+    "handle": "com.samogon_pro.beercalc",
+    "version_name": "3.2",
+    "version_code": "48",
+    "uaid": "06D1526D964FDB021F6593272824DFDD47BEEA7F",
+    "name": "\u0420\u0435\u0446\u0435\u043f\u0442\u044b \u043f\u0438\u0432\u0430",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.samogon_pro.beercalc.apk",
+    "checksum": "47f5b4eeeadda695526864a6ab82d5da162f28cddbe2a2a9e01278a1713bab82"
+  },
+  "trackers": [
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Startapp",
+      "id": 195
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    },
+    {
+      "name": "Pollfish",
+      "id": 305
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

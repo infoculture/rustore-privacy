@@ -1,0 +1,144 @@
+{
+  "application": {
+    "handle": "free.zaycev.net",
+    "version_name": "7.19.14",
+    "version_code": "534",
+    "uaid": "9E77DB120B6106CFEB9B3CC49C9F6E55C7EFDCD3",
+    "name": "zaycev.net",
+    "permissions": [
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.INTERNET",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.BLUETOOTH_CONNECT",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.BLUETOOTH",
+      "com.google.android.gms.permission.AD_ID",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/free.zaycev.net.apk",
+    "checksum": "68cc087b6f6e85b9a8a0ffb75a3ac37a9932cbfbf1281852a77637f2ebf7afee"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Ogury Presage",
+      "id": 34
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Appodeal",
+      "id": 162
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "Criteo",
+      "id": 170
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Instreamatic (Adman)",
+      "id": 204
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "Appodeal Stack",
+      "id": 368
+    },
+    {
+      "name": "BidMachine",
+      "id": 370
+    }
+  ]
+}

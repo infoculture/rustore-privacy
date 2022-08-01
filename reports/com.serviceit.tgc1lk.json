@@ -1,0 +1,61 @@
+{
+  "application": {
+    "handle": "com.serviceit.tgc1lk",
+    "version_name": "1.2.5",
+    "version_code": "23",
+    "uaid": "910E63E1FACF728020E65B051856DD07122BB834",
+    "name": "\u0422\u0413\u041a-1",
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.ACCESS_MEDIA_LOCATION",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.INTERNET",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.USE_FINGERPRINT",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.serviceit.tgc1lk.apk",
+    "checksum": "a3f70d0b835cf5b5a9173ad706c06e7d9898ad16e09eb6703127e3865b252966"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

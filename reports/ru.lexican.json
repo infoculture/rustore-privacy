@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "ru.lexican",
+    "version_name": "2.0.9",
+    "version_code": "15",
+    "uaid": "69D3E027C2279D701A6EC2B47CE54CF062B95BAF",
+    "name": "Lexican",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.SYSTEM_ALERT_WINDOW"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.lexican.apk",
+    "checksum": "6b9a5edafbe6fbfa1d84431d032ca5d972ebe84eee27474eedb44b14191bbe76"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

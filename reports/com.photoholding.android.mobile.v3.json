@@ -1,0 +1,78 @@
+{
+  "application": {
+    "handle": "com.photoholding.android.mobile.v3",
+    "version_name": "4.0.5",
+    "version_code": "16012",
+    "uaid": "0F3F05A6C773D4EA37E3F879F18A5EB117115E6D",
+    "name": "NetPrint",
+    "permissions": [
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.CAMERA2",
+      "android.permission.POST_NOTIFICATIONS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "com.photoholding.android.mobile.v3.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.INTERNET",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.photoholding.android.mobile.v3.apk",
+    "checksum": "a4bc091e761e7b02b7f63126664e45ac187025036933b33b3e63d8f10ff3c072"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

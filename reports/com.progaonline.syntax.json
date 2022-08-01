@@ -1,0 +1,45 @@
+{
+  "application": {
+    "handle": "com.progaonline.syntax",
+    "version_name": "3.4",
+    "version_code": "18",
+    "uaid": "C86184E36823137B125FB5F3DA1997853CA02826",
+    "name": "\u0422\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0434.\u0421\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.progaonline.syntax.apk",
+    "checksum": "4d1ea76c52a31d73e865237ddce39ac0cddefa09be93d3414e9fa347eb42543d"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

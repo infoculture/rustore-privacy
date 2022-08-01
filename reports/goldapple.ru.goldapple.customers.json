@@ -1,0 +1,83 @@
+{
+  "application": {
+    "handle": "goldapple.ru.goldapple.customers",
+    "version_name": "3.32.00",
+    "version_code": "1432",
+    "uaid": "4502EE80EBF31A8707FBC4808CC1611DF7D8CB34",
+    "name": "\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u042f\u0431\u043b\u043e\u043a\u043e",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.READ_CONTACTS",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.NFC",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/goldapple.ru.goldapple.customers.apk",
+    "checksum": "2e3cf25aeca9c789dedb9b92cf1982c194afccdfad685c0d307fa4228199739f"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

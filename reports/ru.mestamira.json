@@ -1,0 +1,22 @@
+{
+  "application": {
+    "handle": "ru.mestamira",
+    "version_name": "1.6",
+    "version_code": "8",
+    "uaid": "D3C1A7C8577F6EAEC78AFC05C981C8C885663B66",
+    "name": "\u041a\u043e\u0440\u0430\u043b \u0422\u0440\u0435\u0432\u0435\u043b \u0422\u0443\u0440\u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e",
+    "permissions": [
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.mestamira.apk",
+    "checksum": "b770611b3fe40d8d1cb3d10396ecf12e8c431cc0a45e6a21524ce42a4d890319"
+  },
+  "trackers": []
+}

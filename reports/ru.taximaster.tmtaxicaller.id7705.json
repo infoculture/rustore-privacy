@@ -1,0 +1,64 @@
+{
+  "application": {
+    "handle": "ru.taximaster.tmtaxicaller.id7705",
+    "version_name": "13.0.0-202206081613",
+    "version_code": "4216",
+    "uaid": "3964F22E60FE61A1CB7FD161B06634AA08A1724D",
+    "name": "\u041a\u0410\u0420\u0410\u0412\u0410\u041d",
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CONTACTS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.taximaster.tmtaxicaller.id7705.apk",
+    "checksum": "fe71ed740e8be0c3b0c014ad2a7b34aca4c1d94dd3daf31d2655a484df370694"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

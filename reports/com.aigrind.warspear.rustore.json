@@ -1,0 +1,57 @@
+{
+  "application": {
+    "handle": "com.aigrind.warspear.rustore",
+    "version_name": "10.4.2",
+    "version_code": "10004002",
+    "uaid": "6DADD9E2989385BA3CFF5E1421288537424BA7A6",
+    "name": "Warspear Online",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BATTERY_STATS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.aigrind.warspear.rustore.apk",
+    "checksum": "40cd9ec7997817b12cd12f017c4994abf98f3ecfe7b628ba0a1fb5ec1be7e0b1"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Fyber",
+      "id": 104
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "application": {
+    "handle": "com.lunettes.lunettes",
+    "version_name": "1.0.0",
+    "version_code": "2",
+    "uaid": "601C178837E8F62606A3C25756BD144B3DD72C72",
+    "name": "\u0420\u043e\u0441\u043a\u043e\u0448\u043d\u043e\u0435 \u0437\u0440\u0435\u043d\u0438\u0435",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.lunettes.lunettes.apk",
+    "checksum": "9c0de28a2c72627e0f2312c85770cadef3da0b1dc3cb20049774790f56a8101a"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

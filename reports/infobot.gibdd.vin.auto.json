@@ -1,0 +1,38 @@
+{
+  "application": {
+    "handle": "infobot.gibdd.vin.auto",
+    "version_name": "3.9.1",
+    "version_code": "39100",
+    "uaid": "55D948FC0D8E3166247B4CA12679BCE8F9B3991B",
+    "name": "\u0418\u043d\u0444\u043e\u0431\u043e\u0442 \u0413\u0418\u0411\u0414\u0414",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.android.vending.BILLING",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/infobot.gibdd.vin.auto.apk",
+    "checksum": "d12d4e4b08126e8d32e9483cd685150cd5b13b8daa9e2a1533416f5ba6183d78"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

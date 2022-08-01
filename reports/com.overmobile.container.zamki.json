@@ -1,0 +1,65 @@
+{
+  "application": {
+    "handle": "com.overmobile.container.zamki",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "445630CE1237213249C34BA33BBCB4E48DBD635C",
+    "name": "\u0411\u0438\u0442\u0432\u0430 \u0437\u0430\u043c\u043a\u043e\u0432",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.overmobile.container.zamki.apk",
+    "checksum": "0a95e4ee2746455b0c1234b1883e91873b1be6e04e61284de529a60a4993ed56"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

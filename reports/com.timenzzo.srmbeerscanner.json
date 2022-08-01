@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "com.timenzzo.srmbeerscanner",
+    "version_name": "2.0",
+    "version_code": "2",
+    "uaid": "6E72F45526C101EB30B33CD05444FEC47677FB11",
+    "name": "SRM Beer scanner",
+    "permissions": [
+      "android.permission.CAMERA",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.timenzzo.srmbeerscanner.apk",
+    "checksum": "3252be934778a5cbdc1af7101aba73c2676f0bddf072d352eebe0f44f83359ff"
+  },
+  "trackers": [
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

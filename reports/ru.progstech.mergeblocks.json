@@ -1,0 +1,42 @@
+{
+  "application": {
+    "handle": "ru.progstech.mergeblocks",
+    "version_name": "2022.06.04_rs",
+    "version_code": "13",
+    "uaid": "55AB9A3F725F87E54AC3C2231E5D19CA9951C159",
+    "name": "Merge Blocks",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.progstech.mergeblocks.apk",
+    "checksum": "21ec1be7784c650415563ad8c294157fd88756e1e3b033db9a0f41da29beac36"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "application": {
+    "handle": "com.enqualcomm.kidsys.geozon_guard",
+    "version_name": "4.3.2",
+    "version_code": "43002",
+    "uaid": "4DCC6DEA430BEB3B0261A04DA87F267BE7D3B24A",
+    "name": "GEOZON Guard",
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_CONTACTS",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "com.enqualcomm.kidsys.geozon_guard.permission.C2D_MESSAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_PROFILE",
+      "getui.permission.GetuiService.com.enqualcomm.kidsys.geozon_guard",
+      "android.permission.CAMERA",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.BLUETOOTH",
+      "android.permission.LOCATION_HARDWARE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.READ_LOGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_DOWNLOAD_MANAGER",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CHANGE_CONFIGURATION",
+      "android.permission.VIBRATE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+      "android.permission.ACCESS_GPS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.juphoon.cloud.sample.permission.MIPUSH_RECEIVE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.GET_TASKS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.enqualcomm.kidsys.geozon_guard.apk",
+    "checksum": "4880516207ac321f453dceb1a52b5ae22362c429d8cb5945db8d423ea245641b"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Umeng Analytics",
+      "id": 119
+    },
+    {
+      "name": "Umeng Feedback",
+      "id": 120
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "application": {
+    "handle": "ru.crm.crm_ksk_ekk",
+    "version_name": "2.1",
+    "version_code": "4",
+    "uaid": "4FACF9B11B66CEAFC3F63D2C4F5E522830058B69",
+    "name": "\u0415\u0434\u0438\u043d\u0430\u044f \u043a\u0430\u0440\u0442\u0430 \u043a\u043b\u0438\u0435\u043d\u0442\u0430",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.crm.crm_ksk_ekk.apk",
+    "checksum": "c0a23a1198eba9c9471bf3759901905ead6c3718b003b6e8168cf674f1257f17"
+  },
+  "trackers": []
+}

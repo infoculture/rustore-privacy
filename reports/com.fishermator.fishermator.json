@@ -1,0 +1,26 @@
+{
+  "application": {
+    "handle": "com.fishermator.fishermator",
+    "version_name": "2.0",
+    "version_code": "7",
+    "uaid": "ED3F108F92DD49225D931CAB68691CF31944378F",
+    "name": "\u0420\u044b\u0431\u043e\u043b\u043e\u0432",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.fishermator.fishermator.apk",
+    "checksum": "46cac2f271b1a2182d3d0947526b41276d141a121cc8396495298e189db250b9"
+  },
+  "trackers": []
+}

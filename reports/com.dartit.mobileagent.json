@@ -1,0 +1,36 @@
+{
+  "application": {
+    "handle": "com.dartit.mobileagent",
+    "version_name": "2.3.9",
+    "version_code": "2030900",
+    "uaid": "69CFCE485F90E5FFDB50B0C933BDCB2DB477EC1D",
+    "name": "\u041c\u043e\u0431.\u0430\u0433\u0435\u043d\u0442",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.dartit.mobileagent.apk",
+    "checksum": "0d4943f17adcfc2e8ff7938a47c8e12a6c4a120d749b93debf2fe5a513cac123"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

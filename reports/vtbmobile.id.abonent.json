@@ -1,0 +1,64 @@
+{
+  "application": {
+    "handle": "vtbmobile.id.abonent",
+    "version_name": "2.6.3",
+    "version_code": "315",
+    "uaid": "0CB1C4047967CFF2A83CDD65AF92B5FA9448140F",
+    "name": "\u0412\u0422\u0411 \u041c\u043e\u0431\u0430\u0439\u043b \u0421\u0442\u0430\u0440\u0442",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.VIBRATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.READ_CONTACTS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/vtbmobile.id.abonent.apk",
+    "checksum": "639b4e20661ac7c1ca4068d5c99b287f978eb31fc5f201911733f64713cd1d3c"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

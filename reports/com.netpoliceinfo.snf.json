@@ -1,0 +1,56 @@
+{
+  "application": {
+    "handle": "com.netpoliceinfo.snf",
+    "version_name": "1.2.54",
+    "version_code": "54",
+    "uaid": "6B93B0BBC41025F871A1FEE2C38479BF94EF3B36",
+    "name": "NetPoliceInfo",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.netpoliceinfo.snf.apk",
+    "checksum": "8fa602b83cbb8e519af1aa4a2de3289aef410691a16d7d5d59e85f6749074e92"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    }
+  ]
+}

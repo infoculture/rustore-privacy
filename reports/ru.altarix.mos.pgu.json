@@ -1,0 +1,44 @@
+{
+  "application": {
+    "handle": "ru.altarix.mos.pgu",
+    "version_name": "3.16.1",
+    "version_code": "139",
+    "uaid": "87C97E1922D498A1DC7B4765D40A07CBF97D15BD",
+    "name": "\u0413\u043e\u0441\u0443\u0441\u043b\u0443\u0433\u0438 \u041c\u043e\u0441\u043a\u0432\u044b",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_CALENDAR",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.USE_BIOMETRIC"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.altarix.mos.pgu.apk",
+    "checksum": "ab3d56f4745e33b93917063030873cdd178b5c9c7e5dbf667a3642d61d9b988a"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

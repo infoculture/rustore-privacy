@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "com.DefaultCompany.Nardi",
+    "version_name": "1.1",
+    "version_code": "2",
+    "uaid": "FB73F0C1BB5CE579452C73EE3388BC8EE5F3D030",
+    "name": "Nardi",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.DefaultCompany.Nardi.apk",
+    "checksum": "6a626bac157a273c34e40a299ce2d57d4a069634c29aece4b434686ddf67b45a"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

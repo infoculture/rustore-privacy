@@ -1,0 +1,72 @@
+{
+  "application": {
+    "handle": "com.simplepayments.gkh",
+    "version_name": "3.43",
+    "version_code": "34300",
+    "uaid": "F4F196BAB123A41027148A5AE5ECAAA2A058AE20",
+    "name": "\u0416\u041a\u0425",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_PHONE_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.simplepayments.gkh.apk",
+    "checksum": "c9faf65cc88933c91499913e34c5a4b78511e1285b85cf05137f64d0e507bb2d"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Branch",
+      "id": 167
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

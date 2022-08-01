@@ -1,0 +1,42 @@
+{
+  "application": {
+    "handle": "sovfin.game.pukman",
+    "version_name": "1.0.0.4",
+    "version_code": "6",
+    "uaid": "8B97D3FFCEE0362644F98300EE048B7671118D4F",
+    "name": "\u041f\u0423\u041a\u041c\u0410\u041d",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/sovfin.game.pukman.apk",
+    "checksum": "85dd45688581fd844f6d21e0f0d96e500982db1c613e617c7f222a19bbf7b4d7"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "application": {
+    "handle": "am.mobile.greenway",
+    "version_name": "1.3",
+    "version_code": "4",
+    "uaid": "77E3D1543D61CFA63C2BC9835530B3A40A4A9161",
+    "name": "\u042d\u043a\u043e\u043c\u0430\u0440\u043a\u0435\u0442 Greenway",
+    "permissions": [
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/am.mobile.greenway.apk",
+    "checksum": "aa7161220005b486222fea0487695502b313e4f3e231d9f6d686aa0f9a8aabf8"
+  },
+  "trackers": []
+}

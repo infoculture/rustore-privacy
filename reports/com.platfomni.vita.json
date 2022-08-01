@@ -1,0 +1,62 @@
+{
+  "application": {
+    "handle": "com.platfomni.vita",
+    "version_name": "2.6rs",
+    "version_code": "597",
+    "uaid": "29EFB33C673F42B192B6728804057F2E4B20A3F4",
+    "name": "\u0410\u043f\u0442\u0435\u043a\u0430 \u0412\u0438\u0442\u0430",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CAMERA",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.platfomni.vita.apk",
+    "checksum": "0c75b213120d56bcf0b372c24613169883447c2b171775a9ae89463308b39aac"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

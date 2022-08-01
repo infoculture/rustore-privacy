@@ -1,0 +1,44 @@
+{
+  "application": {
+    "handle": "ru.harlion.psy",
+    "version_name": "1.03",
+    "version_code": "4",
+    "uaid": "01C8194A7509223937770884F2069DE16BF28EFF",
+    "name": "Psy",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.BILLING",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "ru.harlion.psy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.harlion.psy.apk",
+    "checksum": "9e0990fb6c8f3e7cf81de5eefd67be2ebbee83cf1871e28fe44a9b34b266f5b0"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

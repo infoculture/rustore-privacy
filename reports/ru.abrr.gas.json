@@ -1,0 +1,41 @@
+{
+  "application": {
+    "handle": "ru.abrr.gas",
+    "version_name": "6.6.26",
+    "version_code": "226",
+    "uaid": "2868AED8A7F3EA5FC31BA9F22BC5E3FDEA6DCABE",
+    "name": "\u041c\u043e\u0439 \u0433\u0430\u0437",
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.CHECK_LICENSE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "android.test.runner"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.abrr.gas.apk",
+    "checksum": "6b3c6e2bc0d3948b32ed6461e0e0de4b1a319d80b576a110a0ac46b5fe8256d7"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Bugsnag",
+      "id": 207
+    }
+  ]
+}

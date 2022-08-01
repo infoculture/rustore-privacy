@@ -1,0 +1,72 @@
+{
+  "application": {
+    "handle": "tv.lfstrm.ttktv",
+    "version_name": "1.36.2",
+    "version_code": "13602",
+    "uaid": "0C7D72290B7B985935777631E30BF08FBC9C2B53",
+    "name": "\u0422\u0422\u041a \u0422\u0412",
+    "permissions": [
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "tv.lfstrm.ttktv.permission.C2D_MESSAGE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_APP_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/tv.lfstrm.ttktv.apk",
+    "checksum": "5cf833007509bbf233d80167df50a949691ede0bb18b045d01d3b7657076fd7d"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    }
+  ]
+}

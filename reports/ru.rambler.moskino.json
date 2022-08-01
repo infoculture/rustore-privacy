@@ -1,0 +1,61 @@
+{
+  "application": {
+    "handle": "ru.rambler.moskino",
+    "version_name": "3.2.14",
+    "version_code": "300214000",
+    "uaid": "933B8C6ED783A0FC961FC8294084A0F9FC146297",
+    "name": "\u041c\u043e\u0441\u043a\u0438\u043d\u043e",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_CALENDAR",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.rambler.moskino.apk",
+    "checksum": "70e12b2ab07d7c60b585014d5f178b15cbd4cd478d11c1f835e6881b19116e8b"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Pushwoosh",
+      "id": 39
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

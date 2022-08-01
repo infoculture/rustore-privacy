@@ -1,0 +1,56 @@
+{
+  "application": {
+    "handle": "ru.gosuslugi.goskey",
+    "version_name": "1.0.42.13",
+    "version_code": "2666",
+    "uaid": "B79B73E680E64CE4A70EDB841BB8DB80D44964AB",
+    "name": "\u0413\u043e\u0441\u043a\u043b\u044e\u0447",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.CAMERA",
+      "ru.gosuslugi.goskey.permission.PROCESS_PUSH_MSG",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "ru.gosuslugi.goskey.permission.PUSH_PROVIDER",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.NFC"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.gosuslugi.goskey.apk",
+    "checksum": "18793ac67e223d83ac931d685bad15a77a366f3b543ef2a7499623ce9df5b5c4"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "application": {
+    "handle": "com.herocraft.game.free.spaceshipbattles",
+    "version_name": "3.5.5",
+    "version_code": "30505",
+    "uaid": "76C92A4040C544C01868292C1A1A45367AF79709",
+    "name": "Space Arena: Build & Fight",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.herocraft.game.free.spaceshipbattles.apk",
+    "checksum": "14032acfb884cac43133a2cf5e502c61b3d7624cd52fdc2f35dbaa171a53fd08"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Inmobi",
+      "id": 106
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Tapjoy",
+      "id": 199
+    },
+    {
+      "name": "Mintegral",
+      "id": 200
+    },
+    {
+      "name": "Bugsnag",
+      "id": 207
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Mail.ru",
+      "id": 336
+    }
+  ]
+}

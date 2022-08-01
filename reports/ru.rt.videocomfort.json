@@ -1,0 +1,56 @@
+{
+  "application": {
+    "handle": "ru.rt.videocomfort",
+    "version_name": "1.39",
+    "version_code": "7582",
+    "uaid": "A46BA71BE9B61F1966BD1D75B44E942DF42E979B",
+    "name": "Videonablydenie",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.rt.videocomfort.apk",
+    "checksum": "c0cbc0f80f77968674b30a13615481a3dd0160e71ee0df225d45907270a76946"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "com.imabuilder.brunoperri.brunoperri",
+    "version_name": "1.220407",
+    "version_code": "22050700",
+    "uaid": "DBD52DD96F3F299FDA55B3D30E39BD811113A9C3",
+    "name": "BRUNO PERRI",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.imabuilder.brunoperri.brunoperri.apk",
+    "checksum": "e7d3a53712fdd6e5b3794fdeeb272ebeb1929718a2907c32fa2cf5a78b55e4d2"
+  },
+  "trackers": []
+}

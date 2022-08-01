@@ -1,0 +1,144 @@
+{
+  "application": {
+    "handle": "com.my.juggernautwars",
+    "version_name": "1.4.0",
+    "version_code": "10002660",
+    "uaid": "3D9E5AD29395F776B118CFDECBD59D8C3BFCB795",
+    "name": "Juggernaut Wars",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.my.juggernautwars.permission.C2D_MESSAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.samsung.android.iap.permission.BILLING",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.my.juggernautwars.apk",
+    "checksum": "129de2053a1bb1ef4d85174752d8f50ef344e22731f2787526302a4074b96af1"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "HockeyApp",
+      "id": 26
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "ChartBoost",
+      "id": 53
+    },
+    {
+      "name": "Moat",
+      "id": 61
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Fyber",
+      "id": 104
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Inmobi",
+      "id": 106
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "HyprMX",
+      "id": 189
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Tapjoy",
+      "id": 199
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Mail.ru",
+      "id": 336
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

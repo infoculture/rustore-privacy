@@ -1,0 +1,42 @@
+{
+  "application": {
+    "handle": "com.minsvyaz.gosuslugi.stopcorona",
+    "version_name": "1.1.5-gms",
+    "version_code": "55",
+    "uaid": "D87A06DC1F5B87D69B1BCE20172807F55B3E99F4",
+    "name": "\u0421\u0442\u043e\u043f COVID-19",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.FLASHLIGHT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.minsvyaz.gosuslugi.stopcorona.apk",
+    "checksum": "f971a1cad9dd332c129c9eef328fea9c87338a808159b2e577ce6030b891e3e3"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "ru.orb.mfc.mobile",
+    "version_name": "1.0.63",
+    "version_code": "63",
+    "uaid": "1B23E0D252201531F0437F383469FB28D1861981",
+    "name": "\u041c\u0424\u0426 56",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.orb.mfc.mobile.apk",
+    "checksum": "101d77493594895b394826e3a9406fda02ec9329ec4e12de1d81fd05b0739ced"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

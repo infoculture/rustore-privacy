@@ -1,0 +1,60 @@
+{
+  "application": {
+    "handle": "ru.rambler.mail",
+    "version_name": "3.2.1.1",
+    "version_code": "2032011",
+    "uaid": "068A86079FA7F08553C5DC90910AC5E3370D96A2",
+    "name": "\u0420\u0430\u043c\u0431\u043b\u0435\u0440/\u043f\u043e\u0447\u0442\u0430",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_CREDENTIALS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.AUTHENTICATE_ACCOUNTS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.rambler.mail.apk",
+    "checksum": "a3058d94392d2df30cb7bf7ab9c31fa164a5ceb23c41801f9cb5d7688340f446"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

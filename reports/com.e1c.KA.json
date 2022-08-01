@@ -1,0 +1,54 @@
+{
+  "application": {
+    "handle": "com.e1c.KA",
+    "version_name": "2.5.7",
+    "version_code": "178",
+    "uaid": "0602E12DCADCAE23E9F87950AD0F69F4D8C1E79E",
+    "name": "1\u0421:\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u0430\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f 2",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.USE_BIOMETRIC",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CALL_PHONE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.INTERNET",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.e1c.KA.apk",
+    "checksum": "9d2390f98c7bd6d03122918d69a249b3a2769b9414d66a9822afff58f6f60708"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "com.helpdeskRGMU.uit.stsp",
+    "version_name": "1.0.0",
+    "version_code": "21",
+    "uaid": "0A902907D18020B2638458A7836B32DE7402F362",
+    "name": "\u0421\u0442\u043e\u043b \u0441\u043f\u0440\u0430\u0432\u043e\u043a \u0420\u043e\u0441\u0442\u0413\u041c\u0423",
+    "permissions": [
+      "android.permission.USE_BIOMETRIC",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.FLASHLIGHT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.helpdeskRGMU.uit.stsp.apk",
+    "checksum": "7a3e603dd5460c3d33284a3d4e4559ad1d47cb3a7b3703b0138edc8ecf7ec497"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

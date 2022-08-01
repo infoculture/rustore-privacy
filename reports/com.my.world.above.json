@@ -1,0 +1,118 @@
+{
+  "application": {
+    "handle": "com.my.world.above",
+    "version_name": "13.0.12269",
+    "version_code": "12269",
+    "uaid": "0BE841EE6662507FD472F6C4F49F3BAECE601AE7",
+    "name": "World Above: Cloud Harbor",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.android.vending.CHECK_LICENSE",
+      "com.samsung.android.iap.permission.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.my.world.above.apk",
+    "checksum": "3971135256121a0d505cddb40af162550f4d0cd2a7ba74409fdb75f656e690c9"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "ChartBoost",
+      "id": 53
+    },
+    {
+      "name": "Moat",
+      "id": 61
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Fyber",
+      "id": 104
+    },
+    {
+      "name": "Inmobi",
+      "id": 106
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Tapjoy",
+      "id": 199
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Mail.ru",
+      "id": 336
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

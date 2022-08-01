@@ -1,0 +1,51 @@
+{
+  "application": {
+    "handle": "ru.psbank.msb.dev.psb_appstore",
+    "version_name": "1.83.042",
+    "version_code": "183042",
+    "uaid": "9929D783896D626BA0540B73607951D8D5180138",
+    "name": "\u041f\u0421\u0411 \u0411\u0438\u0437\u043d\u0435\u0441",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "ru.psbank.msb.dev.psb_appstore.permission.pushserver.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.NFC",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.SET_ANIMATION_SCALE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "ru.psbank.msb.dev.psb_appstore.permission.CHAT_BROADCAST",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.psbank.msb.dev.psb_appstore.apk",
+    "checksum": "a9eff485d4103bba1b92305933edd1bee503484d50c717e8d7399e1f72868143"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

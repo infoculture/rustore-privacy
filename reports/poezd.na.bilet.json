@@ -1,0 +1,23 @@
+{
+  "application": {
+    "handle": "poezd.na.bilet",
+    "version_name": "3.0",
+    "version_code": "14",
+    "uaid": "C1C46D6261A2C534830EF3093968854E0846271A",
+    "name": "\u0416\u0414 \u0431\u0438\u043b\u0435\u0442\u044b \u043e\u043d\u043b\u0430\u0439\u043d \u043d\u0430 \u043f\u043e\u0435\u0437\u0434 \u0420\u0416\u0414",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/poezd.na.bilet.apk",
+    "checksum": "3fbfdde8fe6abe27b717b9325e857917b9e4c5e868bf5d45e1e141f562ca84f5"
+  },
+  "trackers": []
+}

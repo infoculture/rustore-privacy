@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "ru.ubrr.corporate",
+    "version_name": "3.3.1",
+    "version_code": "2044",
+    "uaid": "A3F13F0991276C26C9DF83E0DB35B137D8BB1830",
+    "name": "\u0423\u0411\u0420\u0438\u0420 \u041b\u0430\u0439\u0442 2.0",
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.AUDIO_CAPTURE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.VIDEO_CAPTURE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.ubrr.corporate.apk",
+    "checksum": "92d851b664e6f6083ed4cc404be86c8fbed971bac94899a95de8bbad401a09d8"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    }
+  ]
+}

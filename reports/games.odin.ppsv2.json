@@ -1,0 +1,54 @@
+{
+  "application": {
+    "handle": "games.odin.ppsv2",
+    "version_name": "710",
+    "version_code": "710",
+    "uaid": "59529E8B4873F801847F9869FC929572FDF0B268",
+    "name": "Heroes and Elements",
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/games.odin.ppsv2.apk",
+    "checksum": "3395c50cb27eba00b5edbad3ca0c90675ee6ab18c00e86a225742cd0d8430331"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Adjust",
+      "id": 52
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

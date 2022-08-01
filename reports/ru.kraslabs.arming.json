@@ -1,0 +1,61 @@
+{
+  "application": {
+    "handle": "ru.kraslabs.arming",
+    "version_name": "2.9.3 \u043e\u0442 21.02.2022 \u0433.",
+    "version_code": "84",
+    "uaid": "26781A92B29CF4676CB2FC969525252F48151CDF",
+    "name": "\u0410\u0420\u041c \u0418\u043d\u0436\u0435\u043d\u0435\u0440",
+    "permissions": [
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.USE_FINGERPRINT",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.VIBRATE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.WRITE_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.REAL_GET_TASKS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.kraslabs.arming.apk",
+    "checksum": "a670638e101cce9487b0bc057d8a2a46cd810e6e2306307437ecbe2dffbb6646"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

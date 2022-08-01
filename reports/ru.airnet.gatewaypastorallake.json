@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "ru.airnet.gatewaypastorallake",
+    "version_name": "1.04.003",
+    "version_code": "27",
+    "uaid": "BB1DAF14B6A19BA03413FDD411F370E7C7454C53",
+    "name": "Gateway Pastoral Lake",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.airnet.gatewaypastorallake.apk",
+    "checksum": "73b1ca1828f98ffc779f9ae506a6aaf33752df382a9b22518fa0175a449b3659"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

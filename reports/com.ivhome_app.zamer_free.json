@@ -1,0 +1,26 @@
+{
+  "application": {
+    "handle": "com.ivhome_app.zamer_free",
+    "version_name": "1.0.1",
+    "version_code": "26",
+    "uaid": "D2F055148D023338088C4EB4E0B29A92B3800B75",
+    "name": "\u0417\u0430\u043c\u0435\u0440\u0449\u0438\u043a FREE",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_MEDIA_LOCATION"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.ivhome_app.zamer_free.apk",
+    "checksum": "3df9ad17428e3f8bb47468d45c2b3b4cc437b59a6fadad1ac16a67c65855dc2e"
+  },
+  "trackers": []
+}

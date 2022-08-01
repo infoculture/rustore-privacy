@@ -1,0 +1,38 @@
+{
+  "application": {
+    "handle": "com.wfsys.carrent",
+    "version_name": "1.1.7",
+    "version_code": "25",
+    "uaid": "1A033BB3A3764CFB58239DB113E7F267FA6D8302",
+    "name": "WS. Carrent",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.wfsys.carrent.apk",
+    "checksum": "278cb84559f2334ad7a81cea653943eefe9607b0622b8a3da0c80c1058044f10"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    }
+  ]
+}

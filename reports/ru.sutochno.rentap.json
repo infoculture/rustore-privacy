@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.sutochno.rentap",
+    "version_name": "1.7.73",
+    "version_code": "4740",
+    "uaid": "78BFB8753426C5AA9C22E59A92F4A3690CA2F794",
+    "name": "\u0421\u0434\u0430\u0432\u0430\u0439\u0441\u044f",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.sutochno.rentap.apk",
+    "checksum": "06dcffc15a560e3e72e001ffc411d4565d6d0e1f895aa2126994b164011e71da"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

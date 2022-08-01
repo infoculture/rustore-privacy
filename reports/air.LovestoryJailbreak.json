@@ -1,0 +1,23 @@
+{
+  "application": {
+    "handle": "air.LovestoryJailbreak",
+    "version_name": "1.0.0",
+    "version_code": "1000000",
+    "uaid": "9D8A36D8D895D44515EAACF06B3BBF761BC998C6",
+    "name": "Love story - Jailbreak",
+    "permissions": [
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/air.LovestoryJailbreak.apk",
+    "checksum": "725f66a37ffe375a53e89a9f45c791294167b19f73d24778b8e62c70f3350e8d"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    }
+  ]
+}

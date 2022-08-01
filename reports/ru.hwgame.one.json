@@ -1,0 +1,37 @@
+{
+  "application": {
+    "handle": "ru.hwgame.one",
+    "version_name": "1.01.256",
+    "version_code": "56",
+    "uaid": "283D8B20B7F6923CB2114ABD80614C34E10FC655",
+    "name": "Happy World Game",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.hwgame.one.apk",
+    "checksum": "9f6e0ea1fde7d34fedaf541a64e1051c3146dc17f1366e138d30c6a76dcb42d3"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

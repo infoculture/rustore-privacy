@@ -1,0 +1,135 @@
+{
+  "application": {
+    "handle": "com.vk.calls",
+    "version_name": "1.14",
+    "version_code": "11877",
+    "uaid": "9F89307A61F52812482584D9302904973A485514",
+    "name": "VK Calls",
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_SYNC_SETTINGS",
+      "com.vk.usersstore.permission.LOAD",
+      "com.vk.calls.usersstore.permission.LOAD",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.vk.im.usersstore.permission.LOAD",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.vkontakte.android.usersstore.permission.SAVE",
+      "com.vk.clips.usersstore.permission.LOAD",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.ACTIVITY_RECOGNITION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.ACCESS_MEDIA_LOCATION",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.USE_BIOMETRIC",
+      "android.provider.Telephony.SMS_RECEIVED",
+      "com.vk.calls.usersstore.permission.SAVE",
+      "com.vkontakte.android.permission.ACCESS_DATA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CALL_LOG",
+      "android.permission.QUICKBOOT_POWERON",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_CALENDAR",
+      "com.vkontakte.android.permission.MAPS_RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.vkontakte.android.usersstore.permission.LOAD",
+      "com.vk.usersstore.permission.SAVE",
+      "android.permission.READ_PHONE_NUMBERS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.CAMERA",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.GET_ACCOUNTS",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.MANAGE_OWN_CALLS",
+      "android.permission.READ_PHONE_STATE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.vkontakte.android.permission.APP_REDIRECT",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.vending.BILLING",
+      "com.vk.im.usersstore.permission.SAVE",
+      "android.gms.permission.ACTIVITY_RECOGNITION",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.NFC",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.READ_APP_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.WRITE_CONTACTS",
+      "com.vk.clips.usersstore.permission.SAVE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.vk.calls.apk",
+    "checksum": "57441682583c1a87358ee5f8f4aec82bee8352aed6cdf809efa4b314bb82a341"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

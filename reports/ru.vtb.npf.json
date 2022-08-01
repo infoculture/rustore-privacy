@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.vtb.npf",
+    "version_name": "1.0.16",
+    "version_code": "34",
+    "uaid": "70CA1CE7FEE6AF69C7E13B7FF7BE3C318D896C4B",
+    "name": "\u041d\u041f\u0424 \u0412\u0422\u0411",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USE_BIOMETRIC",
+      "ru.vtb.npf.permission.PUSH_PROVIDER",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.WAKE_LOCK",
+      "ru.vtb.npf.permission.PROCESS_PUSH_MSG",
+      "android.permission.VIBRATE",
+      "android.permission.USE_FINGERPRINT",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.vtb.npf.apk",
+    "checksum": "b1a1e7fc3680b8502992a6f99267cc0adeb9368a06cf13a1daf8445c174baa35"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

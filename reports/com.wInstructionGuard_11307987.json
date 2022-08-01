@@ -1,0 +1,145 @@
+{
+  "application": {
+    "handle": "com.wInstructionGuard_11307987",
+    "version_name": "1.0.4",
+    "version_code": "1556181801",
+    "uaid": "A4D88FF5B9F3182B762858476FA2A0CA30CDA2F9",
+    "name": "\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u0430\u0436 \u0427\u041e",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.android.alarm.permission.SET_ALARM",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.INTERNET",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.NFC",
+      "android.permission.VIBRATE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.RECORD_AUDIO",
+      "com.wInstructionGuard_11307987.permission.C2D_MESSAGE",
+      "android.permission.QUICKBOOT_POWERON",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CAMERA",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.webkit.permission.PLUGIN",
+      "com.google.android.gms.permission.AD_ID",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.BLUETOOTH",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.oppo.launcher.permission.READ_SETTINGS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.wInstructionGuard_11307987.apk",
+    "checksum": "225a2323d5755a74d064dbc0b2abd9e09c6fe1e6ca6ea8f95a015bbb4539dc7c"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Appodeal",
+      "id": 162
+    },
+    {
+      "name": "Criteo",
+      "id": 170
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Appnext",
+      "id": 184
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "AltBeacon",
+      "id": 219
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "Appodeal Stack",
+      "id": 368
+    },
+    {
+      "name": "AppsGeyser",
+      "id": 369
+    },
+    {
+      "name": "BidMachine",
+      "id": 370
+    }
+  ]
+}

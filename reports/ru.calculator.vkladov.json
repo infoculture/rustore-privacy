@@ -1,0 +1,21 @@
+{
+  "application": {
+    "handle": "ru.calculator.vkladov",
+    "version_name": "1.0.9",
+    "version_code": "22",
+    "uaid": "5F43EC0B62585A1A4C801FD64B7231CC469096E3",
+    "name": "Deposit Calculator",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.calculator.vkladov.apk",
+    "checksum": "fd47be7a08e50f9d776d7fd0564127c0a992deb834f9bc28cd70c937d23a8947"
+  },
+  "trackers": []
+}

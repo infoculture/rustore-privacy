@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "xyz.appmaker.vgojow",
+    "version_name": "1",
+    "version_code": "1",
+    "uaid": "47900935C9A6D8875ADFF59EDC8746CDB2607EF5",
+    "name": "FOODUFA.RU",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/xyz.appmaker.vgojow.apk",
+    "checksum": "940751dbed22c8a6aaf9691399ec8dc09ac78632607b54e3ddf2afa9ebf5eb96"
+  },
+  "trackers": []
+}

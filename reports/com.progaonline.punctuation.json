@@ -1,0 +1,37 @@
+{
+  "application": {
+    "handle": "com.progaonline.punctuation",
+    "version_name": "1.9",
+    "version_code": "9",
+    "uaid": "84C6F70457A14A4D2A44C7A91DB91F3E4FBC9621",
+    "name": "\u0420\u0430\u0441\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0437\u043d\u0430\u043a\u0438 \u043f\u0440\u0435\u043f\u0438\u043d\u0430\u043d\u0438\u044f",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.BILLING",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.progaonline.punctuation.apk",
+    "checksum": "f6fa7f8774a84d8de9c869c7d8d79d5a71b343a5b03e4b8b98d45d56be15160a"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "application": {
+    "handle": "ru.aliexpress.buyer",
+    "version_name": "8.20.225",
+    "version_code": "521",
+    "uaid": "9BC7570E940741FE90488117E39A0C34589CA275",
+    "name": "AliExpress",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "ru.aliexpress.buyer.permission.PROCESS_PUSH_MSG",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.GET_TASKS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAPTURE_VIDEO_OUTPUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.READ_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "cn.org.ifaa.permission.USE_IFAA_MANAGER",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.MANAGE_FINGERPRINT",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_WIFI_STATE",
+      "ru.aliexpress.buyer.permission.MIPUSH_RECEIVE",
+      "android.permission.FLASHLIGHT",
+      "com.android.providers.media.MediaProvider",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "org.com.ifaa.kmfp.android.manager.permissions"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.aliexpress.buyer.apk",
+    "checksum": "b74496211edb3f0d8636b6990fb408369b44cb1285fd9023213c988691c3f5f0"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

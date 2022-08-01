@@ -1,0 +1,51 @@
+{
+  "application": {
+    "handle": "ru.bloodsoft.gibddchecker",
+    "version_name": "3.9.1",
+    "version_code": "39100",
+    "uaid": "76BB7A1C25DE4B761FEA4537263C9BE2FE88723A",
+    "name": "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0430\u0432\u0442\u043e. \u0410\u043d\u0442\u0438\u043f\u0435\u0440\u0435\u043a\u0443\u043f",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.CAMERA"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.bloodsoft.gibddchecker.apk",
+    "checksum": "ba435f2c91dd66ddae3d1a7ae5770671829e564eb47831a0f2e147a010034812"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

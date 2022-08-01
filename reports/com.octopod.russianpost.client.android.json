@@ -1,0 +1,70 @@
+{
+  "application": {
+    "handle": "com.octopod.russianpost.client.android",
+    "version_name": "7.8.2",
+    "version_code": "782",
+    "uaid": "94490FBFB9F716963D494AB641B7FBD2A3529374",
+    "name": "\u041f\u043e\u0447\u0442\u0430 \u0420\u043e\u0441\u0441\u0438\u0438",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.MANAGE_ACCOUNTS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.octopod.russianpost.client.android.apk",
+    "checksum": "adff7ecc8a7822345ed5f27bd5760822104cbaaf35c293be30ddae04c58ab6a6"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

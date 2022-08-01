@@ -1,0 +1,50 @@
+{
+  "application": {
+    "handle": "ru.yandex.androidkeyboard",
+    "version_name": "24.10",
+    "version_code": "30241000",
+    "uaid": "110D9D147BB90CE20A9DB7AB47211067CACBB6C5",
+    "name": "Yandex.Keyboard",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WRITE_USER_DICTIONARY",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.yandex.permission.READ_CREDENTIALS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.READ_PROFILE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.yandex.permission.AM_COMMUNICATION",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.READ_USER_DICTIONARY",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH_CONNECT",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.yandex.androidkeyboard.apk",
+    "checksum": "1be049371ddace508a99bf828083c0420f82d836afaa9b57efb96243dee08079"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

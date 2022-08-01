@@ -1,0 +1,107 @@
+{
+  "application": {
+    "handle": "com.herocraft.game.fruitshake.brawlking",
+    "version_name": "0.24.3",
+    "version_code": "24003",
+    "uaid": "09E448046752ED204261A6B33775DDADB918991B",
+    "name": "Brawl King",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_LOGS",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.BILLING",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.herocraft.game.fruitshake.brawlking.apk",
+    "checksum": "b88c8627568ed4c14bde6d67b755a8eb8bc14b028ddc6de088cccbc5f932f249"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Moat",
+      "id": 61
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Inmobi",
+      "id": 106
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Tapjoy",
+      "id": 199
+    },
+    {
+      "name": "Mintegral",
+      "id": 200
+    },
+    {
+      "name": "Tenjin",
+      "id": 249
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

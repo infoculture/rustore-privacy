@@ -1,0 +1,51 @@
+{
+  "application": {
+    "handle": "com.tsartech.dots",
+    "version_name": "1.0",
+    "version_code": "12",
+    "uaid": "23ED52E3741282DA86FDB3BFDA7B63CA60E3740F",
+    "name": "Dots",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.tsartech.dots.apk",
+    "checksum": "a08a2cf6c9bae368b6cd3cc1fd0237a8b89058c913ec2674a6171bcbdd2fc60a"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

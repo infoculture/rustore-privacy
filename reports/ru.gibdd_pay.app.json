@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "ru.gibdd_pay.app",
+    "version_name": "4.15.5",
+    "version_code": "260955",
+    "uaid": "35D0D4BD5ECD8C7C9F373ABB90DF316408408842",
+    "name": "\u0428\u0442\u0440\u0430\u0444\u044b",
+    "permissions": [
+      "ru.gibdd_pay.app.permission.PUSH_PROVIDER",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "ru.gibdd_pay.app.permission.PROCESS_PUSH_MSG",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.gibdd_pay.app.apk",
+    "checksum": "65b3acf4730f514859684efd2575bebb018e7740fbd3e60053a9396fbe9f5cdb"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Adjust",
+      "id": 52
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

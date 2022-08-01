@@ -1,0 +1,50 @@
+{
+  "application": {
+    "handle": "ru.genisoft.android.kozirnaya.karta",
+    "version_name": "1.5.0",
+    "version_code": "248",
+    "uaid": "C6094679BD047EE9A5E42D079D0F3F136E2184FB",
+    "name": "\u041a\u043e\u0437\u044b\u0440\u043d\u0430\u044f \u041a\u0430\u0440\u0442\u0430",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.genisoft.android.kozirnaya.karta.apk",
+    "checksum": "1f2503a2971bf52043385587fc78ed733af93af12972c4eb9132059a5bef5a4f"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

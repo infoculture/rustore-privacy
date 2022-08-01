@@ -1,0 +1,18 @@
+{
+  "application": {
+    "handle": "com.nekko.rutouch",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "BC79626EC61C66C1581A7233F0149E1841DBA923",
+    "name": "Rutouch",
+    "permissions": [
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.nekko.rutouch.apk",
+    "checksum": "d8ca775dde9625caa8afe07bc736c7df56fc494d4f5075f0fd43cf85b1ff8955"
+  },
+  "trackers": []
+}

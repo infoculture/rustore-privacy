@@ -1,0 +1,32 @@
+{
+  "application": {
+    "handle": "ru.netfinbank.application",
+    "version_name": "4.4",
+    "version_code": "9",
+    "uaid": "B85D374247B3F752798EF4FF8BE88B818CF537B9",
+    "name": "Netfinbank",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.netfinbank.application.apk",
+    "checksum": "42c658534b029339b5e1d17bf8d4cfde6e284c045157062b8980a5b5c8ab3daf"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

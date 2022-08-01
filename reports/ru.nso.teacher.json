@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "ru.nso.teacher",
+    "version_name": "1.0.3",
+    "version_code": "202112060",
+    "uaid": "415A62B5244D5458E3B6EBB25955E48449E4EEB0",
+    "name": "\u0416\u0443\u0440\u043d\u0430\u043b",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.nso.teacher.apk",
+    "checksum": "b4b57c2a9f04c0d9a12abe4dc0be3504b35f8c33193c973af3510e408c5d39d7"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

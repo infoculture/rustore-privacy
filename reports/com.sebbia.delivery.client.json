@@ -1,0 +1,79 @@
+{
+  "application": {
+    "handle": "com.sebbia.delivery.client",
+    "version_name": "1.60.2",
+    "version_code": "1941",
+    "uaid": "D0705EDB117CE27D965BD1AD271B37419F6DC3E2",
+    "name": "Dostavista",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sebbia.delivery.client.permission.PUSH_PROVIDER",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.adjust.preinstall.READ_PERMISSION",
+      "android.permission.GET_TASKS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.sebbia.delivery.client.permission.PROCESS_PUSH_MSG",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.sebbia.delivery.client.apk",
+    "checksum": "bd6d7b7e095c01eec13daf289914902582f6e7ce5cd9827cb34aaceca2bf0a37"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Adjust",
+      "id": 52
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

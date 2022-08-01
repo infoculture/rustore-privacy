@@ -1,0 +1,66 @@
+{
+  "application": {
+    "handle": "ru.android.cars7",
+    "version_name": "4.0.8",
+    "version_code": "450",
+    "uaid": "3F154205D2DCAB2038C1892828936E49761E8032",
+    "name": "\u041a\u0430\u0440\u0448\u0435\u0440\u0438\u043d\u0433",
+    "permissions": [
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.USE_FINGERPRINT",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_APP_BADGE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.ACCESS_MEDIA_LOCATION"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.android.cars7.apk",
+    "checksum": "42bd4f7fc13f2d516a31b6eb1378703eec905306526c8da6e7f22a9213846094"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Mapbox",
+      "id": 171
+    }
+  ]
+}

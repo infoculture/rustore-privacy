@@ -1,0 +1,71 @@
+{
+  "application": {
+    "handle": "com.titapp",
+    "version_name": "2.0.0",
+    "version_code": "50",
+    "uaid": "20191A1C2E603E633B1E7A91A56DAC9E87D42019",
+    "name": "Tit",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.CAMERA",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.ACCESS_NOTIFICATION_POLICY",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.VIBRATE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.titapp.apk",
+    "checksum": "d0d1ea5c78cd8c77d652cb0fceadc11f6d039d39d104fbc6993931af18ffe6a2"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    }
+  ]
+}

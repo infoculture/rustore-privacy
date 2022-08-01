@@ -1,0 +1,83 @@
+{
+  "application": {
+    "handle": "ru.openbroker.app",
+    "version_name": "3.15.0",
+    "version_code": "31502477",
+    "uaid": "53E3D6686C6D7AD73744155BB678ED27EAF7C249",
+    "name": "\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.USE_FINGERPRINT",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.USE_BIOMETRIC",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_TASKS",
+      "android.permission.REORDER_TASKS",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CAMERA2",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.BLUETOOTH",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.FOREGROUND_SERVICE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.CALL_PHONE",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.openbroker.app.apk",
+    "checksum": "3dacee822876294cf2bb390b856429a1d62a8fc89ac250d6659062070d9f8400"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "ru.itserebra.diz",
+    "version_name": "0507",
+    "version_code": "3",
+    "uaid": "BE0A3FC12EB244A75CD76C092386C5E338860104",
+    "name": "\u0414\u0435\u0432\u043e\u0447\u043a\u0430 \u0438 \u0437\u043e\u043c\u0431\u0438",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.itserebra.diz.apk",
+    "checksum": "4473dc327725d12a72ec7ed75910d18b4edca4a93bda742d834811bb1dbe3993"
+  },
+  "trackers": []
+}

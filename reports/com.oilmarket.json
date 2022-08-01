@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "com.oilmarket",
+    "version_name": "0.0.13",
+    "version_code": "13",
+    "uaid": "4D7CB706B385B8C4F2A3A7C3B4DDE7BEB7743FF4",
+    "name": "OilMarket",
+    "permissions": [
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.VIBRATE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.oilmarket.apk",
+    "checksum": "430cf59d347d44b9af53a24ba811f8eed6696a9dfbbfe51ac47d3a25b59522aa"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

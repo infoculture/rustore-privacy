@@ -1,0 +1,108 @@
+{
+  "application": {
+    "handle": "ru.superjob.client.android",
+    "version_name": "6.41",
+    "version_code": "19116",
+    "uaid": "1F18261E0C06F7EEFCD3821686DA7F5F593B70D0",
+    "name": "\u0420\u0430\u0431\u043e\u0442\u0430",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "ru.superjob.client.android.permission.PUSH_PROVIDER",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.google.android.apps.photos.permission.GOOGLE_PHOTOS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_CONTACTS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.WAKE_LOCK",
+      "com.sec.android.provider.badge.permission.READ",
+      "ru.superjob.client.android.permission.PROCESS_PUSH_MSG",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.superjob.client.android.apk",
+    "checksum": "15483cfb6ddc80a42bebdfa4c995bbb94b0be38b8f76bfe5222849ddd3d17fc9"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

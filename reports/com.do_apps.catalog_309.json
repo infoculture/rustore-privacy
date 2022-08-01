@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "com.do_apps.catalog_309",
+    "version_name": "81.1.05",
+    "version_code": "810105",
+    "uaid": "7B789682220C93B3312E11A1495FCE0F26329345",
+    "name": "\u0423\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044f",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.do_apps.catalog_309.apk",
+    "checksum": "27d6f17f21bc14ebf642de79a6a2e0946e95fbdc8b06453c970c33314a6b2e94"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

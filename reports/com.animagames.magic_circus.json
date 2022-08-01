@@ -1,0 +1,47 @@
+{
+  "application": {
+    "handle": "com.animagames.magic_circus",
+    "version_name": "1.7.51",
+    "version_code": "113",
+    "uaid": "3E32BB77EEC4C71264A2050B72E7CDD4FB2E2427",
+    "name": "Magic Circus - match 3",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.animagames.magic_circus.apk",
+    "checksum": "6fda6cdee52974556a31c480e944b91b6096ef488e9dd0ec3287a00a020550ff"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

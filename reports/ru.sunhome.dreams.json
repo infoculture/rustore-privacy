@@ -1,0 +1,22 @@
+{
+  "application": {
+    "handle": "ru.sunhome.dreams",
+    "version_name": "1.4.0",
+    "version_code": "8",
+    "uaid": "5BE6AEC07B3C355C31974377AEBA141D1B3571CA",
+    "name": "\u0421\u043e\u043d\u043d\u0438\u043a \u0414\u043e\u043c\u0430 \u0421\u043e\u043b\u043d\u0446\u0430",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sunhome.dreams.apk",
+    "checksum": "dab5cd35ef75c5bcee0c170d08d479b7d7cef23d3c6d1a04db02d7eff48d3f4a"
+  },
+  "trackers": []
+}

@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "com.zengalt.engster",
+    "version_name": "2.1.6",
+    "version_code": "130",
+    "uaid": "85EAAAB3878E48E9EB1523396A435CAF1B4518AB",
+    "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.zengalt.engster.apk",
+    "checksum": "46caa8b5143dd0f154e74c1c8b4c5817bc1126dc947e6ae88b00c78ab827eb50"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

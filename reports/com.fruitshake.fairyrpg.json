@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "com.fruitshake.fairyrpg",
+    "version_name": "2.4",
+    "version_code": "80",
+    "uaid": "C1FAF4F7F7CEEFA2819BDCBEA4F7BC7F40615D23",
+    "name": "Age of Revenge",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "com.fruitshake.fairyrpg.permission.C2D_MESSAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.fruitshake.fairyrpg.apk",
+    "checksum": "af7ed78df9714ee43e3bca56178f7e3cec2ad84e6f2368817a1cccf7c41a8ab7"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

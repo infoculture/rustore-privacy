@@ -1,0 +1,63 @@
+{
+  "application": {
+    "handle": "cb.ibank",
+    "version_name": "5.16.0",
+    "version_code": "5024653",
+    "uaid": "5CE94EDB45DAFD3419FA125F0E1B42D499E74F3D",
+    "name": "\u0423\u0411\u0420\u0438\u0420",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.AUDIO_CAPTURE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.FLASHLIGHT",
+      "android.permission.VIDEO_CAPTURE",
+      "android.permission.NFC",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/cb.ibank.apk",
+    "checksum": "b8bce6b097532b1534ebf7d8d5e8abed3ff1e7c0c6862a97cafb5d7f787fa546"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

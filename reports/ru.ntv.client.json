@@ -1,0 +1,71 @@
+{
+  "application": {
+    "handle": "ru.ntv.client",
+    "version_name": "5.9.3",
+    "version_code": "253",
+    "uaid": "6AA1655A181EEDF2100C4D321A9BF2E512A95B70",
+    "name": "\u041d\u0422\u0412",
+    "permissions": [
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "com.huawei.permission.external_app_settings.USE_COMPONENT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "oppo.permission.OPPO_COMPONENT_SAFE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "com.android.alarm.permission.SET_ALARM",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.ntv.client.apk",
+    "checksum": "a0f801750d6bfb77c53a09281ff1bcff606a77ebbab68da7d71c34b7d0bf70a4"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

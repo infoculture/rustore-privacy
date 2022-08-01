@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.italianwords",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "13532DD56907E6084FCF63BFB065C7AB8EB4D4CD",
+    "name": "Learn Italian",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.italianwords.apk",
+    "checksum": "136eb353da7696c331a5e867a31f5abb17de25a1aafaaf618fd5b611c28bc7cb"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

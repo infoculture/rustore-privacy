@@ -1,0 +1,36 @@
+{
+  "application": {
+    "handle": "uralpro.Game2048",
+    "version_name": "1.2",
+    "version_code": "2",
+    "uaid": "FD0819D35B713E3A9EC3E74F9D9CC535C6596791",
+    "name": "2048",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/uralpro.Game2048.apk",
+    "checksum": "92d6d2aa999e8953bed9f0023ebe31ee8c49f75ec56bb6f7259417891da02c52"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

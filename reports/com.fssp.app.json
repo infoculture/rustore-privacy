@@ -1,0 +1,51 @@
+{
+  "application": {
+    "handle": "com.fssp.app",
+    "version_name": "1.0.0",
+    "version_code": "2",
+    "uaid": "EF485AFA7EE4DAD8A9EC2745F64849AA9F4B0876",
+    "name": "\u0424\u0421\u0421\u041f: \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0437\u0430\u0434\u043e\u043b\u0436\u0435\u043d\u043d\u043e\u0441\u0442\u0435\u0439",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.INTERNET",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.WAKE_LOCK",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.sec.android.provider.badge.permission.WRITE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.fssp.app.apk",
+    "checksum": "97f32398073526899bd89afa060d23c458ffb20c9623970241d4a44e2af30d39"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "application": {
+    "handle": "ru.hwgame.two",
+    "version_name": "1.01.271",
+    "version_code": "71",
+    "uaid": "DB9BC9C54A48E4C35D2286E125218FB3C8A88337",
+    "name": "Tappy Shute",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.hwgame.two.apk",
+    "checksum": "beabdb371309cd8001c5cfb15e5d71f8d31d2b655e6d2a418f2313631c0c1b09"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

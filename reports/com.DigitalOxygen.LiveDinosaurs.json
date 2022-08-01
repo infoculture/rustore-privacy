@@ -1,0 +1,22 @@
+{
+  "application": {
+    "handle": "com.DigitalOxygen.LiveDinosaurs",
+    "version_name": "0.5",
+    "version_code": "50",
+    "uaid": "0AC2CCECBF78300EE673CC9516FD021C0B65C23D",
+    "name": "\u0416\u0438\u0432\u044b\u0435 \u0414\u0438\u043d\u043e\u0437\u0430\u0432\u0440\u044b",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.DigitalOxygen.LiveDinosaurs.apk",
+    "checksum": "410b741203019eab33b16d045a22e10405c752574d0e4d9ed86f4b92a306ca85"
+  },
+  "trackers": []
+}

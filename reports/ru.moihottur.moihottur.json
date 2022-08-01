@@ -1,0 +1,30 @@
+{
+  "application": {
+    "handle": "ru.moihottur.moihottur",
+    "version_name": "1.5.0",
+    "version_code": "16",
+    "uaid": "390A70927EEB7B90A1E7F0D7F736D549F9FED09C",
+    "name": "\u041c\u043e\u0439 \u0433\u043e\u0440\u044f\u0449\u0438\u0439 \u0442\u0443\u0440",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.moihottur.moihottur.apk",
+    "checksum": "10a791ddde78c5acc22723d1d803e3dfa68a7caaf68f754263d588d2b0eac04d"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

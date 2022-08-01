@@ -1,0 +1,51 @@
+{
+  "application": {
+    "handle": "ru.beeline.beebookreader",
+    "version_name": "2.8",
+    "version_code": "39",
+    "uaid": "850088542CA5870FD143425174A45D78FBDBBB9C",
+    "name": "beeline books",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.MANAGE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.VIBRATE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.REORDER_TASKS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.beeline.beebookreader.apk",
+    "checksum": "373c3089c4cd1122fafc1929feb1b26e3f0f9d8030bd49cf6b0e0bb2aaf81d49"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

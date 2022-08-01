@@ -1,0 +1,142 @@
+{
+  "application": {
+    "handle": "app.datebox.dalla",
+    "version_name": "1.4.8",
+    "version_code": "49",
+    "uaid": "4D243D5A1DE378B2F5DF5ACC2F90DF8B11C1BC1D",
+    "name": "Datebox",
+    "permissions": [
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.google.android.gms.permission.AD_ID",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.READ_LOGS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "app.datebox.dalla.permission.C2D_MESSAGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.INTERNET",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_APP_BADGE",
+      "com.android.vending.BILLING"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/app.datebox.dalla.apk",
+    "checksum": "91f30ee154694b879694e179bf8628904c127a7e07c54afb7cf9ab106d7d960d"
+  },
+  "trackers": [
+    {
+      "name": "Ogury Presage",
+      "id": 34
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Appodeal",
+      "id": 162
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "Criteo",
+      "id": 170
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "Appodeal Stack",
+      "id": 368
+    },
+    {
+      "name": "BidMachine",
+      "id": 370
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "com.geoscope.QRZ",
+    "version_name": "1.6.0",
+    "version_code": "560",
+    "uaid": "5CF72EF902DE0212CBD765B124DD93A616605FBB",
+    "name": "QRZ communicator",
+    "permissions": [
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.MANAGE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_NOTIFICATION_POLICY",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACTION_MANAGE_OVERLAY_PERMISSION",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.geoscope.QRZ.apk",
+    "checksum": "bad6f41e62f909fe43de587533629ab61771b1b4cf276c9d2b54065237651014"
+  },
+  "trackers": []
+}

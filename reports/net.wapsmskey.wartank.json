@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "net.wapsmskey.wartank",
+    "version_name": "8.0.0",
+    "version_code": "800",
+    "uaid": "6B783F50080E76CAE21D0F5202BAF5A42B364401",
+    "name": "\u0422\u0430\u043d\u043a\u0438",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.android.vending.BILLING",
+      "android.permission.WAKE_LOCK",
+      "net.wapsmskey.wartank.permission.C2D_MESSAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/net.wapsmskey.wartank.apk",
+    "checksum": "9987bada6681efa31613f8c143a9cae8f169f963208a0e73940040b2d566ecb0"
+  },
+  "trackers": [
+    {
+      "name": "Adjust",
+      "id": 52
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

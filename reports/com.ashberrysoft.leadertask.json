@@ -1,0 +1,61 @@
+{
+  "application": {
+    "handle": "com.ashberrysoft.leadertask",
+    "version_name": "15.5.1",
+    "version_code": "492",
+    "uaid": "CA061EEDECE92F3D190C1D488A220D968FDBE36E",
+    "name": "LeaderTask",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.GET_TASKS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "com.android.vending.BILLING",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.ashberrysoft.leadertask.apk",
+    "checksum": "40c9b9ffb0e14e6f5e5000c62470c1ae4a921a41338e18547df14bf20d8bbe23"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    }
+  ]
+}

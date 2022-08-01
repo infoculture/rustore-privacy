@@ -1,0 +1,45 @@
+{
+  "application": {
+    "handle": "systems.m4.mobile",
+    "version_name": "2.2.8",
+    "version_code": "22",
+    "uaid": "9138BB7E9029E8EAF7E293D3D9D51444271976A8",
+    "name": "M4",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_MEDIA_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.PACKAGE_USAGE_STATS",
+      "android.permission.RECEIVE",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "android.permission.HIGH_SAMPLING_RATE_SENSORS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.GET_PACKAGE_SIZE",
+      "android.permission.CALL_PHONE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/systems.m4.mobile.apk",
+    "checksum": "a51db7956114a0543877405c27be0d8bca75dbf5cf0b82c0565b43ce4076e0dd"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

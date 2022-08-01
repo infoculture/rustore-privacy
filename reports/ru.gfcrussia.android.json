@@ -1,0 +1,36 @@
+{
+  "application": {
+    "handle": "ru.gfcrussia.android",
+    "version_name": "1.13.5",
+    "version_code": "117",
+    "uaid": "4D7F5DA2029B45023F5B6D32A20951BAEAF63C48",
+    "name": "GFC Russia",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.gfcrussia.android.apk",
+    "checksum": "7b5aaacb8be3c6eb27b03fb0cf8aa832f30eab66b86446ddd673005e38960754"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "UXCam",
+      "id": 253
+    }
+  ]
+}

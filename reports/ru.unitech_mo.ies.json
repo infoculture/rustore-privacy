@@ -1,0 +1,47 @@
+{
+  "application": {
+    "handle": "ru.unitech_mo.ies",
+    "version_name": "0.6.50",
+    "version_code": "220714001",
+    "uaid": "17E796CE79F964C81BFE46B918CF0767BE7E9593",
+    "name": "\u041e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u041c\u0413\u041e\u0422\u0423",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.POST_NOTIFICATIONS",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.unitech_mo.ies.apk",
+    "checksum": "275a27dce63446c929a9eb79724138fddf8b1943e934e39369348ed84ef48679"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

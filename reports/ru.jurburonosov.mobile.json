@@ -1,0 +1,21 @@
+{
+  "application": {
+    "handle": "ru.jurburonosov.mobile",
+    "version_name": "1.0.0",
+    "version_code": "2",
+    "uaid": "5D8D13BFCFE5F63BB14637B8CB6758BFC4B2FD31",
+    "name": "\u042e\u0440\u0411\u044e\u0440\u043e \u041d\u043e\u0441\u043e\u0432",
+    "permissions": [
+      "android.permission.CALL_PHONE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.jurburonosov.mobile.apk",
+    "checksum": "2bc0b38b637977024a8b826b342aa7ac630889981fee481101e1388b495964c7"
+  },
+  "trackers": []
+}

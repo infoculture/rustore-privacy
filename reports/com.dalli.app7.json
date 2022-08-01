@@ -1,0 +1,23 @@
+{
+  "application": {
+    "handle": "com.dalli.app7",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "19A3194080E690F1A817920F5EE27C446BC175EA",
+    "name": "Dalli",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.dalli.app7.apk",
+    "checksum": "6ecd0ef67390d3f715dfd6dede51ddd28434fe28bfd39cabf2e0071424b35726"
+  },
+  "trackers": []
+}

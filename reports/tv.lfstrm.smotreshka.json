@@ -1,0 +1,72 @@
+{
+  "application": {
+    "handle": "tv.lfstrm.smotreshka",
+    "version_name": "1.38.0",
+    "version_code": "13800",
+    "uaid": "6F83392E54EBAD67081FD7AB663AFD75BAB168D1",
+    "name": "\u0421\u043c\u043e\u0442\u0440\u0451\u0448\u043a\u0430",
+    "permissions": [
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.android.vending.BILLING",
+      "tv.lfstrm.smotreshka.permission.PUSH_PROVIDER",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "tv.lfstrm.smotreshka.permission.PROCESS_PUSH_MSG",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/tv.lfstrm.smotreshka.apk",
+    "checksum": "44b16be414713769710a3ce41b04a20fe6938865219714a196743096f47fa5d4"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

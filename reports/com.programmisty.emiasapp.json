@@ -1,0 +1,72 @@
+{
+  "application": {
+    "handle": "com.programmisty.emiasapp",
+    "version_name": "5.26",
+    "version_code": "52607",
+    "uaid": "03CB7EC207FA9B69F80FF3FB0F3CDE660990E3B7",
+    "name": "EMIAS.INFO",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA_ROLL",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+      "android.permission.READ_CALENDAR",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.USE_FINGERPRINT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_CALENDAR",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.VIBRATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.CAMERA",
+      "android.permission.USE_BIOMETRIC",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.programmisty.emiasapp.apk",
+    "checksum": "45a129350093fbd1786b78a763b70c0850338c3567720460633263ca0d91ebbf"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

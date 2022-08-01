@@ -1,0 +1,29 @@
+{
+  "application": {
+    "handle": "com.nemesisgamestudio.HardCorePlatformer",
+    "version_name": "1",
+    "version_code": "1",
+    "uaid": "5588CA4D6561F36145D3BF96F554AC6A273E9596",
+    "name": "HardCore Platformer",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.nemesisgamestudio.HardCorePlatformer.apk",
+    "checksum": "da9014357da854f2265c106fa26ee9e3e2352b5c5c8919ddae7ce09f83c62e32"
+  },
+  "trackers": [
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.turkishwords",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "A3D59CC057CB24E93B1FDF8E018A30C49FB1F901",
+    "name": "Learn Turkish",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SCHEDULE_EXACT_ALARM"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.turkishwords.apk",
+    "checksum": "f3d36d28cc0112fd7a16dad6f6b21a0f2d94af570a415af7542cdfd97c5e93a7"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

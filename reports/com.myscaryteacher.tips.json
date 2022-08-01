@@ -1,0 +1,38 @@
+{
+  "application": {
+    "handle": "com.myscaryteacher.tips",
+    "version_name": "1",
+    "version_code": "1",
+    "uaid": "ED8205826456419E9BFB54D029FDB4D69E9CD4EC",
+    "name": "Scary Teacher Guide",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.myscaryteacher.tips.apk",
+    "checksum": "fdc39972a92a2f0c5b481ce6612571e24c98aaa89db966616d0403b055029e06"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

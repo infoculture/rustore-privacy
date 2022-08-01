@@ -1,0 +1,118 @@
+{
+  "application": {
+    "handle": "me.incrdbl.android.wordbyword",
+    "version_name": "5.11.1.556",
+    "version_code": "670",
+    "uaid": "CC19B451778879F6D85BED16709857B0505FFA9E",
+    "name": "Words",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_CREDENTIALS",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/me.incrdbl.android.wordbyword.apk",
+    "checksum": "43f2a9931d3a979eaa839271a1a92fa81a7ca1df4ed3cbe38cb6d8bf47290243"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Twitter MoPub",
+      "id": 35
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "GameAnalytics",
+      "id": 205
+    },
+    {
+      "name": "Pollfish",
+      "id": 305
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

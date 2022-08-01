@@ -1,0 +1,30 @@
+{
+  "application": {
+    "handle": "ru.trueapp.twopizza",
+    "version_name": "3.12.0",
+    "version_code": "50",
+    "uaid": "41D0C99727B2F7A61B1839011B933AF5E50E4C41",
+    "name": "2 PIZZA",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.trueapp.twopizza.apk",
+    "checksum": "80839bcc7385e491d7298b1790fd7ba7bb4660b15f8153cae8006f02f3a79525"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

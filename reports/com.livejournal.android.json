@@ -1,0 +1,78 @@
+{
+  "application": {
+    "handle": "com.livejournal.android",
+    "version_name": "2.9.7",
+    "version_code": "5243177",
+    "uaid": "070CD3DBDD8659403C528AEB28A88357D25884F9",
+    "name": "LiveJournal",
+    "permissions": [
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.android.vending.CHECK_LICENSE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.USE_BIOMETRIC",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.RECORD_AUDIO",
+      "com.livejournal.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.VIBRATE",
+      "com.sec.android.provider.badge.permission.READ"
+    ],
+    "libraries": [
+      "androidx.camera.extensions.impl"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.livejournal.android.apk",
+    "checksum": "a60e21ee6835dd70364b8ad42c80cd8a46c36e47fecf9e065ca965b4b4b024e9"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

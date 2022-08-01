@@ -1,0 +1,68 @@
+{
+  "application": {
+    "handle": "com.uip.gosuslugi2",
+    "version_name": "5.9.3",
+    "version_code": "509300",
+    "uaid": "82F365B44C7FBC25F354C7C59DF95B473AFAE7D5",
+    "name": "\u0423\u0441\u043b\u0443\u0433\u0438 \u0420\u0422",
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_CALENDAR",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CALENDAR",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.CAMERA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.INTERNET",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.USE_FINGERPRINT",
+      "com.anddoes.launcher.permission.UPDATE_COUNT"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.uip.gosuslugi2.apk",
+    "checksum": "5c1353413af80d87b467f4881077de36b08e5825e963c71ff28905b5fad3e381"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google Analytics Plugin (Cordova)",
+      "id": 240
+    }
+  ]
+}

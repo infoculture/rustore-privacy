@@ -1,0 +1,47 @@
+{
+  "application": {
+    "handle": "chat.kilo",
+    "version_name": "1.0.4",
+    "version_code": "9",
+    "uaid": "957F67983658B254DDFF0679B23E1DBB45E0E6D3",
+    "name": "KILO.Push",
+    "permissions": [
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.WAKE_LOCK",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/chat.kilo.apk",
+    "checksum": "47bfbc7685ecd2a736ce90b2852236b8b4ed1cc1ffd39a0c711ea4a9ffbf4724"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

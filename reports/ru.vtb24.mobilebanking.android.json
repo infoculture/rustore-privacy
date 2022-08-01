@@ -1,0 +1,91 @@
+{
+  "application": {
+    "handle": "ru.vtb24.mobilebanking.android",
+    "version_name": "16.15.0.0",
+    "version_code": "2090140500",
+    "uaid": "A7E4407779C4E0F8C2273996B619518275E67532",
+    "name": "\u0412\u0422\u0411",
+    "permissions": [
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.huawei.permission.external_app_settings.USE_COMPONENT",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "ru.vtb24.mobilebanking.android.permission.PROCESS_PUSH_MSG",
+      "oppo.permission.OPPO_COMPONENT_SAFE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WRITE_CONTACTS",
+      "ru.vtb24.mobilebanking.android.permission.pushserver.RECEIVE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.MANAGE_ACCOUNTS",
+      "ru.vtb.sdk.unp.permission.MESSAGING_EVENT",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.NFC",
+      "android.permission.VIBRATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.GET_TASKS",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CHANGE_WIFI_STATE",
+      "ru.vtb.mobilebanking.widget.pushinbox.api.permission.WIDGET_REFRESH_EVENT",
+      "android.permission.READ_CONTACTS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_CALENDAR",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.REQUEST_DELETE_PACKAGES",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "ru.vtb24.mobilebanking.android.permission.PUSH_PROVIDER",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.BLUETOOTH",
+      "android.permission.REORDER_TASKS",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.BIND_REMOTEVIEWS",
+      "ru.vtb.sdk.unp.permission.INIT_EVENT",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.QUERY_ALL_PACKAGES"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.vtb24.mobilebanking.android.apk",
+    "checksum": "d606470dc41d212ee608141d74dbf0b616eca8845c895ad3fc693a81d7ebb3bc"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

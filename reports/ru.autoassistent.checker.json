@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "ru.autoassistent.checker",
+    "version_name": "3.4",
+    "version_code": "30400",
+    "uaid": "B8E3D90D4183567DB842861023ED7FF5F695CC54",
+    "name": "\u0410\u0432\u0442\u043eA\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.autoassistent.checker.apk",
+    "checksum": "c31d9abcc485173822ac4ad3cbb10be81a51ebfa777a8487a9c35a9770fd8bb6"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

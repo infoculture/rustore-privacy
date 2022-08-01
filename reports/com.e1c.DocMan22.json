@@ -1,0 +1,58 @@
+{
+  "application": {
+    "handle": "com.e1c.DocMan22",
+    "version_name": "2.2.13",
+    "version_code": "191",
+    "uaid": "9A7DCBDA4F0E80653AAD909DE360FAF27B141946",
+    "name": "1\u0421:\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u043e\u0431\u043e\u0440\u043e\u0442 2.2",
+    "permissions": [
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CALL_PHONE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.e1c.DocMan22.apk",
+    "checksum": "79dabc08e30ee18d9ad486441e2f3ff2d474ff5fa2e34c66dd7244ebd2a2dd8b"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

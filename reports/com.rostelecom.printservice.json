@@ -1,0 +1,56 @@
+{
+  "application": {
+    "handle": "com.rostelecom.printservice",
+    "version_name": "2.9",
+    "version_code": "27",
+    "uaid": "AE4964B9C176D7A187D88DD41316B8F7EBD7D6A5",
+    "name": "\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c. \u0421\u0435\u0440\u0432\u0438\u0441 \u043f\u0435\u0447\u0430\u0442\u0438",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "com.android.vending.CHECK_LICENSE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+      "android.permission.STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.VIBRATE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.rostelecom.printservice.apk",
+    "checksum": "3d26176cbb48f9dcc9e840dc6cbd252cd8d6b8aaad48d077f38cfe00d5e13ee5"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

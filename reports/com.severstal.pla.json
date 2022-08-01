@@ -1,0 +1,25 @@
+{
+  "application": {
+    "handle": "com.severstal.pla",
+    "version_name": "1.0.5",
+    "version_code": "6",
+    "uaid": "29B61F95F2E80BAE5C1692FD5579969757FA820B",
+    "name": "\u041f\u041b\u0410",
+    "permissions": [
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WRITE_CALENDAR"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.severstal.pla.apk",
+    "checksum": "3f70f02e3e399d96c8e8a1163558e447d6aedbed2e1d60a4d9d341e439bf1c21"
+  },
+  "trackers": []
+}

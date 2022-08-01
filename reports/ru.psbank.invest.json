@@ -1,0 +1,75 @@
+{
+  "application": {
+    "handle": "ru.psbank.invest",
+    "version_name": "1.2.3-production",
+    "version_code": "4430",
+    "uaid": "EDE8D6743C12BEFBE8466E2DDF57A0182BD2FCE4",
+    "name": "\u041f\u0421\u0411\u2007\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",
+    "permissions": [
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.USE_FINGERPRINT",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "psb.com.mbanking.investment.ACCESS_TOKEN",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "ru.psbank.invest.permission.PUSH_PROVIDER",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "ru.psbank.invest.permission.PROCESS_PUSH_MSG",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.WAKE_LOCK",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.psbank.invest.apk",
+    "checksum": "510314276eacec82ce527e03f0a66b2a5a147bd3ff3e545ace40f9df6c0270e8"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

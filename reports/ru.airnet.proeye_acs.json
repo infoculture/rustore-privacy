@@ -1,0 +1,33 @@
+{
+  "application": {
+    "handle": "ru.airnet.proeye_acs",
+    "version_name": "1.01.006",
+    "version_code": "17",
+    "uaid": "6CF213ED9F6D8B42F3F8E32B77F79A1294449301",
+    "name": "ProEye ACS",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.airnet.proeye_acs.apk",
+    "checksum": "4076d4395400ff2d3a5a0f4e3aa4ea013bfea75e4fabd4bcdf2a38af87289739"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "application": {
+    "handle": "com.openbank.msb",
+    "version_name": "3.27.12",
+    "version_code": "648",
+    "uaid": "1B32838704C4C7790990D752780CD3C196BD1CBC",
+    "name": "\u0411\u0438\u0437\u043d\u0435\u0441",
+    "permissions": [
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.GET_TASKS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.openbank.msb.permission.pushserver.RECEIVE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.USE_BIOMETRIC",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_CONTACTS",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.openbank.msb.apk",
+    "checksum": "73387f12d69e9b101c998e93ae517e13b7db19dd2c3035c6e2f2de4f70e8f848"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

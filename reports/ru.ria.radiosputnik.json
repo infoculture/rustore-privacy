@@ -1,0 +1,65 @@
+{
+  "application": {
+    "handle": "ru.ria.radiosputnik",
+    "version_name": "1.0.4",
+    "version_code": "6",
+    "uaid": "74907F179C4062877C3E3DE5462BF0932D67C85C",
+    "name": "\u0420\u0430\u0434\u0438\u043e Sputnik",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.CAMERA",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "ru.ria.radiosputnik.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.ria.radiosputnik.apk",
+    "checksum": "0b1cc4537876169cc0a54db69b15407a17f01e5c9fec3b1b6aa08a02e28fb3a3"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "application": {
+    "handle": "ru.mail.horo.android",
+    "version_name": "5.3.7(908)",
+    "version_code": "908",
+    "uaid": "00E2BCB03B245E67F41432740C6E6B3E06CEE099",
+    "name": "Horoscopes",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.GET_ACCOUNTS",
+      "com.majeur.launcher.permission.UPDATE_BADGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.mail.horo.android.apk",
+    "checksum": "f91878560fb5944234fd68ac300f244fa1a32c364e3dcc85922539e88197ea74"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "reactivephone.msearch",
+    "version_name": "4.9.4",
+    "version_code": "153",
+    "uaid": "1528967CCE6E5E1C550A19C72F1A03C3FB1EE7B2",
+    "name": "Search",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.SET_WALLPAPER",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_ASSISTED_GPS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_GPS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/reactivephone.msearch.apk",
+    "checksum": "dcafc8dee449470e5a3d868a1bd3aeb349158dc3a52d1831c03e207018b7b05d"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

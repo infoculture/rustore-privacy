@@ -1,0 +1,105 @@
+{
+  "application": {
+    "handle": "com.LittleStories.DivinationQRCode",
+    "version_name": "1.0.9",
+    "version_code": "9",
+    "uaid": "8FC27556E4F8ADA2D811A24AE39DB7B238906747",
+    "name": "DivinationQRCode",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.LittleStories.DivinationQRCode.apk",
+    "checksum": "7c27b3a02907288d3e08bf01fb484d8e89b149068c539ca227e68f5825a45410"
+  },
+  "trackers": [
+    {
+      "name": "Ogury Presage",
+      "id": 34
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Appodeal",
+      "id": 162
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "Criteo",
+      "id": 170
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "Appodeal Stack",
+      "id": 368
+    },
+    {
+      "name": "BidMachine",
+      "id": 370
+    }
+  ]
+}

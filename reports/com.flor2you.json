@@ -1,0 +1,97 @@
+{
+  "application": {
+    "handle": "com.flor2you",
+    "version_name": "1.0.0",
+    "version_code": "1",
+    "uaid": "9B829F130F1513E30BE80F59DC6EF9A0DECB9678",
+    "name": "Flor2u",
+    "permissions": [
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.NFC",
+      "android.permission.BLUETOOTH",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.READ_PROFILE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.WRITE_CONTACTS",
+      "com.sec.android.provider.badge.permission.READ",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.flor2you.apk",
+    "checksum": "26a6f68c78cea3e2cb1fd9d72f3448684f1e841acc562f445940b76df067caec"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

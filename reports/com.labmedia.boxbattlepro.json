@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "com.labmedia.boxbattlepro",
+    "version_name": "2.6",
+    "version_code": "24",
+    "uaid": "308416402D4683BF362D4D0BA7005D72C66515DC",
+    "name": "BoxBattle",
+    "permissions": [
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.SYSTEM_ALERT_WINDOW"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.labmedia.boxbattlepro.apk",
+    "checksum": "1ae0b7788fab909db0393c6136606268a5ecb57ec147ff3abf4e9feef792b78d"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    }
+  ]
+}

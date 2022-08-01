@@ -1,0 +1,93 @@
+{
+  "application": {
+    "handle": "com.yandex.browser",
+    "version_name": "22.5.1.153",
+    "version_code": "1914194320",
+    "uaid": "724EBB13F9EDE8ADB6BB0C8862250861835A7F1D",
+    "name": "Browser",
+    "permissions": [
+      "com.yandex.permission.AM_COMMUNICATION",
+      "com.android.alarm.permission.SET_ALARM",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WRITE_SETTINGS",
+      "com.sec.android.launcher.permission.BIND_WIDGET",
+      "com.yandex.permission.ASSISTANT",
+      "com.yandex.browser.permission.HANDLE_UNSAFE_APK",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CAMERA",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.GET_ACCOUNTS",
+      "com.yandex.browser.permission.C2D_MESSAGE",
+      "android.permission.RECORD_AUDIO",
+      "com.yandex.permission.READ_CREDENTIALS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.yandex.browser.permission.PUSH_PROVIDER",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "android.permission.FLASHLIGHT",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.WAKE_LOCK",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.SET_WALLPAPER",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.BLUETOOTH_CONNECT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.yandex.permission.SUPER_APP_STATE",
+      "com.yandex.browser.permission.PROCESS_PUSH_MSG",
+      "com.yandex.alice.icon.permission.READ_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.yandex.browser.apk",
+    "checksum": "c2211e0e099ee7e2c6a71c10810cdca5a8bbe3065d73cefa890b78c967ad0210"
+  },
+  "trackers": [
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

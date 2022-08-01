@@ -1,0 +1,30 @@
+{
+  "application": {
+    "handle": "ru.trueapp.fifthelement",
+    "version_name": "3.14.20",
+    "version_code": "60",
+    "uaid": "B17EE1745B1BDAE7697A8E43BC4D2BFB1EA0761B",
+    "name": "\u041f\u044f\u0442\u044b\u0439 \u042d\u043b\u0435\u043c\u0435\u043d\u0442",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.trueapp.fifthelement.apk",
+    "checksum": "6538dd902d638ce896b2350cc650316b07c82e47270094ec74e45717533f5f2a"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "application": {
+    "handle": "com.dev_professional.ru.mynotepad",
+    "version_name": "2.9",
+    "version_code": "9",
+    "uaid": "59DEAB7316FE9D6BB48780004E1ABEA31F1306C1",
+    "name": "MyNotepad",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.dev_professional.ru.mynotepad.apk",
+    "checksum": "209735a8f8ee94301b0f38071652dda073f2a3768e752b6b44fb3932e95de79b"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "application": {
+    "handle": "ru.belkacar.belkacar",
+    "version_name": "2.4.3-gms",
+    "version_code": "3075",
+    "uaid": "E5B4E8403A630ABF0A051281B87790025E5C8E5D",
+    "name": "BelkaCar",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_TASKS",
+      "android.permission.VIBRATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BLUETOOTH",
+      "android.permission.HIGH_SAMPLING_RATE_SENSORS"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.belkacar.belkacar.apk",
+    "checksum": "d44bf09269905169a19f6756d3fed0aaa45f2c8e625cdd1143c1e080c6dd3cb2"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Braze (formerly Appboy)",
+      "id": 17
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Pushwoosh",
+      "id": 39
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Mapbox",
+      "id": 171
+    },
+    {
+      "name": "Facebook Flipper",
+      "id": 392
+    }
+  ]
+}

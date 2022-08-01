@@ -1,0 +1,56 @@
+{
+  "application": {
+    "handle": "ru.betcity.android",
+    "version_name": "1.2.169.3",
+    "version_code": "169",
+    "uaid": "190E68FDA185D7A6B5AC2B813C5623F3EEC66154",
+    "name": "\u0411\u0415\u0422\u0421\u0418\u0422\u0418",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_MEDIA_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.SCHEDULE_EXACT_ALARM"
+    ],
+    "libraries": [
+      "com.google.android.maps",
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.betcity.android.apk",
+    "checksum": "d323149d854cdb8df07912ee0a6bcd9f27b90b9695248782b21502647b80c941"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

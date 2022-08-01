@@ -1,0 +1,92 @@
+{
+  "application": {
+    "handle": "ru.mts.mymts",
+    "version_name": "6.13.0 (49)",
+    "version_code": "150130049",
+    "uaid": "D6B768229F9B868356A537C0A46A3BBCA0BA2149",
+    "name": "\u041c\u043e\u0439 \u041c\u0422\u0421",
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.BLUETOOTH_CONNECT",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.READ_CONTACTS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.BLUETOOTH",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "ru.mts.service.permission.C2D_MESSAGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.GET_ACCOUNTS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.NFC",
+      "android.permission.MANAGE_ACCOUNTS",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.SYSTEM_ALERT_WINDOW"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.mts.mymts.apk",
+    "checksum": "31fefaf4bbec3035c97a6c13829802436d264961c519a4c207f837013e29ee1a"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

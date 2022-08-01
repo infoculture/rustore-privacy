@@ -1,0 +1,63 @@
+{
+  "application": {
+    "handle": "ru.tinkoff.bnpl",
+    "version_name": "1.8",
+    "version_code": "2523",
+    "uaid": "6AE0839995FE629CF846B9269271F310EEBEB5D3",
+    "name": "\u0414\u043e\u043b\u044f\u043c\u0438",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_FINGERPRINT",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "ru.tinkoff.bnpl.permission.PUSH_PROVIDER",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.NFC",
+      "android.permission.READ_CONTACTS",
+      "ru.tinkoff.bnpl.permission.PROCESS_PUSH_MSG",
+      "android.permission.READ_PHONE_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.tinkoff.bnpl.apk",
+    "checksum": "d01acd46cb527c6f9f57d5a020e50eeb25b99e36364ea015a1620d393d254735"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

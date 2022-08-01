@@ -1,0 +1,44 @@
+{
+  "application": {
+    "handle": "ru.tatarstan.care",
+    "version_name": "1.22.1",
+    "version_code": "40",
+    "uaid": "CA7CD7867469F16376B8B0B9919D1143F969BCC2",
+    "name": "\u0417\u0430\u0431\u043e\u0442\u0430",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.tatarstan.care.apk",
+    "checksum": "09e656f2efea34843c41809cafdfb69f15072663938c8f6a867c3c50c5f4d459"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

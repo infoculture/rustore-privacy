@@ -1,0 +1,69 @@
+{
+  "application": {
+    "handle": "ru.rutube.app",
+    "version_name": "27.0.3-android",
+    "version_code": "2700003",
+    "uaid": "40E1EF7A8C48E274440B6556FA324F776B05F160",
+    "name": "RUTUBE",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.android.vending.BILLING",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.rutube.app.apk",
+    "checksum": "b30b05c125a0663a70f2d4495e5b79fafdb05368da1dbf7a1205187fc8144ea7"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Branch",
+      "id": 167
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "Facebook Flipper",
+      "id": 392
+    }
+  ]
+}

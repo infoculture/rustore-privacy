@@ -1,0 +1,42 @@
+{
+  "application": {
+    "handle": "com.gurmanfresh.app",
+    "version_name": "1.0",
+    "version_code": "25",
+    "uaid": "0631593CBCB3A1FD5ED225A34669F1155537B3A3",
+    "name": "Gurmanfresh",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.gurmanfresh.app.apk",
+    "checksum": "3ede1111726d3dcfb54847d58bc780f89ed9f817a023844d521bed0969357b09"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    }
+  ]
+}

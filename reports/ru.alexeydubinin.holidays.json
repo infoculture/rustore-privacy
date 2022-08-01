@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "ru.alexeydubinin.holidays",
+    "version_name": "5.10-r",
+    "version_code": "270",
+    "uaid": "FA4522D77CA92E0A743A9517BB346CF0039BE3B6",
+    "name": "\u041f\u0440\u0430\u0437\u0434\u043d\u0438\u043a\u0438 \u0420\u043e\u0441\u0441\u0438\u0438",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.alexeydubinin.holidays.apk",
+    "checksum": "d283c41a127103278e605f401c57f586e8f7eadeb3d0102a38ad22cc561c9dc5"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

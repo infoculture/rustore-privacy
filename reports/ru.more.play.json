@@ -1,0 +1,67 @@
+{
+  "application": {
+    "handle": "ru.more.play",
+    "version_name": "8.10.1",
+    "version_code": "2150",
+    "uaid": "1120AFD6AA3AF0F37CDC34E48BA9CF9E6FF451D9",
+    "name": "Okko",
+    "permissions": [
+      "android.permission.MANAGE_ACCOUNTS",
+      "com.android.providers.tv.permission.READ_EPG_DATA",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "ru.more.play.permission.PROCESS_PUSH_MSG",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE",
+      "ru.more.play.permission.PUSH_PROVIDER",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.providers.tv.permission.WRITE_EPG_DATA"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.more.play.apk",
+    "checksum": "08df15055b45a6249e662e54b7e188bc7e3e90a0d091d70f3fdce9ddf0db9c35"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

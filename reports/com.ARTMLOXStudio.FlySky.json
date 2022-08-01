@@ -1,0 +1,28 @@
+{
+  "application": {
+    "handle": "com.ARTMLOXStudio.FlySky",
+    "version_name": "0.1.5",
+    "version_code": "2",
+    "uaid": "133B8B96E52326386F37700CC70D840D079A5D3C",
+    "name": "FlySky",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.ARTMLOXStudio.FlySky.apk",
+    "checksum": "80e930bc063a785bee20e88b7ce1dc5bed75ed47cab960db2bc33df1f3f4ab16"
+  },
+  "trackers": [
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

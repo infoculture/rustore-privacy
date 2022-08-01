@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "com.lisagames.mower",
+    "version_name": "1.01",
+    "version_code": "101",
+    "uaid": "BA18D2372877BDC68E4D2F8FC6EEF2D1C3DDE66A",
+    "name": "mower",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.lisagames.mower.apk",
+    "checksum": "4d663f06debbff4827c6299a549d6d781352a44809d48e7272a43e309c908e22"
+  },
+  "trackers": [
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "GameAnalytics",
+      "id": 205
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

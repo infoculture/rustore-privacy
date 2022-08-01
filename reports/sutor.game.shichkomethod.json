@@ -1,0 +1,24 @@
+{
+  "application": {
+    "handle": "sutor.game.shichkomethod",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "291F7320072E821783F90B3F81FD1749E57552DC",
+    "name": "\u041c\u0435\u0442\u043e\u0434 \u0428\u0438\u0447\u043a\u043e",
+    "permissions": [
+      "android.permission.STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/sutor.game.shichkomethod.apk",
+    "checksum": "1c9675d49900c48b749cde685c813f80fdb5cb479a1b6a98c82e298b4f6aad63"
+  },
+  "trackers": []
+}

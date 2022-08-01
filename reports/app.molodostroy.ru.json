@@ -1,0 +1,41 @@
+{
+  "application": {
+    "handle": "app.molodostroy.ru",
+    "version_name": "1.9.4",
+    "version_code": "10902",
+    "uaid": "F79F00E9145ADFAB71044C42B6CFD5173926EFA8",
+    "name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0441\u0442\u0440\u043e\u0439",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/app.molodostroy.ru.apk",
+    "checksum": "74f1912b677fd0b30f9520acab2a31362c3d5c17e4c4d35f9133fa6b112a42a9"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    }
+  ]
+}

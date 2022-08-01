@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "ru.amfly.app",
+    "version_name": "0507",
+    "version_code": "5",
+    "uaid": "B24FA877CB86D9550A70C14548A0A296142A134B",
+    "name": "AmFly \u0410\u0432\u0438\u0430\u0431\u0438\u043b\u0435\u0442\u044b",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.amfly.app.apk",
+    "checksum": "03030edd5040c1a60d570f66974b77f950fbde1a6ceb361d3b44a3b6f669556a"
+  },
+  "trackers": []
+}

@@ -1,0 +1,144 @@
+{
+  "application": {
+    "handle": "com.nekki.shadowfightarena_xsolla",
+    "version_name": "1.4.21",
+    "version_code": "4025",
+    "uaid": "42AB2971837FE4777A6EE41594D3AFD8F4F4C798",
+    "name": "Shadow Fight",
+    "permissions": [
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.vending.BILLING",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.android.vending.CHECK_LICENSE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.INTERNET",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.nekki.shadowfightarena_xsolla.permission.C2D_MESSAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_APP_BADGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.nekki.shadowfightarena_xsolla.apk",
+    "checksum": "e529aa8a3d6e90007dadb4a5f6e00d43291071f01e4b218157e0e9fe87b4d7a2"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "ChartBoost",
+      "id": 53
+    },
+    {
+      "name": "HelpShift",
+      "id": 58
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Fyber",
+      "id": 104
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Vungle",
+      "id": 169
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Tapjoy",
+      "id": 199
+    },
+    {
+      "name": "Bugsnag",
+      "id": 207
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "ru.rikmasters.flutter_irkutskenetrgo_yur",
+    "version_name": "1.0.8",
+    "version_code": "2130",
+    "uaid": "11B968620B0979B0F0B78F75A08C5020FD1BC1C7",
+    "name": "\u041b\u041a \u042e\u0440.\u043b\u0438\u0446",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.USE_FINGERPRINT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.USE_BIOMETRIC"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.rikmasters.flutter_irkutskenetrgo_yur.apk",
+    "checksum": "7d2532286e2208e3f52118efca4c8f8930555bdb0fbd1ad72b58b65380814a88"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

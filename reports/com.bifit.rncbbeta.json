@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "com.bifit.rncbbeta",
+    "version_name": "1.67.1",
+    "version_code": "16701",
+    "uaid": "0884371DD501F6BC604656EE7441FED1CC626122",
+    "name": "\u0420\u041d\u041a\u0411 24/7",
+    "permissions": [
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.VIBRATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.NFC",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.HIGH_SAMPLING_RATE_SENSORS",
+      "android.permission.READ_CONTACTS",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.BLUETOOTH",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.bifit.rncbbeta.apk",
+    "checksum": "ebc237a60f2ecaa597116d1855ac3868b29a2284c972af0e5b3aaae338513700"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "application": {
+    "handle": "ru.scid.minicen",
+    "version_name": "1.3.10",
+    "version_code": "1103",
+    "uaid": "E953F33DF5605D9064A577FEA0470BE9E7C9259A",
+    "name": "\u041c\u0438\u043d\u0438\u0446\u0435\u043d",
+    "permissions": [
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_WIFI_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.scid.minicen.apk",
+    "checksum": "a5cc322cf3f6f3ce4309775a1f3089dec6e087162dae929fcaab515135fde745"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

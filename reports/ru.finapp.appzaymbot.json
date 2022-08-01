@@ -1,0 +1,32 @@
+{
+  "application": {
+    "handle": "ru.finapp.appzaymbot",
+    "version_name": "7.1",
+    "version_code": "12",
+    "uaid": "780ED7B52E106B71D2A15EF91F722449757623DB",
+    "name": "\u0417\u0430\u0439\u043c\u0411\u041e\u0422",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.finapp.appzaymbot.apk",
+    "checksum": "baba7533e788ea9e80248ffb0d2fbdc8ddb8192203a6c36d0ec47495e5c2db58"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

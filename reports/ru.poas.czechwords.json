@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.czechwords",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "54F84BADFB21D19F05B73EECBCE498F2FE464A5E",
+    "name": "Learn Czech",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.czechwords.apk",
+    "checksum": "3bdf90bc6be61f66c1f8e360f6cb159d1252501efd7553a58448dcd98c387a3d"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

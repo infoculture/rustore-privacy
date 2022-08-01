@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "ru.inelt.lk.kpso",
+    "version_name": "0.7.2",
+    "version_code": "14",
+    "uaid": "D94E9FC516E3A16449563BB2CFE211F9CF4B708E",
+    "name": "\u041b\u0438\u0447\u043d\u044b\u0439 \u041a\u0430\u0431\u0438\u043d\u0435\u0442",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.inelt.lk.kpso.apk",
+    "checksum": "b0f56ce86391b8ca4bc306e3adb0d394036cb33b7d293ca2f690d6b30447615a"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

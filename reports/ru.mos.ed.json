@@ -1,0 +1,55 @@
+{
+  "application": {
+    "handle": "ru.mos.ed",
+    "version_name": "1.142",
+    "version_code": "22071415",
+    "uaid": "2FF696DE56BBFF44ACE4CA7DB40DF6C7D9A3303D",
+    "name": "\u042d\u043b\u0435\u043a\u0442\u0440.\u0414\u043e\u043c",
+    "permissions": [
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.CAMERA"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.mos.ed.apk",
+    "checksum": "a0abd8ed78cb5b6cedc42b46ebd6e241e2ee3ec74fbf8308b58a3be3f4928807"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Adjust",
+      "id": 52
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "application": {
+    "handle": "ru.m4bank.softpos.open",
+    "version_name": "1.2.4.35",
+    "version_code": "35",
+    "uaid": "0466DC9362F6898E4B56B7CE6D430D2FA1F41C44",
+    "name": "Open-POS",
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.NFC",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH",
+      "ru.m4bank.basempos.external.application.content.provider",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FLASHLIGHT",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.m4bank.softpos.open.apk",
+    "checksum": "0fecb630286b550343efc952d08790dc2eb5f1b1bd9b6a7c8423ec347b34f3a4"
+  },
+  "trackers": []
+}

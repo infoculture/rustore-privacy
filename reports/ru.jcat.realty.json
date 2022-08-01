@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "ru.jcat.realty",
+    "version_name": "1.12.0",
+    "version_code": "37",
+    "uaid": "E58A7BA12F324A108FCCFC3DB27641DE4647B549",
+    "name": "JCat \u041d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u044c",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.GET_TASKS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.jcat.realty.apk",
+    "checksum": "70b404c92438a8d645c9c59bf2a176e9af72264693d8f6ff0b11994bc1f1a02e"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

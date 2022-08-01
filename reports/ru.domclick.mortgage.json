@@ -1,0 +1,92 @@
+{
+  "application": {
+    "handle": "ru.domclick.mortgage",
+    "version_name": "8.48.0",
+    "version_code": "8480002",
+    "uaid": "7D9AC5CC7E5D156E585CF904ABCFFB3F3E611F27",
+    "name": "\u0414\u043e\u043c\u043a\u043b\u0438\u043a",
+    "permissions": [
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.READ_APP_BADGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CALL_PHONE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.NFC",
+      "android.permission.USE_BIOMETRIC",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.webkit.resource.AUDIO_CAPTURE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.READ_CALENDAR",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECORD_AUDIO",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.webkit.resource.VIDEO_CAPTURE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.VIBRATE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.CHANGE_WIFI_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.WAKE_LOCK",
+      "android.webkit.PermissionRequest",
+      "ru.domclick.mortgage.permission.PROCESS_PUSH_MSG",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.USB_PERMISSION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "ru.domclick.mortgage.permission.PUSH_PROVIDER",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.domclick.mortgage.apk",
+    "checksum": "bacb35e406975b0410b561fcf1aad19a95d1d0becb497d05dc86e6bdb2484d74"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "application": {
+    "handle": "com.firstforma.dialog",
+    "version_name": "1.17.532",
+    "version_code": "1175320",
+    "uaid": "8731B1CCC9F57B1148C482583C8F94A5C89B1DAF",
+    "name": "\u0414\u0438\u0430\u043b\u043e\u0433 \u0440\u0435\u0433\u0438\u043e\u043d\u044b",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_CALENDAR",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.PREVENT_POWER_KEY",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.firstforma.dialog.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.MANAGE_OWN_CALLS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CAMERA",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.CALL_PHONE",
+      "android.permission.RAISED_THREAD_PRIORITY",
+      "android.permission.MANAGE_ACCOUNTS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.firstforma.dialog.apk",
+    "checksum": "a3ac3214c865b5bb00030a0688470b32bf34dacd7fe1e686fec621d6b7539c5e"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

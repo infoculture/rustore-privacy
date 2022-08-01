@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "ru.rcamel.workday",
+    "version_name": "1.6.1",
+    "version_code": "3200007",
+    "uaid": "5F362124BE95EEAD310058CEC9E3F603A87012A7",
+    "name": "\u0422\u0440\u0443\u0434\u043e\u0434\u0435\u043d\u044c",
+    "permissions": [],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.rcamel.workday.apk",
+    "checksum": "7a0333bd78fbaf320e6c3777d66b39d1f8a679b3f2fafdae6e21fe4f41dab1b3"
+  },
+  "trackers": []
+}

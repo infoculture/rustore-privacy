@@ -1,0 +1,72 @@
+{
+  "application": {
+    "handle": "com.pechatikmetro.app.androidoverview",
+    "version_name": "3.4",
+    "version_code": "3004001",
+    "uaid": "5E47C4EBB709DBB43C30A0BE9EC1A163EC3F1FB1",
+    "name": "\u041f\u0435\u0447\u0430\u0442\u0438 \u0438 \u0428\u0442\u0430\u043c\u043f\u044b",
+    "permissions": [
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.FLASHLIGHT",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NOTIFICATION_POLICY",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.READ_PHONE_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_APP_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.pechatikmetro.app.androidoverview.apk",
+    "checksum": "acdec5f8b128d11a8ccd154f92848a66631bc9d077e5f7df629a714b5153dce6"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Startapp",
+      "id": 195
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

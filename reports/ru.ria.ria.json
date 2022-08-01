@@ -1,0 +1,73 @@
+{
+  "application": {
+    "handle": "ru.ria.ria",
+    "version_name": "1.0.29",
+    "version_code": "29",
+    "uaid": "82B9FCEA438B69FB48E149F2651D2E133BA6FCB6",
+    "name": "\u0420\u0418\u0410 \u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.WAKE_LOCK",
+      "ru.ria.ria.permission.C2D_MESSAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.CAMERA"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.ria.ria.apk",
+    "checksum": "a10293883323cfb0444bfc92fc27f5d9ed691c09a17491c371fc7b16a0ec9f35"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

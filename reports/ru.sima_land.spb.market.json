@@ -1,0 +1,70 @@
+{
+  "application": {
+    "handle": "ru.sima_land.spb.market",
+    "version_name": "104.0.0",
+    "version_code": "56701",
+    "uaid": "079124DAB9FFA761A9E93882384B0A398CEDD68A",
+    "name": "\u0421\u0438\u043c\u0430-\u043b\u0435\u043d\u0434",
+    "permissions": [
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "ru.sima_land.spb.market.permission.PROCESS_PUSH_MSG",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "ru.sima_land.spb.market.permission.PUSH_PROVIDER",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.USE_BIOMETRIC",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.USE_FINGERPRINT"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sima_land.spb.market.apk",
+    "checksum": "159deb1f0f1b0bde5c95f9c1252fed5c64697ced3c13f9e9b7d0eb6cf0d8c1c6"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

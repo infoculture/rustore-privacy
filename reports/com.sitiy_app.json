@@ -1,0 +1,55 @@
+{
+  "application": {
+    "handle": "com.sitiy_app",
+    "version_name": "2.0.0",
+    "version_code": "1",
+    "uaid": "E8C3CA450BFE3A348197DB220AB1EAED0A077BFA",
+    "name": "\u0421\u044b\u0442\u044b\u0439",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.WAKE_LOCK",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.INTERNET",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.sitiy_app.apk",
+    "checksum": "72ef49e032b191d39c3412f021537e4e1c3b50cc13149fd3eb28123065380b99"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

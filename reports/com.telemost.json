@@ -1,0 +1,26 @@
+{
+  "application": {
+    "handle": "com.telemost",
+    "version_name": "1.0.38",
+    "version_code": "10038",
+    "uaid": "8C8A36B1E9375BA94CF5FF14E35F537E6EA83E42",
+    "name": "TeleMost",
+    "permissions": [
+      "android.permission.RECORD_VIDEO",
+      "android.permission.CAMERA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.telemost.apk",
+    "checksum": "26eb8f9519442c91d79d0269e88e1e1a970e30f95e8f9525d260f05151b53534"
+  },
+  "trackers": []
+}

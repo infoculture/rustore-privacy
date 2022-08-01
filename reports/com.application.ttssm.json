@@ -1,0 +1,30 @@
+{
+  "application": {
+    "handle": "com.application.ttssm",
+    "version_name": "1.0.1",
+    "version_code": "4",
+    "uaid": "C7ECBEAE9C41601731C4189CBB746BFA99F0515F",
+    "name": "\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0438\u0439 \u0426\u0421\u041c",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.application.ttssm.apk",
+    "checksum": "37757ef8d655aeb369188a806bf3afa6538976ead739e9d1db4c2e16194528de"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

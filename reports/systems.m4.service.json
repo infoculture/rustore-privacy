@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "systems.m4.service",
+    "version_name": "1.0.2",
+    "version_code": "6",
+    "uaid": "99E1A0E61E21CF37EEEA6A21A0DEAA8007159593",
+    "name": "\u041c4 \u041f\u043e\u0440\u0442\u0430\u043b \u043a\u043b\u0438\u0435\u043d\u0442\u0430",
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/systems.m4.service.apk",
+    "checksum": "cc58829abff01056bd05c66fb4423bac02f9e57cace2704c711e48eeeeb4d4a7"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

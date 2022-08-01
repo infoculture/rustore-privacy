@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.koreanwords",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "06CA0C6A6784906D8853D4ADA412D3EC2E235A70",
+    "name": "Learn Korean",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.koreanwords.apk",
+    "checksum": "71bf162f77ec4bf6ebafbed0dbb1ca0a3a7cc3c0bceb25d0e6e372780b1ff1fc"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

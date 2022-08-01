@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "com.imagion.slovo",
+    "version_name": "1.0.7",
+    "version_code": "24",
+    "uaid": "3DE3F34A6C609902F032A580CC8660812654013D",
+    "name": "Slovo",
+    "permissions": [
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.RECORD_AUDIO",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_MEDIA_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.INTERNET",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.imagion.slovo.apk",
+    "checksum": "6957c8bb9f26c898b8b82b2519ff4c280e3b70c7b803b568e11c7d488cd6d2f5"
+  },
+  "trackers": []
+}

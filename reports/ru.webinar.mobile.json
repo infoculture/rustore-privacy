@@ -1,0 +1,44 @@
+{
+  "application": {
+    "handle": "ru.webinar.mobile",
+    "version_name": "2.2.20",
+    "version_code": "14548",
+    "uaid": "6F78954436049D1BBE221C5616475EF08EE01C2C",
+    "name": "Webinar",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.BLUETOOTH",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.webinar.mobile.apk",
+    "checksum": "62155139a4c71212967200d33cd597aa3d2dba70e5435d4048cadf627cc62843"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

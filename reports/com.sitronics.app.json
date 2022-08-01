@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "com.sitronics.app",
+    "version_name": "1.0.40",
+    "version_code": "40",
+    "uaid": "9B3136C9E3CC2AFB180ACCCDD4B087297331E472",
+    "name": "Sitronics Electro",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BLUETOOTH",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CALL_PHONE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.sitronics.app.apk",
+    "checksum": "922da1222543b54f8c339d2c988750beedd502781908d5469246f5fe2de5e915"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Bugsee",
+      "id": 241
+    }
+  ]
+}

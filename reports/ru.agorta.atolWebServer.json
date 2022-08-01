@@ -1,0 +1,21 @@
+{
+  "application": {
+    "handle": "ru.agorta.atolWebServer",
+    "version_name": "1.01",
+    "version_code": "2",
+    "uaid": "D270B61B51A6CA08F3387DDC7BA989192BCA721E",
+    "name": "\u0410\u0433\u043e\u0440\u0442\u0430 \u0432\u0435\u0431-\u0441\u0435\u0440\u0432\u0435\u0440 \u0410\u0442\u043e\u043b",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.BROADCAST_STICKY"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.agorta.atolWebServer.apk",
+    "checksum": "6f7634211bd477150c33cdf7539a46bde3e9666fc583c9acd617705b097683d9"
+  },
+  "trackers": []
+}

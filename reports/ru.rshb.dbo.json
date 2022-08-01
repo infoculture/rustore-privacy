@@ -1,0 +1,59 @@
+{
+  "application": {
+    "handle": "ru.rshb.dbo",
+    "version_name": "22.06.3",
+    "version_code": "2206030",
+    "uaid": "1A2678EAD3951EFB3D7064DDD0A7194A462C6C98",
+    "name": "RSHB",
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_CONTACTS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.FLASHLIGHT",
+      "android.permission.USE_FINGERPRINT",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.READ_APP_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.VIBRATE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_CONTACTS",
+      "com.majeur.launcher.permission.UPDATE_BADGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.rshb.dbo.apk",
+    "checksum": "b5e00a6d347c23d94a7d3ed0bcf1d5a99a7225a4671bd29889ce935b95d28118"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "application": {
+    "handle": "com.transportspb.app",
+    "version_name": "1.0.3",
+    "version_code": "151",
+    "uaid": "29F367DE19BE2AEABF52985DE0DD6F40D2AF7EDA",
+    "name": "\u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442 \u0421\u041f\u0431",
+    "permissions": [
+      "android.permission.QUERY_ALL_PACKAGES",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.transportspb.app.apk",
+    "checksum": "bfee09b9c154e0f0426edf4ad33b3eb9a1a1023f1c5e506bde2e28be3f86c7f4"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

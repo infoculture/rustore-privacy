@@ -1,0 +1,62 @@
+{
+  "application": {
+    "handle": "aero.svo.app",
+    "version_name": "2.3.2",
+    "version_code": "230060",
+    "uaid": "BCEA55312486E0BB4C3EBC1CB6BB45237D6EB86D",
+    "name": "SVO",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.BLUETOOTH_ADMIN",
+      "aero.svo.app.permission.C2D_MESSAGE",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.BLUETOOTH",
+      "android.permission.INTERNET",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "com.google.android.wearable"
+    ]
+  },
+  "apk": {
+    "path": "apks/aero.svo.app.apk",
+    "checksum": "36a1153776b17b4d1a36edd0fda4c4c0f9fdc335e276a605eb41b3df4ff88620"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AltBeacon",
+      "id": 219
+    }
+  ]
+}

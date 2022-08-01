@@ -1,0 +1,47 @@
+{
+  "application": {
+    "handle": "com.zedtema.android.radio",
+    "version_name": "2.3.4",
+    "version_code": "34",
+    "uaid": "7E97DFD52A4F1E6A408721CA9CEB6E7A9C6AC618",
+    "name": "\u0431\u0438\u043b\u0430\u0439\u043d \u0440\u0430\u0434\u0438\u043e\u043f\u043e\u0440\u0442\u0430\u043b",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.zedtema.android.radio.apk",
+    "checksum": "469454638966155564fd11f48e7116de9eb7b5340790a93da5393d8eb1ef5835"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

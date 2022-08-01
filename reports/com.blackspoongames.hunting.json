@@ -1,0 +1,20 @@
+{
+  "application": {
+    "handle": "com.blackspoongames.hunting",
+    "version_name": "1.0.1",
+    "version_code": "6",
+    "uaid": "E883B83F462F8BDE3CAF0F4DAF2611670A60A5EB",
+    "name": "\u042d\u043a\u0437\u0430\u043c\u0435\u043d \u043d\u0430 \u041e\u0440\u0443\u0436\u0438\u0435",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.blackspoongames.hunting.apk",
+    "checksum": "cec22b4cf1ada26ba0688f1c58f424e10a67e2b0dafd08be4f3c62f00d5b5881"
+  },
+  "trackers": []
+}

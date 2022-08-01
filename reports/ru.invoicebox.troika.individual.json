@@ -1,0 +1,46 @@
+{
+  "application": {
+    "handle": "ru.invoicebox.troika.individual",
+    "version_name": "2.1.8",
+    "version_code": "10020367",
+    "uaid": "F4110A0B1CF6E8C8C05CF21D82E9BB95E42EE701",
+    "name": "\u0421\u0443\u043f\u0435\u0440 \u0422\u0440\u043e\u0439\u043a\u0430",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.NFC",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.invoicebox.troika.individual.apk",
+    "checksum": "b2a55f79510e16701118ba00f27a806df9f1614dc3a39e2a3e9e567a4eb2b9e4"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

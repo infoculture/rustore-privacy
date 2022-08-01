@@ -1,0 +1,84 @@
+{
+  "application": {
+    "handle": "ru.mail.browser",
+    "version_name": "1.6.0.709",
+    "version_code": "10066",
+    "uaid": "E80325BF6DCAB40D82CA9B2474F63F50D0B7E216",
+    "name": "Atom Browser",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "ru.mail.browser.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.chrome.permission.DEVICE_EXTRAS",
+      "android.permission.NFC",
+      "android.permission.READ_PHONE_STATE",
+      "ru.mail.browser.permission.READ_WRITE_BOOKMARK_FOLDERS",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.INTERNET",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "com.google.android.gms.permission.AD_ID",
+      "com.asus.msa.SupplementaryDID.ACCESS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_SYNC_STATS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "com.google.android.apps.now.CURRENT_ACCOUNT_ACCESS",
+      "android.permission.GET_ACCOUNTS",
+      "android.provider.Telephony.SMS_RECEIVED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.USE_FINGERPRINT",
+      "ru.mail.browser.TOS_ACKED",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.mail.browser.apk",
+    "checksum": "ef9458d167bec06b020e75e71767a15482bb9290620ddb570a9e99260a0725c9"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

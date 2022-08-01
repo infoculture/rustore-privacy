@@ -1,0 +1,44 @@
+{
+  "application": {
+    "handle": "com.overmobile.container.mworld",
+    "version_name": "1.0.1",
+    "version_code": "23",
+    "uaid": "4775E19F3402FE669CFD9471190D86110C2057AF",
+    "name": "\u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0438\u0440",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.overmobile.container.mworld.apk",
+    "checksum": "97288ac0979d03e2bc2663d4d57fd494728c945a4edff20af9294d368646ba3b"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

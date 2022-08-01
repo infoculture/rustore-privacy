@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "ru.smarttransport.monitoring_ums",
+    "version_name": "1.0.12",
+    "version_code": "19",
+    "uaid": "91166329D2EDF72CBA192CE2F6B50B00168E3F1D",
+    "name": "\u041c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433 \u0423\u0414\u0421",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.smarttransport.monitoring_ums.apk",
+    "checksum": "e498c6cbf3f847e8002830ba8899529231f998c26a40353a1540fcef1ce13f18"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

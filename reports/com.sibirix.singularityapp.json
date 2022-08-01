@@ -1,0 +1,59 @@
+{
+  "application": {
+    "handle": "com.sibirix.singularityapp",
+    "version_name": "3.13.1",
+    "version_code": "3136100",
+    "uaid": "D8F4D93BE411A55ABBB7D2FD075BDCBAC51BCE46",
+    "name": "SingularityApp",
+    "permissions": [
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.RECORD_AUDIO",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.READ_CALENDAR",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.android.vending.BILLING",
+      "android.permission.CAMERA",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_CALENDAR",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.VIBRATE",
+      "android.permission.GET_TASKS",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.sibirix.singularityapp.apk",
+    "checksum": "59813713adc7c270961280b179fb91ada3bb1ef09027af52a2538c0dfb455cb0"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "application": {
+    "handle": "im.micro.dimm.tv.sibirskieSeti",
+    "version_name": "5.1",
+    "version_code": "5010400",
+    "uaid": "25EB14F9DC7B3045E2C263B096DFBBF4494A8AB7",
+    "name": "\u0421\u0438\u0431\u0441\u0435\u0442\u0438 \u0422\u0412",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/im.micro.dimm.tv.sibirskieSeti.apk",
+    "checksum": "96d9ab0314fae07d9c514dfa10db19c7222a9cf02363db1f06267851daa70251"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "com.gibdd.app",
+    "version_name": "0.0.1",
+    "version_code": "1",
+    "uaid": "03BB6F21FF18CFF60D04C698D25C3CB6B4F00322",
+    "name": "\u0428\u0442\u0440\u0430\u0444\u044b \u0413\u0418\u0411\u0414\u0414",
+    "permissions": [
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.INTERNET",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.READ_APP_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.VIBRATE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.gibdd.app.apk",
+    "checksum": "cd71c77af7c0857304cf59792be5d6af6e8b683cfac837727e22160357df4541"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

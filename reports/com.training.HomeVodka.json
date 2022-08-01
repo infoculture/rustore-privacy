@@ -1,0 +1,18 @@
+{
+  "application": {
+    "handle": "com.training.HomeVodka",
+    "version_name": "1.2",
+    "version_code": "3",
+    "uaid": "7F6C456670E674F3D28AEE36B9E916F8927D9627",
+    "name": "HomeVodka",
+    "permissions": [
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.training.HomeVodka.apk",
+    "checksum": "616d6c8c9a37f4570325fd2e527b25fa6d47312beb159aba014d024862d6c682"
+  },
+  "trackers": []
+}

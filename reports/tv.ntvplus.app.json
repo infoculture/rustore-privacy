@@ -1,0 +1,68 @@
+{
+  "application": {
+    "handle": "tv.ntvplus.app",
+    "version_name": "3.8.0",
+    "version_code": "1302387",
+    "uaid": "0115CC932EE809BAAD01DDFFB25CD076081F791D",
+    "name": "\u041d\u0422\u0412-\u041f\u041b\u042e\u0421",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.android.providers.tv.permission.WRITE_EPG_DATA",
+      "com.google.android.gms.permission.AD_ID",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "com.android.vending.BILLING",
+      "com.android.providers.tv.permission.READ_EPG_DATA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/tv.ntvplus.app.apk",
+    "checksum": "3e5f34d453e284ff73c2ef638398966073e12cacc2d99868817d4ad28fbc84ab"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Branch",
+      "id": 167
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

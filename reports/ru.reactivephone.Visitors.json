@@ -1,0 +1,21 @@
+{
+  "application": {
+    "handle": "ru.reactivephone.Visitors",
+    "version_name": "1.1.0",
+    "version_code": "10",
+    "uaid": "15FC9402561211D1587A66129FBFD710E2252B4E",
+    "name": "\u041a\u043e\u0434\u044b \u0440\u0435\u0433\u0438\u043e\u043d\u043e\u0432",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.reactivephone.Visitors.apk",
+    "checksum": "3657b4d409543eaee7513f5fdab6afbd75ab4f3bcbdaddf3108b0d942f8bfa61"
+  },
+  "trackers": []
+}

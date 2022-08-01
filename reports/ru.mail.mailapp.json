@@ -1,0 +1,124 @@
+{
+  "application": {
+    "handle": "ru.mail.mailapp",
+    "version_name": "@7F1100EA",
+    "version_code": "37412",
+    "uaid": "564BCB49F072F1BC72A5BAC55BFBC8154508AEDE",
+    "name": "Mail",
+    "permissions": [
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.hihonor.permission.sec.MDM.v2",
+      "ru.mail.mailapp.permission.PUSH_PROVIDER",
+      "com.hihonor.permission.sec.ACCESS_UDID",
+      "ru.mail.mailapp.permission.PROCESS_PUSH_MSG",
+      "ru.mail.mailapp.permission.C2D_MESSAGE",
+      "com.android.permission.GET_INSTALLED_APPS",
+      "android.permission.USE_CREDENTIALS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_CONTACTS",
+      "com.huawei.permission.sec.MDM.v2",
+      "android.permission.GET_ACCOUNTS",
+      "com.hihonor.permission.MANAGE_FOLD_SCREEN_PRIVILEGED",
+      "android.permission.GET_TASKS",
+      "android.permission.INTERNET",
+      "android.permission.READ_SYNC_SETTINGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.android.gallery3d.permission.GALLERY_PROVIDER",
+      "com.huawei.permission.app.DOWNLOAD",
+      "android.permission.READ_SYNC_STATS",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "com.google.android.gallery3d.permission.GALLERY_PROVIDER",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "com.huawei.permission.sec.ACCESS_UDID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.hihonor.permission.MANAGE_FOLD_SCREEN",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.VIBRATE",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "Manifest.permission.READ_CONTACTS",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MANAGE_ACCOUNTS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.mail.mailapp.apk",
+    "checksum": "598e82f9cbb90eaddcc1a89197d19ac9567c085dc696bc324ae960e2b3c6e649"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

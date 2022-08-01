@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.learn.japanese.jlpt.katakana.kana.hiragana.kanji.romaji",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "1E30B80AA12B524985401971F471181F5F3DA43A",
+    "name": "Learn Japanese",
+    "permissions": [
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.learn.japanese.jlpt.katakana.kana.hiragana.kanji.romaji.apk",
+    "checksum": "2212f33a5265ee61056291636cdefd9d29fba60c36e4aa5a2815930ddc8d50c9"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

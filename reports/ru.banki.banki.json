@@ -1,0 +1,44 @@
+{
+  "application": {
+    "handle": "ru.banki.banki",
+    "version_name": "14.6.2",
+    "version_code": "10034",
+    "uaid": "5A31549BD9C5BF3E3446B27BD7283C8C5BA2A247",
+    "name": "\u0411\u0430\u043d\u043a\u0438.\u0440\u0443",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.banki.banki.apk",
+    "checksum": "2299b7b04661bc7de9613fa001fd83cf30be5989bd30f377877b0e7219287079"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "application": {
+    "handle": "com.logistic.sdek.apk",
+    "version_name": "4.22.0",
+    "version_code": "11511",
+    "uaid": "7BEBA2226D7CFBE8DEED3ACCEDFEE074B23DCB86",
+    "name": "CDEK APK",
+    "permissions": [
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.logistic.sdek.apk.apk",
+    "checksum": "615335baed3589e807c56695fa853d99dd35bd1c63563f41cd1a495e96011f52"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "UXCam",
+      "id": 253
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "application": {
+    "handle": "info.goodline.vrach42",
+    "version_name": "1.19.13",
+    "version_code": "599",
+    "uaid": "0D00EA8924B55975FA20E412C630453E20FA8CF4",
+    "name": "\u0417\u0430\u043f\u0438\u0441\u044c \u043a \u0432\u0440\u0430\u0447\u0443",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_CREDENTIALS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS"
+    ],
+    "libraries": [
+      "android.test.runner"
+    ]
+  },
+  "apk": {
+    "path": "apks/info.goodline.vrach42.apk",
+    "checksum": "e652cf46c06a45bfe5ebbe50e2e2187124d0f23ef90316c485eb0e89fd8e50fd"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Bugsnag",
+      "id": 207
+    },
+    {
+      "name": "Metrics",
+      "id": 246
+    }
+  ]
+}

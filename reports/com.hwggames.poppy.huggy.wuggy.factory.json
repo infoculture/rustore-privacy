@@ -1,0 +1,25 @@
+{
+  "application": {
+    "handle": "com.hwggames.poppy.huggy.wuggy.factory",
+    "version_name": "1.2",
+    "version_code": "2",
+    "uaid": "2F67AEE64544FF47D011DB4D8A7FB2F82AD7676D",
+    "name": "Huggy Wuggy",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.hwggames.poppy.huggy.wuggy.factory.apk",
+    "checksum": "48b935d50d538b18905de7731ff6850cda16c887cfcbe4a50e73abf64324765e"
+  },
+  "trackers": [
+    {
+      "name": "GameAnalytics",
+      "id": 205
+    }
+  ]
+}

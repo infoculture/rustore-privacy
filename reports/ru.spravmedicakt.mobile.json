@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "ru.spravmedicakt.mobile",
+    "version_name": "1.14.12",
+    "version_code": "43",
+    "uaid": "900A675A75791004A2172F8126869B5E611AFC17",
+    "name": "\u0421\u043f\u0440\u0430\u0432\u043c\u0435\u0434\u0438\u043a\u0430",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.spravmedicakt.mobile.apk",
+    "checksum": "273ce0730b5ceea5b6d1251c461e876982ef1f45c92492996c5ef6c5496d6254"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

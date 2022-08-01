@@ -1,0 +1,65 @@
+{
+  "application": {
+    "handle": "com.icepower.greetcard",
+    "version_name": "1.24",
+    "version_code": "24",
+    "uaid": "72023BEEA95AB0F50B430D8B7EFC1799B867590A",
+    "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u043a\u0438 \u043d\u0430 \u0432\u0441\u0435 \u0441\u043b\u0443\u0447\u0430\u0438 \u0436\u0438\u0437\u043d\u0438",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.icepower.greetcard.permission.C2D_MESSAGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.VIBRATE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.icepower.greetcard.apk",
+    "checksum": "6282aed72c80ec616c05e91708c6d77097bfee21716c8852a79e5e5669110a9d"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

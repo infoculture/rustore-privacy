@@ -1,0 +1,36 @@
+{
+  "application": {
+    "handle": "uralpro.CountriesOfTheWorld",
+    "version_name": "1.2",
+    "version_code": "2",
+    "uaid": "D8FD39F97815037E2EBECF86B01000EFD414B652",
+    "name": "\u0421\u0442\u0440\u0430\u043d\u044b \u043c\u0438\u0440\u0430",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "com.android.vending.BILLING",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/uralpro.CountriesOfTheWorld.apk",
+    "checksum": "283405106206130430fc8cc378db7cc3ef52ea7b322fc1bfb5b5824c4a498343"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

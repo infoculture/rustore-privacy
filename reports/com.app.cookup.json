@@ -1,0 +1,30 @@
+{
+  "application": {
+    "handle": "com.app.cookup",
+    "version_name": "2.7",
+    "version_code": "9",
+    "uaid": "A6FB2DC965E2B1A0574241BD3FD73FE05602B954",
+    "name": "\u0421\u043e\u0441\u0442\u0440\u044f\u043f\u0430\u0439 \u0441\u0430\u043c",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.app.cookup.apk",
+    "checksum": "ca29b4e81d4ad974fcfb13e062efb3639dee96979fc770bfb0c7d06ced66764a"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

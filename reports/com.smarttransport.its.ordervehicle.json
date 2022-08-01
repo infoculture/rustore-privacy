@@ -1,0 +1,41 @@
+{
+  "application": {
+    "handle": "com.smarttransport.its.ordervehicle",
+    "version_name": "3.0.14",
+    "version_code": "34",
+    "uaid": "DB2081BF17362C53EAFE76E38409D279AD0DF893",
+    "name": "\u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442 \u041f\u0422\u041e",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.smarttransport.its.ordervehicle.apk",
+    "checksum": "492cda1614e4eb831d92060da6e69c2492da86ce01a1407e5884b372ecfa7324"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

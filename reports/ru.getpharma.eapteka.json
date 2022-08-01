@@ -1,0 +1,73 @@
+{
+  "application": {
+    "handle": "ru.getpharma.eapteka",
+    "version_name": "22.4.2",
+    "version_code": "371",
+    "uaid": "8325617229A01264FD152B656018A67540781FB3",
+    "name": "\u0415\u0430\u043f\u0442\u0435\u043a\u0430",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BLUETOOTH",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "ru.getpharma.eapteka.permission.PROCESS_PUSH_MSG",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "ru.getpharma.eapteka.permission.PUSH_PROVIDER",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.getpharma.eapteka.apk",
+    "checksum": "ea7c2408e937212026a9f7120142b036f6f8a8acc8c5c5b10a1724f305f11375"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "New Relic",
+      "id": 130
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

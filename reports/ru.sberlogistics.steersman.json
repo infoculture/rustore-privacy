@@ -1,0 +1,22 @@
+{
+  "application": {
+    "handle": "ru.sberlogistics.steersman",
+    "version_name": "1.0.0",
+    "version_code": "1",
+    "uaid": "0D0D0EA3C70249428E979EFCA1A1044C0EB69D7F",
+    "name": "Steersman",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sberlogistics.steersman.apk",
+    "checksum": "765a3d714502ac89891cbf09f7e1968308f37aabb7be2347e10ed804d1fb0b70"
+  },
+  "trackers": []
+}

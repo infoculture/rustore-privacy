@@ -1,0 +1,46 @@
+{
+  "application": {
+    "handle": "ru.taxcom.filer",
+    "version_name": "2.0.01",
+    "version_code": "52",
+    "uaid": "0C20631C1A3CCEDA4CDACC2D192C0BC4FFA2C820",
+    "name": "\u0424\u0430\u0439\u043b\u0435\u0440",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.taxcom.filer.apk",
+    "checksum": "1b4598bc7ce4f075bddd2314d56ece2d09e7248670c12a83aef3ad6cfa2696c1"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

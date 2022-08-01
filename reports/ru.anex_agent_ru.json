@@ -1,0 +1,30 @@
+{
+  "application": {
+    "handle": "ru.anex_agent_ru",
+    "version_name": "1.0.3",
+    "version_code": "5",
+    "uaid": "69091E8AB0BEEAFD7D0EE508095D5C493BDE99DB",
+    "name": "Anex Tour",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CHANGE_WIFI_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.anex_agent_ru.apk",
+    "checksum": "f07edbc0ccbb5c2ab56c07ca0fe2b68f952dee34530a265cd51cca87b4064797"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

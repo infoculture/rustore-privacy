@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "com.tisonline.ttwcome_driver",
+    "version_name": "1.0.4.42",
+    "version_code": "16",
+    "uaid": "F9164A9C1A5F43BBCC57A213C2B6CD6C1FCE9988",
+    "name": "\u0422\u0440\u0435\u043a\u0435\u0440",
+    "permissions": [
+      "android.permission.READ_INTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.tisonline.ttwcome_driver.apk",
+    "checksum": "02a0f631296104dbbc828e2a5067ebe47019718f88f851182a84788cd3fc8032"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

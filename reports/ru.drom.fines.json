@@ -1,0 +1,50 @@
+{
+  "application": {
+    "handle": "ru.drom.fines",
+    "version_name": "2.14",
+    "version_code": "94",
+    "uaid": "3A7808B7D0BDEC2C3D52813C066B281DE7C87054",
+    "name": "\u0414\u0440\u043e\u043c \u0428\u0442\u0440\u0430\u0444\u044b",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "ru.drom.fines.permission.PUSH_PROVIDER",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "ru.drom.fines.permission.PROCESS_PUSH_MSG",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.drom.fines.apk",
+    "checksum": "3c6864e4d510cd6e00d12866b5fafad9666120a126776cde44789f906d421495"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

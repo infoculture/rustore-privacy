@@ -1,0 +1,39 @@
+package	num	trackers
+ru.ria.ria	9	Flurry,Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,OneSignal,myTarget,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.ntv.today	9	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Yandex Ad,AppMetrica,Google AdMob,VKontakte SDK
+ru.mail.mailnews	4	Google CrashLytics,Google Firebase Analytics,myTracker,myTarget
+ru.rbc.news.starter	4	Google CrashLytics,Google Firebase Analytics,AppMetrica,Google AdMob
+ru.rambler.lenta	0	
+ru.ria.radiosputnik	7	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,OneSignal,myTarget,Huawei Mobile Services (HMS) Core
+ru.rian.inosmi	12	Flurry,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Yandex Ad,AppMetrica,OneSignal,myTarget,Huawei Mobile Services (HMS) Core,VKontakte SDK
+com.tjuraniaapp	3	AppsFlyer,Google Firebase Analytics,Amplitude
+ru.ideast.gazeta	3	Pushwoosh,Google Firebase Analytics,AppMetrica
+com.rg_mobile.prod	2	Google Firebase Analytics,Facebook Flipper
+ru.rian.dynamics	7	Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,OneSignal,Huawei Mobile Services (HMS) Core
+com.sputniknews.sputnik	8	Flurry,Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,OneSignal,myTarget,Huawei Mobile Services (HMS) Core
+ru.vedomosti.android	11	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Yandex Ad,AppMetrica,OneSignal,myTarget,VKontakte SDK
+ru.sport24	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Yandex Ad,Amplitude,AppMetrica
+ru.boloid.lifenews	5	Google CrashLytics,Google Firebase Analytics,Brightcove,OneSignal,Huawei Mobile Services (HMS) Core
+com.severstal.info	2	Google CrashLytics,Google Firebase Analytics
+tv.lfstrm.smotreshka	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.publishing1c.nik	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+ru.sports.spartak	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+media.aboutrussia	9	Flurry,ATInternet,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,Countly,Google AdMob
+media.worldpotatoco	9	Flurry,ATInternet,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,Countly,Google AdMob
+system.potato.app	9	Flurry,ATInternet,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,Countly,Google AdMob
+ru.sports.euro2016liverus	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.zenit	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.khl	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.tsarday.clan	1	Google Firebase Analytics
+ru.sports.hockey	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.nhl	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.cska	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.epl	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.rfpl	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+com.nordgold.app.ru	0	
+ru.sports.lokomotiv	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.real	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.barcelona	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.manutd	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.juventus	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.khl_salavat_ulaev	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK

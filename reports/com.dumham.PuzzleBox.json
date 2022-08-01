@@ -1,0 +1,31 @@
+{
+  "application": {
+    "handle": "com.dumham.PuzzleBox",
+    "version_name": "1.1",
+    "version_code": "2",
+    "uaid": "72619C3E40C14ED1B9060BDB4939799B9F2457BD",
+    "name": "Puzzle Box",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.dumham.PuzzleBox.apk",
+    "checksum": "3c8b533d7d640e27d4c330d45b9418c5d77cd02d17e38386ba6903bf3deba398"
+  },
+  "trackers": [
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

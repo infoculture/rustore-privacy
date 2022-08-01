@@ -1,0 +1,71 @@
+{
+  "application": {
+    "handle": "com.tviztv.tviz2x45",
+    "version_name": "22.3.0",
+    "version_code": "8566",
+    "uaid": "7908BD748F24705E737075C365B3483023850036",
+    "name": "\u041c\u0410\u0422\u0427!",
+    "permissions": [
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.tviztv.tviz2x45.apk",
+    "checksum": "48bfc77df86faa18ec155b6474e77d5519fd95a29d2d2c894d52ab9b26900eb6"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Pushwoosh",
+      "id": 39
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "application": {
+    "handle": "ru.rostel",
+    "version_name": "5.2.1.2622-hmsgms",
+    "version_code": "2622",
+    "uaid": "2CE4507A2F57D44459791B0F960ED09ECAE248B1",
+    "name": "\u0413\u043e\u0441\u0443\u0441\u043b\u0443\u0433\u0438",
+    "permissions": [
+      "ru.rostel.permission.PROCESS_PUSH_MSG",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.NFC",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "ru.rostel.permission.PUSH_PROVIDER",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.CAMERA",
+      "com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.BLUETOOTH"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.rostel.apk",
+    "checksum": "b99e7af55b163d358e6c273faaf84769ee8eaae6f8fc0bcbb925de1c76d5d901"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

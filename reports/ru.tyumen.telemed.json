@@ -1,0 +1,80 @@
+{
+  "application": {
+    "handle": "ru.tyumen.telemed",
+    "version_name": "1.20.104",
+    "version_code": "104",
+    "uaid": "2397251B43E57DB718D69502A3D18DF4CC6205E1",
+    "name": "\u0422\u0435\u043b\u0435\u043c\u0435\u0434-72",
+    "permissions": [
+      "android.permission.REORDER_TASKS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.MANAGE_OWN_CALLS",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.BLUETOOTH",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.tyumen.telemed.apk",
+    "checksum": "d7b98e2bf11b20a3cd172ade3a88f032892498d352ed449628f3ae6e331c5e06"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    }
+  ]
+}

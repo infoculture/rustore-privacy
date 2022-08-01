@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "ru.ergosolo.kurilbrosil",
+    "version_name": "2.0.1",
+    "version_code": "4",
+    "uaid": "86B9A9F45C0EB02E173035CEDBFF32B84F8BCE25",
+    "name": "\u041a\u0443\u0440\u0438\u0442\u044c, \u0447\u0442\u043e\u0431\u044b \u0431\u0440\u043e\u0441\u0438\u0442\u044c!",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.ergosolo.kurilbrosil.apk",
+    "checksum": "8bd31541695d80a37ec4ef76fe86e19a3c0a93ded452ca549aca57386121f35d"
+  },
+  "trackers": []
+}

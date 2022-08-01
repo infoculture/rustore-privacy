@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "ru.sibset",
+    "version_name": "0.9.130",
+    "version_code": "130",
+    "uaid": "B20F15A117D39EA11A746FA4BE0DC0B614111AE5",
+    "name": "\u0421\u0438\u0431\u0441\u0435\u0442\u0438",
+    "permissions": [
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.fingerprints.service.ACCESS_FINGERPRINT_MANAGER",
+      "android.permission.USE_BIOMETRIC",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.NFC",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sibset.apk",
+    "checksum": "8c25f11f6ddd301f577c7f071a8b60e010627f07c12454db44dc81f5a614757b"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

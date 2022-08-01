@@ -1,0 +1,24 @@
+{
+  "application": {
+    "handle": "org.mechs.earth",
+    "version_name": "3.1.6.0",
+    "version_code": "146",
+    "uaid": "F7F24A49134810224BF473DAA0C55408FEA9ADDA",
+    "name": "MechsEarth",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/org.mechs.earth.apk",
+    "checksum": "93f82e75e884e2af4d31999842a98112fae8224a4bc8348a6d0995f31ee9a03e"
+  },
+  "trackers": []
+}

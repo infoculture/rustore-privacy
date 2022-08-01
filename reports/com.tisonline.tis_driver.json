@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "com.tisonline.tis_driver",
+    "version_name": "1.0.4.42",
+    "version_code": "16",
+    "uaid": "E6B313EFBA8CDE0233B04672571541D436B83149",
+    "name": "\u0422\u0418\u0421-\u041e\u043d\u043b\u0430\u0439\u043d",
+    "permissions": [
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.IGNORE_BATTERY_OPTIMIZATIONS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_INTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.tisonline.tis_driver.apk",
+    "checksum": "cb83e961efc601bfca5fbdc9b3b91aab4eb469e5378d6b4e59d4467c4cd074c8"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

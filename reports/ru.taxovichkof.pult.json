@@ -1,0 +1,54 @@
+{
+  "application": {
+    "handle": "ru.taxovichkof.pult",
+    "version_name": "2.18",
+    "version_code": "204",
+    "uaid": "0B1136876E1B7B3568ED5A893D0869C90F824A87",
+    "name": "\u041f\u0443\u043b\u044c\u0442",
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.REORDER_TASKS",
+      "android.permission.INTERNET",
+      "ru.taxovichkof.pult.permission.MAPS_RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "ru.taxovichkof.pult.notifications.PROCESSING_ACTIONS",
+      "android.Manifest.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "ru.taxovichkof.pult.service.BASE_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "ru.taxovichkof.pult.permission.NotificationMessagingReceiver",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.taxovichkof.pult.apk",
+    "checksum": "d5097139758e29c627b19f11d905debaf043080a2f0573e560ce6f6508d4fd0a"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

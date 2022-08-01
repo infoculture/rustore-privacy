@@ -1,0 +1,31 @@
+{
+  "application": {
+    "handle": "com.neirodev.sobytie",
+    "version_name": "1.0.0",
+    "version_code": "1",
+    "uaid": "8B294BE6EDF8BFA113B232A81570B042E1F40072",
+    "name": "SOBYTIE",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CHANGE_WIFI_STATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.neirodev.sobytie.apk",
+    "checksum": "0b25eda693043b49cf9a050d2d8695a73ec4b0eee0eb162e9a82b6a9cfb810db"
+  },
+  "trackers": []
+}

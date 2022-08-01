@@ -1,0 +1,28 @@
+{
+  "application": {
+    "handle": "ru.publishing1c.kikoriki.abc.kids.reading",
+    "version_name": "1.1",
+    "version_code": "10178",
+    "uaid": "9E65B24289D7187C5D0EBB7AD3CA6FB67D58EF2E",
+    "name": "\u0421\u043c\u0435\u0448\u0430\u0440\u0438\u043a\u0438",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.android.vending.BILLING",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.publishing1c.kikoriki.abc.kids.reading.apk",
+    "checksum": "2922c613e3270bf354b3480cd720c180a9979762eb884b6ec38cb45de7f312e4"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

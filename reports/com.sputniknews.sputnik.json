@@ -1,0 +1,66 @@
+{
+  "application": {
+    "handle": "com.sputniknews.sputnik",
+    "version_name": "2.0.60",
+    "version_code": "146",
+    "uaid": "B64184B857E7ED7F3E5A2976D23E6DC9A6DB7CD9",
+    "name": "Sputnik",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sputniknews.sputnik.permission.C2D_MESSAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.sputniknews.sputnik.apk",
+    "checksum": "4c85300d7b9727699bfa82be8b89f2401f9aa25f4cf0015ff2b35725d27988f7"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

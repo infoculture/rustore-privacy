@@ -1,0 +1,33 @@
+{
+  "application": {
+    "handle": "com.moex.finuslugi",
+    "version_name": "3.16.2",
+    "version_code": "31602",
+    "uaid": "027B7A013A15F2702DE45F0690DE8CF047CF9495",
+    "name": "\u0424\u0438\u043d\u0443\u0441\u043b\u0443\u0433\u0438",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.moex.finuslugi.apk",
+    "checksum": "669f824953ca877504b1f97a4f4e133d0872daebe149f1a2da2e10e128d88884"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

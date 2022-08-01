@@ -1,0 +1,18 @@
+{
+  "application": {
+    "handle": "com.Jafexe.LastDayofSurvival",
+    "version_name": "0.1.5",
+    "version_code": "7",
+    "uaid": "06C0476220097100BBA97FC26947DFC7B4926339",
+    "name": "Last Day of Survival",
+    "permissions": [
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.Jafexe.LastDayofSurvival.apk",
+    "checksum": "a531f2f0739fb3c7dde08532d225188d458561d98beaf84d4913edecbb17b970"
+  },
+  "trackers": []
+}

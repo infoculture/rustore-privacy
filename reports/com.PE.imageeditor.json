@@ -1,0 +1,45 @@
+{
+  "application": {
+    "handle": "com.PE.imageeditor",
+    "version_name": "3.8",
+    "version_code": "20",
+    "uaid": "43CC5BB0C68550647648AC8E79641DAAEE7C47E4",
+    "name": "PhotoInspire!",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.PE.imageeditor.apk",
+    "checksum": "d5427f5d56a91c0752e91368955c8bfecfdaa58a18e402f6ca1f0c1181c4573b"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Adjust",
+      "id": 52
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "io.teamb.moyka",
+    "version_name": "2.0.954",
+    "version_code": "68",
+    "uaid": "B39B77A3AA48DB1E9C260318CE9D70881035DF03",
+    "name": "Moy-ka",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/io.teamb.moyka.apk",
+    "checksum": "2d1b2b6f436d037525e06f1ecd2da52a80d54647d5b45591814960e10bb2e59b"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

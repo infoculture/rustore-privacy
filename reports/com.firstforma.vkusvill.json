@@ -1,0 +1,72 @@
+{
+  "application": {
+    "handle": "com.firstforma.vkusvill",
+    "version_name": "1.7.555",
+    "version_code": "1075551",
+    "uaid": "3B6127F5DAA757F657E49E86CEF22A4F7099E948",
+    "name": "\u0412\u043a\u0443\u0441\u0432\u0438\u043b\u043b for staff",
+    "permissions": [
+      "android.permission.GET_TASKS",
+      "android.permission.MANAGE_OWN_CALLS",
+      "com.firstforma.vkusvill.permission.C2D_MESSAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.PREVENT_POWER_KEY",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.CAMERA",
+      "android.permission.BLUETOOTH",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.RAISED_THREAD_PRIORITY",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.VIBRATE",
+      "android.permission.GET_ACCOUNTS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.CALL_PHONE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.firstforma.vkusvill.apk",
+    "checksum": "3c00b9a0bd23da0203ae2cd36c110f3fa76f0f1a38657f388f01124f6ef4d1e5"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

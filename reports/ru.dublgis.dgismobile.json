@@ -1,0 +1,91 @@
+{
+  "application": {
+    "handle": "ru.dublgis.dgismobile",
+    "version_name": "6.4.0.411.29",
+    "version_code": "231000411",
+    "uaid": "AE18E00B21A1AFC2C674B3A08163CBA3B77A9A7B",
+    "name": "2GIS",
+    "permissions": [
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "ru.dublgis.dgismobile.permission.PUSH_PROVIDER",
+      "android.permission.CHANGE_WIFI_STATE",
+      "androidx.car.app.NAVIGATION_TEMPLATES",
+      "androidx.car.app.ACCESS_SURFACE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "ru.dublgis.dgismobile.permission.PROCESS_PUSH_MSG",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.VIBRATE",
+      "ru.dublgis.dgismobile.permission.C2D_MESSAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "com.google.android.wearable",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.dublgis.dgismobile.apk",
+    "checksum": "334111a9372dd152210c7dc00e64a8ab296531731d65ed4cd53ff39efb997c81"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "AltBeacon",
+      "id": 219
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

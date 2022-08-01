@@ -1,0 +1,61 @@
+{
+  "application": {
+    "handle": "ru.carmoney.client",
+    "version_name": "7.10.2",
+    "version_code": "5510",
+    "uaid": "7EB7C8469776982F3432D15766326962E88D7A04",
+    "name": "CarMoney",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.INTERNET",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.carmoney.client.apk",
+    "checksum": "3177f329373c38bab596df481043c7a16d801228d29be31d14d1e0a351d78e94"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

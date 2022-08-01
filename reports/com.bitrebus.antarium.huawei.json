@@ -1,0 +1,33 @@
+{
+  "application": {
+    "handle": "com.bitrebus.antarium.huawei",
+    "version_name": "1.4",
+    "version_code": "5",
+    "uaid": "03012577FAEDB5FA2EB064DB9DC8885587274E2E",
+    "name": "Antarium",
+    "permissions": [
+      "com.hihonor.permission.MANAGE_FOLD_SCREEN",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.INTERNET",
+      "com.hihonor.permission.MANAGE_FOLD_SCREEN_PRIVILEGED"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.bitrebus.antarium.huawei.apk",
+    "checksum": "7b5041b66362659443c6b18fab80d0457a3bf39359888cfd2bdc089a796cd9ac"
+  },
+  "trackers": [
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

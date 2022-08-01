@@ -1,0 +1,36 @@
+{
+  "application": {
+    "handle": "ru.taxcom.cashdesk",
+    "version_name": "1.4.7",
+    "version_code": "58",
+    "uaid": "47813AF18CD2DBED21ED2293E5743DB242D6DD5B",
+    "name": "\u0422\u0430\u043a\u0441\u043a\u043e\u043c \u041a\u0430\u0441\u0441\u0430",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.taxcom.cashdesk.apk",
+    "checksum": "7badf494a0a1201ce653473a4bce4758689ec908e1d5363a847ec69c2ab43715"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

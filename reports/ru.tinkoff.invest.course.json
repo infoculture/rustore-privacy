@@ -1,0 +1,51 @@
+{
+  "application": {
+    "handle": "ru.tinkoff.invest.course",
+    "version_name": "3.0.0",
+    "version_code": "472",
+    "uaid": "E7E182A42A65817FA63B4BB19CC904E75492B51A",
+    "name": "\u0410\u043a\u0430\u0434\u0435\u043c\u0438\u044f \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0439",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECORD_AUDIO",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.NFC"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.tinkoff.invest.course.apk",
+    "checksum": "2a2f56026890ba5cc5213efa79677708915c6712dac961cce5cb370a7cb48bd2"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

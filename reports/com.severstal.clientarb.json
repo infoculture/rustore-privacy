@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "com.severstal.clientarb",
+    "version_name": "2.0.20",
+    "version_code": "112",
+    "uaid": "7664E1798223706632DD32F69C40BB820334CBAB",
+    "name": "Checksteel",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.severstal.clientarb.apk",
+    "checksum": "592852b7852174102656162edc7af77577306dce99d142844e2de7ceabdf0966"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

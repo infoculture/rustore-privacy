@@ -1,0 +1,27 @@
+{
+  "application": {
+    "handle": "ru.vtbmobile.app",
+    "version_name": "2.28.3",
+    "version_code": "83",
+    "uaid": "D353AB8D258D623C78C2C01B87C2F102E5FCC1E4",
+    "name": "\u0412\u0422\u0411 \u041c\u043e\u0431\u0430\u0439\u043b",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.vtbmobile.app.apk",
+    "checksum": "b539888a8963ccfeefeea09440d3cbb98bc392acc5304145609708e41e03ae26"
+  },
+  "trackers": []
+}

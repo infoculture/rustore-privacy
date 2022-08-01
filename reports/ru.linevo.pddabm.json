@@ -1,0 +1,36 @@
+{
+  "application": {
+    "handle": "ru.linevo.pddabm",
+    "version_name": "1.33",
+    "version_code": "33",
+    "uaid": "2FF8DD239B6359301EFB10C63A355683B1E27497",
+    "name": "\u0411\u0438\u043b\u0435\u0442\u044b \u041f\u0414\u0414",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.linevo.pddabm.apk",
+    "checksum": "cb86608b48e0da64e03906404a29d86d67177729341a7e388df8e7586e2a07d7"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

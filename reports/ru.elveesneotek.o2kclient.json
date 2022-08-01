@@ -1,0 +1,18 @@
+{
+  "application": {
+    "handle": "ru.elveesneotek.o2kclient",
+    "version_name": "1.0.0",
+    "version_code": "10000",
+    "uaid": "1F06E47507986196AF35559A721E66CA81A245FB",
+    "name": "\u0412\u0438\u0434\u0435\u043e\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435 Orwell 2k",
+    "permissions": [
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.elveesneotek.o2kclient.apk",
+    "checksum": "330c17f0ae5e25bd74150b8ace5c49dae6f01d7a9db9a16b8e38822a07ca08d9"
+  },
+  "trackers": []
+}

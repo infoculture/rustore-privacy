@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "org.ray.auto",
+    "version_name": "1.2.4",
+    "version_code": "23",
+    "uaid": "E42724A3E43D787122D54F9139094EF258CBECBF",
+    "name": "\u0410\u0432\u0442\u043e\u0441\u0442\u0440\u0430\u0445\u043e\u0432\u0430\u043d\u0438\u0435",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/org.ray.auto.apk",
+    "checksum": "490090bee73cee1da060ed580d2973a77a3887632c32b132074b11f1c2f1dcc0"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "HelpShift",
+      "id": 58
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

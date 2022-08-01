@@ -1,0 +1,145 @@
+{
+  "application": {
+    "handle": "com.wZakonyiiprikazyidlyaCHO_11369195",
+    "version_name": "1.0.1",
+    "version_code": "1556181840",
+    "uaid": "5B09D4E3CAB25C02EEA770B87C814DD63AEF69AC",
+    "name": "\u0417\u0430\u043a\u043e\u043d\u044b \u0438 \u043f\u0440\u0438\u043a\u0430\u0437\u044b \u0434\u043b\u044f \u0427\u041e",
+    "permissions": [
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.QUICKBOOT_POWERON",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.VIBRATE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.NFC",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_APP_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.INTERNET",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.webkit.permission.PLUGIN",
+      "com.android.alarm.permission.SET_ALARM",
+      "com.wZakonyiiprikazyidlyaCHO_11369195.permission.C2D_MESSAGE",
+      "android.permission.CAMERA",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.wZakonyiiprikazyidlyaCHO_11369195.apk",
+    "checksum": "96a477003e0f906a33a4a36d903af43ee566b0667ee63998eb16d731e13fe436"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "Appodeal",
+      "id": 162
+    },
+    {
+      "name": "Criteo",
+      "id": 170
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Appnext",
+      "id": 184
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "AltBeacon",
+      "id": 219
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "Pangle",
+      "id": 363
+    },
+    {
+      "name": "Appodeal Stack",
+      "id": 368
+    },
+    {
+      "name": "AppsGeyser",
+      "id": 369
+    },
+    {
+      "name": "BidMachine",
+      "id": 370
+    }
+  ]
+}

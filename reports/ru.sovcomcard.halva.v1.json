@@ -1,0 +1,86 @@
+{
+  "application": {
+    "handle": "ru.sovcomcard.halva.v1",
+    "version_name": "6.7.0",
+    "version_code": "110151100",
+    "uaid": "348511CD1805253D29D50E349F9C0B9A9FE84C08",
+    "name": "\u0425\u0430\u043b\u0432\u0430-\u0421\u043e\u0432\u043a\u043e\u043c\u0431\u0430\u043d\u043a",
+    "permissions": [
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "ru.rtlabs.mobile.ebs.permission.VERIFICATION",
+      "ru.sovcomcard.halva.v1.permission.pushserver.RECEIVE",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.NFC",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.QUICKBOOT_POWERON",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.REORDER_TASKS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.FOREGROUND_SERVICE",
+      "ru.sovcomcard.halva.v1.permission.PUSH_PROVIDER",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_PROFILE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_BIOMETRIC",
+      "ru.sovcomcard.halva.v1.permission.PROCESS_PUSH_MSG",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "ru.sovcomcard.halva.v1.permission.C2D_MESSAGE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sovcomcard.halva.v1.apk",
+    "checksum": "ac5631f19d972277b9e9cf0003db90b6acedc7fcbae1e442e503e39c538a03fa"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

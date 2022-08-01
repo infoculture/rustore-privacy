@@ -1,0 +1,37 @@
+{
+  "application": {
+    "handle": "app.neuropunk",
+    "version_name": "22.4.5",
+    "version_code": "1",
+    "uaid": "7C8A703F5518C6B589E857AC2C447BB587B145C0",
+    "name": "Neuropunk",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "android.permission.USE_FULL_SCREEN_INTENT"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/app.neuropunk.apk",
+    "checksum": "5f9a3f44a9e604426bb6d22e936bea7874bb897befc1ed92520b7c473d9ceb07"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

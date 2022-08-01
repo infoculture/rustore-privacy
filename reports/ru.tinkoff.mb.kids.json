@@ -1,0 +1,84 @@
+{
+  "application": {
+    "handle": "ru.tinkoff.mb.kids",
+    "version_name": "2.2.2",
+    "version_code": "707",
+    "uaid": "B64A8AEFD1916969D23D86709FDC7C2E38C525BD",
+    "name": "\u0414\u0436\u0443\u043d\u0438\u043e\u0440",
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.CAMERA",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.BLUETOOTH",
+      "ru.tinkoff.mb.kids.permission.PROCESS_PUSH_MSG",
+      "android.permission.READ_PHONE_NUMBERS",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "ru.tinkoff.mb.kids.permission.pushserver.RECEIVE",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "ru.tinkoff.mb.kids.permission.PUSH_PROVIDER",
+      "android.permission.WAKE_LOCK",
+      "android.permission.NFC",
+      "android.permission.READ_CALENDAR",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECORD_AUDIO"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.tinkoff.mb.kids.apk",
+    "checksum": "e00d41068f4297bc2bd4421951c6bcfc710d25d48b2c7157cda195afff61865a"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

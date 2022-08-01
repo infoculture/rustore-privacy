@@ -1,0 +1,70 @@
+{
+  "application": {
+    "handle": "skyeng.words.prod",
+    "version_name": "9.59.0",
+    "version_code": "559",
+    "uaid": "F6ACB8B3813D314687035C07D8F2BEA514AEE2CD",
+    "name": "Skyeng",
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_SYNC_STATS",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MICROPHONE",
+      "android.permission.CAMERA",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.NFC",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/skyeng.words.prod.apk",
+    "checksum": "2de65fb07efd4dc6d4d643516b86e738c5ac99aab6c5f4505df0ad8a7b8e4097"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

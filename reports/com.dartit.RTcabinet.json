@@ -1,0 +1,88 @@
+{
+  "application": {
+    "handle": "com.dartit.RTcabinet",
+    "version_name": "2.5.35.0",
+    "version_code": "2053500",
+    "uaid": "64F93BA3A8F2356BE55B2F3E4C6910A1E91182B2",
+    "name": "\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c",
+    "permissions": [
+      "android.permission.USE_FINGERPRINT",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.USE_BIOMETRIC",
+      "com.google.android.gms.permission.AD_ID",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_PHONE_STATE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.dartit.RTcabinet.permission.PROCESS_PUSH_MSG",
+      "com.dartit.RTcabinet.permission.MAPS_RECEIVE",
+      "com.dartit.RTcabinet.permission.PUSH_PROVIDER",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.CAMERA",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_APP_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.CALL_PHONE",
+      "android.permission.REQUEST_INSTALL_PACKAGES"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.dartit.RTcabinet.apk",
+    "checksum": "e57909910a3e071c68941253f48e9ed14f8c5d30e039db327ad34a42726da4c7"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Dynatrace",
+      "id": 137
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

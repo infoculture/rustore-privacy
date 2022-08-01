@@ -1,0 +1,26 @@
+{
+  "application": {
+    "handle": "ru.mobstudio.andgalaxy",
+    "version_name": "9.5.17",
+    "version_code": "9051700",
+    "uaid": "2A1EFB9EE1C5F42551676EF4FBA8A06F6F2EA408",
+    "name": "Galaxy",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": [
+      "android.test.runner"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.mobstudio.andgalaxy.apk",
+    "checksum": "9ab76b6666dfb9c9d6b1e08545a4a09ca080738950315efcb56999c6bb5a60fe"
+  },
+  "trackers": []
+}

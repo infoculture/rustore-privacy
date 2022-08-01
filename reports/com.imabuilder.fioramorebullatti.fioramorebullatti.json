@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "com.imabuilder.fioramorebullatti.fioramorebullatti",
+    "version_name": "1.220411",
+    "version_code": "22051100",
+    "uaid": "5660672F00A1D943212F07F4F16968CAED6B7CFA",
+    "name": "FIORAMORE BULLATTI",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.imabuilder.fioramorebullatti.fioramorebullatti.apk",
+    "checksum": "2da5febb719fc1869f5cfbf6d4c980a2dfb20d4f86ad755d3e067e584f59de0f"
+  },
+  "trackers": []
+}

@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "com.tochka.bank",
+    "version_name": "2.23.0",
+    "version_code": "394",
+    "uaid": "35B76BFE8E1476B58829770808C53A68C4833C95",
+    "name": "\u0422\u043e\u0447\u043a\u0430 X",
+    "permissions": [
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.tochka.bank.permission.PROCESS_PUSH_MSG",
+      "android.permission.READ_CONTACTS",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "com.tochka.bank.permission.PUSH_PROVIDER",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.tochka.bank.apk",
+    "checksum": "cc3dae56e880deab22e719ac5c05e55ea7fc8b522963a108603eb513feba2e27"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

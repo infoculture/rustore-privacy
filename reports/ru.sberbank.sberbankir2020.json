@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "ru.sberbank.sberbankir2020",
+    "version_name": "1.21.0",
+    "version_code": "54",
+    "uaid": "9A9226A274689FC517AF981B427BD658F0D2104F",
+    "name": "\u0410\u043a\u0446\u0438\u043e\u043d\u0435\u0440 \u0421\u0431\u0435\u0440\u0430",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.WAKE_LOCK",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.USE_BIOMETRIC",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.sberbank.sberbankir2020.apk",
+    "checksum": "0c7312971819927c51cc4b57fc9905c546f2b292bc77eacefa4e1cfbc272742d"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

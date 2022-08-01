@@ -1,0 +1,45 @@
+{
+  "application": {
+    "handle": "com.tvelly.mobile",
+    "version_name": "0.36.0",
+    "version_code": "36",
+    "uaid": "6568AC1DD0460127B52AC6CC4B4B667A1291713C",
+    "name": "Tvelly",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.android.vending.BILLING",
+      "android.permission.CAMERA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.USE_FULL_SCREEN_INTENT"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.tvelly.mobile.apk",
+    "checksum": "92b6f8b97be9a677ee8e3c70efc6ab84aad4783a4459794793d1b79e5a079817"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

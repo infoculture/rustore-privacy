@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "com.app.gogym",
+    "version_name": "2.2.2-beta",
+    "version_code": "117",
+    "uaid": "2DB507CDF9FC5C6E9FE464DB84DDDAA80195C273",
+    "name": "GOGYM",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SYSTEM_ALERT_WINDOW"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.app.gogym.apk",
+    "checksum": "7c8ebafd83b1d5e39f672ebdd0cb95acdefbb9016172c44ab51498e8e71605df"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

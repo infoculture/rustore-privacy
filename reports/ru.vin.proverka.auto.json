@@ -1,0 +1,50 @@
+{
+  "application": {
+    "handle": "ru.vin.proverka.auto",
+    "version_name": "3.9.1",
+    "version_code": "39100",
+    "uaid": "71308C999E5F7CA9FFD3971D48DE6A0FF13DE23E",
+    "name": "\u0411\u0430\u0437\u0430 \u0413\u0418\u0411\u0414\u0414",
+    "permissions": [
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.vin.proverka.auto.apk",
+    "checksum": "d44d11f5e98b2a714c1290652fa47a9310346cfba5394470dc28d4c73ef6fac5"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

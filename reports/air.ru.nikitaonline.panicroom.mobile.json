@@ -1,0 +1,63 @@
+{
+  "application": {
+    "handle": "air.ru.nikitaonline.panicroom.mobile",
+    "version_name": "1.8.90",
+    "version_code": "1008090",
+    "uaid": "52D56019838AD298247CBC49999D923CCA125E75",
+    "name": "Panic Room | Hidden object",
+    "permissions": [
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.android.vending.BILLING",
+      "ru.nikitaonline.panicroom.mobile.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/air.ru.nikitaonline.panicroom.mobile.apk",
+    "checksum": "68bc6a08d9a7b4cef4e6bcb26c25e27f1023fa85cdb3a80acb34e752615e0869"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "application": {
+    "handle": "ru.mts.money",
+    "version_name": "1.47.1",
+    "version_code": "13475",
+    "uaid": "054470EDAC3A35088181B55D593A6D65EB299A89",
+    "name": "\u041c\u0422\u0421 \u0411\u0430\u043d\u043a",
+    "permissions": [
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_COARSE_UPDATES",
+      "android.permission.READ_CONTACTS",
+      "android.permission.USE_FINGERPRINT",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+      "android.permission.VIBRATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_SUPERUSER",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CAMERA",
+      "android.permission.GET_TASKS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.READ_LOGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.NFC",
+      "android.permission.INTERNET",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.mts.money.apk",
+    "checksum": "6e0b2e5226e5a88ee1d9acb3c9fe54d14090cf4c6f9421905ebf632e2059b5a2"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

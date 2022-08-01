@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "ru.rt.mb_installer",
+    "version_name": "3.40.0",
+    "version_code": "304",
+    "uaid": "AE9B77A461E6B2AA7C5768338724914FEABA9A5A",
+    "name": "\u041c.\u041c\u043e\u043d\u0442\u0430\u0436\u043d\u0438\u043a",
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FLASHLIGHT",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_MEDIA_LOCATION"
+    ],
+    "libraries": [
+      "androidx.camera.extensions.impl"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.rt.mb_installer.apk",
+    "checksum": "da939351c30065946ef7fa9ed6ab3e0725c29b27f765da807a038893aec0b1d7"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

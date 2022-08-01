@@ -1,0 +1,66 @@
+{
+  "application": {
+    "handle": "ru.gpbmobile.lk",
+    "version_name": "1.17.1",
+    "version_code": "1168",
+    "uaid": "73A29E5101D54D309E34FC88C02DD940E7E1EAF6",
+    "name": "\u0413\u041f\u0411 \u041c\u043e\u0431\u0430\u0439\u043b",
+    "permissions": [
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.VIBRATE",
+      "android.permission.ANSWER_PHONE_CALLS",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_PHONE_NUMBERS",
+      "ru.gpbmobile.lk.permission.PUSH_PROVIDER",
+      "ru.gpbmobile.lk.permission.PROCESS_PUSH_MSG",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.camera.extensions.impl"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.gpbmobile.lk.apk",
+    "checksum": "72541cda5571d45d13c03728d2a9fbf0c5da4ae92ba961d2cbff48177479bbc0"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Bugfender",
+      "id": 233
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

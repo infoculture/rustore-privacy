@@ -1,0 +1,102 @@
+{
+  "application": {
+    "handle": "ru.mts.mtscashback",
+    "version_name": "6.4.1",
+    "version_code": "6040001",
+    "uaid": "9EA1F3D3048A883630F8A1C033F63DFABC63BE1A",
+    "name": "\u041c\u0422\u0421 Cashback",
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.USE_FINGERPRINT",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.CAMERA",
+      "android.permission.USE_CREDENTIALS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_MEDIA_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.READ_CONTACTS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.mts.mtscashback.apk",
+    "checksum": "e4fb56bbe36f2553cdf39b8203d467858861de688f1974fea387112d798b79a0"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Branch",
+      "id": 167
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

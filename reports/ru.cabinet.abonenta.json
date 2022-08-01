@@ -1,0 +1,64 @@
+{
+  "application": {
+    "handle": "ru.cabinet.abonenta",
+    "version_name": "2.23.0",
+    "version_code": "47",
+    "uaid": "6F22D9A1D4C70FFE8BD477F26C9C5897E641775A",
+    "name": "\u041a\u0430\u0431\u0438\u043d\u0435\u0442 \u0410\u0431\u043e\u043d\u0435\u043d\u0442\u0430",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "ru.cabinet.abonenta.permission.C2D_MESSAGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.VIBRATE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.android.vending.CHECK_LICENSE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.cabinet.abonenta.apk",
+    "checksum": "8e1dcbdd1658e29d41fc4f11623061b281ece8578f2bc90fe360919e340df392"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

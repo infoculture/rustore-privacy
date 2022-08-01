@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "com.lisagames.savetheruble",
+    "version_name": "1.02",
+    "version_code": "102",
+    "uaid": "A3ECF2833351AF8EB09EE46AB8B9DC26B344CADD",
+    "name": "savetheruble",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.lisagames.savetheruble.apk",
+    "checksum": "423f4e3a262f96afb94fa60c976830981f182ddbda1eeee28071b26ad003ed8d"
+  },
+  "trackers": [
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "GameAnalytics",
+      "id": 205
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

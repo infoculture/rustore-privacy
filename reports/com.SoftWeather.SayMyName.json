@@ -1,0 +1,25 @@
+{
+  "application": {
+    "handle": "com.SoftWeather.SayMyName",
+    "version_name": "1.0.0",
+    "version_code": "1",
+    "uaid": "913FB56A7D69230D4EE99955643D561A0C0AC18D",
+    "name": "\u0418\u043c\u044f \u0434\u0435\u0432\u043e\u0447\u043a\u0435 \u0438 \u043c\u0430\u043b\u044c\u0447\u0438\u043a\u0443",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.SoftWeather.SayMyName.apk",
+    "checksum": "712f7cf9fa242c4d9e0530becb6f6badfd7bd5d52adc632056646ca89e5514d5"
+  },
+  "trackers": []
+}

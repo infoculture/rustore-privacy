@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "com.cofounder_app",
+    "version_name": "1.0.8",
+    "version_code": "9",
+    "uaid": "82A340921267DEC9A281E15B2176B5E0F198B5A3",
+    "name": "Cofounder",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.android.vending.BILLING",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.google.android.gms.permission.AD_ID",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.cofounder_app.permission.C2D_MESSAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.READ_APP_BADGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.cofounder_app.apk",
+    "checksum": "ecdca7352cfac1e0b1a638c6c022d71071468b190e0747c03d406e024eb143c8"
+  },
+  "trackers": [
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

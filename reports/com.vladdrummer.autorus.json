@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "com.vladdrummer.autorus",
+    "version_name": "2.1.1",
+    "version_code": "22",
+    "uaid": "024D3E2E97382FC80672C37DB1D7A75881F35D5A",
+    "name": "\u0410\u0412\u0422\u041e\u0420\u0423\u0421\u042c",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.vladdrummer.autorus.apk",
+    "checksum": "1e0f00b320bc9e1ed97cb7b225edc2e7ad0c3794d89d78aa61f53feecaeb1f61"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "application": {
+    "handle": "com.tvoytrener.timkoilia",
+    "version_name": "19.481",
+    "version_code": "228400",
+    "uaid": "5CF162EE8E445830A03FF189EFB31DE6CA131E62",
+    "name": "\u0422\u0432\u043e\u0439 \u0422\u0440\u0435\u043d\u0435\u0440",
+    "permissions": [
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.tvoytrener.timkoilia.apk",
+    "checksum": "f41d4692396de5b7d32b5f70302973bee468eac2bbc460ed3a810032227ae3fc"
+  },
+  "trackers": []
+}

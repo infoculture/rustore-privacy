@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "com.imabuilder.deryvierstudio.tonyperotti",
+    "version_name": "1.220407",
+    "version_code": "22050700",
+    "uaid": "109142DA11B06D1277E390D12C13CA0B2CC580C6",
+    "name": "TONY PEROTTI",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.imabuilder.deryvierstudio.tonyperotti.apk",
+    "checksum": "72a2756f42e90007533f7329fdd15bb4673e64b6a3d3e0c1e3cf061d1dd3b2ba"
+  },
+  "trackers": []
+}

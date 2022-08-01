@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "ru.plusvklad.app",
+    "version_name": "2.0.3",
+    "version_code": "33",
+    "uaid": "F398C6FEFE09BDA78E22BCA82CCF549AB624D38A",
+    "name": "\u0412\u043a\u043b\u0430\u0434 \u041f\u043b\u044e\u0441 Lite",
+    "permissions": [
+      "ru.plusvklad.app.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.CLEAR_APP_USER_DATA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CLEAR_APP_CACHE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.plusvklad.app.apk",
+    "checksum": "8d2eefe10ec2488e9f427822164fe6a06f8f9958b0bf4559f21b60ba756d7c36"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

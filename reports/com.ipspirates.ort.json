@@ -1,0 +1,59 @@
+{
+  "application": {
+    "handle": "com.ipspirates.ort",
+    "version_name": "6.00",
+    "version_code": "614",
+    "uaid": "AB1B563D53CC37D060A6CD77049E9B02407B4419",
+    "name": "\u041f\u0435\u0440\u0432\u044b\u0439",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.huawei.permission.SECURITY_DIAGNOSE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "com.ipspirates.ort.permission.PUSH_PROVIDER",
+      "ru.tv1.android.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "com.ipspirates.ort.permission.PROCESS_PUSH_MSG",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.MODIFY_AUDIO_SETTINGS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.ipspirates.ort.apk",
+    "checksum": "4a2a4f6657ce48bf5686bb507d0ee79e8850894b3eb977a12cdf8a52fdfb91ec"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "Facebook Flipper",
+      "id": 392
+    }
+  ]
+}

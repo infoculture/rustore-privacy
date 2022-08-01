@@ -1,0 +1,41 @@
+{
+  "application": {
+    "handle": "farm.sr.app",
+    "version_name": "1.0.1",
+    "version_code": "1405",
+    "uaid": "E47AB3279BD3F494F91F2C6993704922D3E4F053",
+    "name": "\u0421\u0435\u0440\u0434\u0446\u0435 \u0420\u043e\u0441\u0441\u0438\u0438",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/farm.sr.app.apk",
+    "checksum": "bcd07b770614b4abf84520e4e33c62bf78519e16489c29e49c2c5b80b13ac46d"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

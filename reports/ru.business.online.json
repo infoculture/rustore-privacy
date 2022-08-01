@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "ru.business.online",
+    "version_name": "1.40.2",
+    "version_code": "14002",
+    "uaid": "B5723C476B9D1D515F9CEDEB804EE9F29BF0435E",
+    "name": "\u0411\u0438\u0437\u043d\u0435\u0441 \u043e\u043d\u043b\u0430\u0439\u043d",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.CAMERA",
+      "android.permission.FLASHLIGHT"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.business.online.apk",
+    "checksum": "79d0941ee77711630066b841ea7ecc7ae8ea955123e5d31a372ee5eca28970fc"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

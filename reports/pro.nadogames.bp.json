@@ -1,0 +1,47 @@
+{
+  "application": {
+    "handle": "pro.nadogames.bp",
+    "version_name": "1.11.35",
+    "version_code": "35",
+    "uaid": "87AFE9BD3362DC092A15E936FD3663D8C48E2045",
+    "name": "Block Puzzle",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/pro.nadogames.bp.apk",
+    "checksum": "f574fb08b9ae9163df2cb6acb3c883fa06b91c7a4547b75f5a36d90fbecf3c85"
+  },
+  "trackers": [
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "GameAnalytics",
+      "id": 205
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

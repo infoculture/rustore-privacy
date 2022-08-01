@@ -1,0 +1,29 @@
+{
+  "application": {
+    "handle": "ru.AWBooking.app",
+    "version_name": "450",
+    "version_code": "450",
+    "uaid": "99B36682209BAB4A3EBAAE2E8E220B1B54BC1D34",
+    "name": "AWGroup",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.REBOOT",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.SYSTEM_ALERT_WINDOW"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.AWBooking.app.apk",
+    "checksum": "8bebe9ce4809a2ef03d2b9353c984a2226794fa47d7c3b68a9ef488b7f467e7b"
+  },
+  "trackers": []
+}

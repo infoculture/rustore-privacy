@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "ru.multibonus.program",
+    "version_name": "5.2.6",
+    "version_code": "3222",
+    "uaid": "15BB7575DBADDE9FD284B37653A206A134940230",
+    "name": "Multibonus",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CAMERA",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.USE_BIOMETRIC"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.multibonus.program.apk",
+    "checksum": "e192ca9bdc9bc6fc1bf1a814bc272ed09e7e1ddbbec366ca296eb90a4eb7cb8c"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

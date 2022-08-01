@@ -1,0 +1,66 @@
+{
+  "application": {
+    "handle": "ru.ivi.client",
+    "version_name": "16.0.1",
+    "version_code": "12690",
+    "uaid": "D0034FA811DBADD8E813426099C10CC12C7DF257",
+    "name": "ivi",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.android.vending.BILLING",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "com.samsung.android.app.spage.permission.WRITE_CARD_DATA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.ivi.client.apk",
+    "checksum": "5044d7cc4713e3a1be7897985e25563891bdf7009387bbece9dc97ab24c48ff8"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

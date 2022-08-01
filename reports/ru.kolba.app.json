@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "ru.kolba.app",
+    "version_name": "1.0.9",
+    "version_code": "12",
+    "uaid": "E658003229A8D569090A9927A9A6FA35A988B19E",
+    "name": "Kolba",
+    "permissions": [
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.kolba.app.apk",
+    "checksum": "c28fc0b689264a51e2330a9a25722aa5f11639f1a9cbd1623d9c7892c8725797"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

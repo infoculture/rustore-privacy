@@ -1,0 +1,38 @@
+{
+  "application": {
+    "handle": "ru.vetexpert",
+    "version_name": "2.0.33",
+    "version_code": "20033",
+    "uaid": "DD754C45D44E0E020C7171D7278AB6B1229AD23C",
+    "name": "\u041c\u043e\u0439 \u0412\u0435\u0442\u0435\u0440\u0438\u043d\u0430\u0440 \u2014 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u0438 24/7",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECORD_VIDEO",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.READ_PHONE_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.vetexpert.apk",
+    "checksum": "163e763d4960fc2902b7d454d7f22d18fd14247a5e0621e2bc841d9e46bf0461"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "com.sit.pyramidelectrician",
+    "version_name": "10.5.2.2",
+    "version_code": "10",
+    "uaid": "A677BBEAB4172FE1774EEFD3D908EE5389C654EB",
+    "name": "Electrician",
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.POST_NOTIFICATIONS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.sit.pyramidelectrician.apk",
+    "checksum": "ff6c038d72a8972649b1210ff02cb632a1e5a9eafef8f1be4798553c2ad1780f"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

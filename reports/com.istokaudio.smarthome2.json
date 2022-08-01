@@ -1,0 +1,33 @@
+{
+  "application": {
+    "handle": "com.istokaudio.smarthome2",
+    "version_name": "1.0.1",
+    "version_code": "24",
+    "uaid": "57A1D73221B7FB27A987C52DBF28B95AD25FE58F",
+    "name": "Istok Smart",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_CONNECT",
+      "android.permission.BLUETOOTH_SCAN",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.CAMERA",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.istokaudio.smarthome2.apk",
+    "checksum": "42a8468b5863004049f287cb48edc033778b25b66447e9b443a7ed485b9368c3"
+  },
+  "trackers": []
+}

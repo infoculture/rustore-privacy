@@ -1,0 +1,68 @@
+{
+  "application": {
+    "handle": "ru.shelfy.android",
+    "version_name": "2.10.0",
+    "version_code": "75",
+    "uaid": "90CCB4B656229DCEB72CAB3E6D21ADDD27DE794F",
+    "name": "Shelfy",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "android.test.runner"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.shelfy.android.apk",
+    "checksum": "57919b0fed2073f75619a0b8fea60c7bb74be55aaa803bf4c8e28db5fb6f7180"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Segment",
+      "id": 62
+    },
+    {
+      "name": "MixPanel",
+      "id": 118
+    },
+    {
+      "name": "Countly",
+      "id": 122
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Bugsnag",
+      "id": 207
+    },
+    {
+      "name": "SmartLook",
+      "id": 291
+    }
+  ]
+}

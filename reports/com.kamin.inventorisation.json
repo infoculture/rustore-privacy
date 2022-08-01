@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "com.kamin.inventorisation",
+    "version_name": "1.0.7",
+    "version_code": "211",
+    "uaid": "DC55B39D170A7DB189CEE1C504E72D27287C18CB",
+    "name": "\u041a\u0410\u041c\u0418\u041d:\u0418\u043d\u0432\u0435\u043d\u0442\u0430\u0440\u0438\u0437\u0430\u0446\u0438\u044f",
+    "permissions": [
+      "android.permission.CAMERA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.BLUETOOTH",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FLASHLIGHT"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.kamin.inventorisation.apk",
+    "checksum": "eda5e1f83ca56cc77f976925ea1b03966fd27e544f8e4ef1a8fc807ddc9ea360"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

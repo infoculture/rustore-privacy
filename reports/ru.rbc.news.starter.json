@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "ru.rbc.news.starter",
+    "version_name": "4.6.8",
+    "version_code": "66005",
+    "uaid": "20E727516CA8837E4E92E5E18B22F5A16A81A765",
+    "name": "\u0420\u0411\u041a",
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.INTERNET",
+      "android.permission.MANAGE_ACCOUNTS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.rbc.news.starter.apk",
+    "checksum": "3f8ef27dce22ec621af11e065b1e88106911266e476a0eeaedf6ae28ecc96d3f"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

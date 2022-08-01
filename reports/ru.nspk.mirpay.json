@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "ru.nspk.mirpay",
+    "version_name": "1.12.1.4",
+    "version_code": "225",
+    "uaid": "4E77E151991B98F9866C1AB4DDC3F9930A1E436B",
+    "name": "Mir Pay",
+    "permissions": [
+      "android.permission.NFC",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "ru.nspk.mirpay.permission.PROCESS_PUSH_MSG",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "ru.nspk.mirpay.DOCUMENT_VIEW",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "ru.nspk.mirpay.permission.PUSH_PROVIDER",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CAMERA",
+      "android.permission.INTERNET",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.nspk.mirpay.apk",
+    "checksum": "319eec5050d901ec21beaef52f78ec375a4465c135b58c329ca7e63533af550e"
+  },
+  "trackers": []
+}

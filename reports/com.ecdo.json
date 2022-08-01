@@ -1,0 +1,59 @@
+{
+  "application": {
+    "handle": "com.ecdo",
+    "version_name": "2.6.7",
+    "version_code": "73",
+    "uaid": "F0A6CD87E406A8BE7358E598262FCC1B606E53C4",
+    "name": "\u0415\u0426\u0414\u041e",
+    "permissions": [
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.WAKE_LOCK",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.android.vending.CHECK_LICENSE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.ecdo.apk",
+    "checksum": "53b32ebbde0317e8731bac1d57f93f1310761fe91d30d17b0d5165a94549fad6"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

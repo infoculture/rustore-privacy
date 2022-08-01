@@ -1,0 +1,70 @@
+{
+  "application": {
+    "handle": "biz.imredi.mobile.audit.pro",
+    "version_name": "5.2.10",
+    "version_code": "21546",
+    "uaid": "7759EBADA655B2AC169D5FD8CE015BA648440C7F",
+    "name": "Imredi Audit Pro",
+    "permissions": [
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.WRITE_SETTINGS",
+      "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.LOCATION_HARDWARE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.CAMERA",
+      "com.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.READ_PHONE_STATE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/biz.imredi.mobile.audit.pro.apk",
+    "checksum": "e1744048beb9a7e847fc81852a53543d1027df6a2a34e8ab097d382126110661"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    }
+  ]
+}

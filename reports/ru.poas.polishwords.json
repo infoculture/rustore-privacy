@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.polishwords",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "DE9C7A46171381C3AE6E4751CB0867F0EEA31DFA",
+    "name": "Learn Polish",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.gms.permission.AD_ID"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.polishwords.apk",
+    "checksum": "6060e2e9579831353b447e9afae3963d186b488d62dd00ef41fd3b6b7a250d3a"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

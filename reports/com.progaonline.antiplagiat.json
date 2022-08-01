@@ -1,0 +1,45 @@
+{
+  "application": {
+    "handle": "com.progaonline.antiplagiat",
+    "version_name": "3.3",
+    "version_code": "23",
+    "uaid": "D13D8EC7D743BB9A9C3DD3CCBBDC899C8EBBC73A",
+    "name": "Plagiarism checker. Textovod",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "com.android.vending.BILLING"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.progaonline.antiplagiat.apk",
+    "checksum": "37af4f9e0f06f03dba71fe1f76985f9c6a1fa3a4fa32a7bdfd42721ef6eb2d80"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

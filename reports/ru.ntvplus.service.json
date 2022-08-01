@@ -1,0 +1,62 @@
+{
+  "application": {
+    "handle": "ru.ntvplus.service",
+    "version_name": "1.0.5",
+    "version_code": "47",
+    "uaid": "431378A0267C85186FAA024E5CE1ABEB7BA8CB2C",
+    "name": "\u041d\u0422\u0412-\u041f\u041b\u042e\u0421 \u0421\u0435\u0440\u0432\u0438\u0441",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "ru.ntvplus.service.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.ntvplus.service.apk",
+    "checksum": "58005087498023dfd793e4c7e5dae93ebd35de411c0b44f93099596b344e9d27"
+  },
+  "trackers": [
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    }
+  ]
+}

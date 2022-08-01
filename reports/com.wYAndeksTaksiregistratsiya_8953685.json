@@ -1,0 +1,30 @@
+{
+  "application": {
+    "handle": "com.wYAndeksTaksiregistratsiya_8953685",
+    "version_name": "3.0",
+    "version_code": "1554564718",
+    "uaid": "807354042AA61110C87AF2AE91B553E122DE79C7",
+    "name": "\u042f\u043d\u0434\u0435\u043a\u0441 \u0442\u0430\u043a\u0441\u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.wYAndeksTaksiregistratsiya_8953685.apk",
+    "checksum": "c1510a1825285e15907fe0642ba244853da909d846ca46e93888d23350269971"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

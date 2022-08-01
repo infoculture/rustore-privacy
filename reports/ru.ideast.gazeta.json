@@ -1,0 +1,60 @@
+{
+  "application": {
+    "handle": "ru.ideast.gazeta",
+    "version_name": "3.2.1",
+    "version_code": "415345",
+    "uaid": "DD23EFC71147F297BC2354A816BB652A88DFCD0C",
+    "name": "\u0413\u0430\u0437\u0435\u0442\u0430.Ru",
+    "permissions": [
+      "ru.ideast.gazeta.permission.RECEIVE_ADM_MESSAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_APP_BADGE",
+      "com.android.vending.BILLING",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sec.android.provider.badge.permission.WRITE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.ideast.gazeta.apk",
+    "checksum": "1562c99f6ecd068b41328a9f0f0d5dbd953406e21c29db816a8ac737e0bf5687"
+  },
+  "trackers": [
+    {
+      "name": "Pushwoosh",
+      "id": 39
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

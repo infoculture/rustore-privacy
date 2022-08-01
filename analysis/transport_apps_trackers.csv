@@ -1,0 +1,84 @@
+package	num	trackers
+ru.yandex.yandexnavi	4	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica
+ru.dublgis.dgismobile	11	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Amplitude,AppMetrica,AltBeacon,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.yandex.yandexmaps	4	Google CrashLytics,Schibsted,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.rzd.pass	2	Google CrashLytics,Google Firebase Analytics
+com.ivolk.StrelkaGPS	0	
+ru.yandex.metro	3	Google CrashLytics,Yandex Ad,AppMetrica
+ru.aeroflot	4	Google CrashLytics,Google Analytics,Locuslabs,Google Tag Manager
+ru.mosmetro.metro	7	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,Microsoft Visual Studio App Center Crashes,Huawei Mobile Services (HMS) Core
+ru.mosparking.appnew	5	Flurry,Google CrashLytics,Google Firebase Analytics,Mapbox,Huawei Mobile Services (HMS) Core
+com.sberauto.mobile	8	AppsFlyer,Google CrashLytics,Google Firebase Analytics,MixPanel,AppMetrica,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core
+com.ivolk.estrelka	0	
+ru.farpost.dromfilter	6	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Huawei Mobile Services (HMS) Core
+ru.yandex.taxi	6	Google Analytics,Google Firebase Analytics,Adjust,Google Tag Manager,AppMetrica,Huawei Mobile Services (HMS) Core
+com.mybedy.antiradar.rustore	0	
+kb2.soft.fuelcalculator	0	
+ru.bloodsoft.gibddchecker	5	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+org.reactivephone	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.reactivephone.Visitors	0	
+org.ray.auto	5	Google CrashLytics,Google Firebase Analytics,HelpShift,Amplitude,AppMetrica
+ru.belkacar.belkacar	10	AppsFlyer,Braze (formerly Appboy),Google CrashLytics,Pushwoosh,Google Firebase Analytics,Facebook Login,Facebook Share,AppMetrica,Mapbox,Facebook Flipper
+com.taxsee.taxsee	7	AppsFlyer,Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Carto (formerly Nutiteq)
+ru.gibdd_pay.app	5	Google CrashLytics,Google Firebase Analytics,Adjust,Amplitude,Huawei Mobile Services (HMS) Core
+ru.invoicebox.troika.individual	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+ru.vin.proverka.auto	5	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+ru.tutu.tutu_emp	10	AppsFlyer,Google CrashLytics,LeanPlum,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica,Google AdMob,VKontakte SDK
+com.blackspoongames.gims	1	AppsFlyer
+infobot.gibdd.vin.auto	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+youdrive.today	7	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,myTracker,myTarget,VKontakte SDK
+poezd.na.bilet	0	
+ru.aviabilety.deshevo	16	Google CrashLytics,Google Analytics,Google Firebase Analytics,Segment,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,Snowplow,Tencent Stats,MixPanel,Amplitude,Bugsnag,SmartLook,Google AdMob,VKontakte SDK
+com.poputti.app	2	Google CrashLytics,Google Firebase Analytics
+ru.mosgorpass	9	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Amplitude,AppMetrica,Mapbox,VKontakte SDK
+ru.boxberry.couriers	2	Google CrashLytics,Google Firebase Analytics
+com.gibdd.app	1	AppMetrica
+ru.russpass.tourist	5	Google CrashLytics,Google Firebase Analytics,Facebook Login,AppMetrica,VKontakte SDK
+com.vladdrummer.autorus	1	AppMetrica
+ru.linevo.pddabm	3	Google Firebase Analytics,Yandex Ad,AppMetrica
+aero.svo.app	2	Google Firebase Analytics,AltBeacon
+ru.kih.transport.sochi	0	
+io.ionic.autoinfo	5	Google Analytics,Google Firebase Analytics,OneSignal,Google Analytics Plugin (Cordova),Huawei Mobile Services (HMS) Core
+com.do_apps.catalog_309	6	Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement
+ru.elzforesttech.gisapp	1	Mapbox
+org.policefines.finesNotCommercial	9	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,AppMetrica,OpenTelemetry (OpenCensus, OpenTracing)
+ru.softinvent.bikecomp	2	Google CrashLytics,Google Firebase Analytics
+ru.grandtrain.app	2	Google CrashLytics,Google Firebase Analytics
+ru.invoicebox.troika	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+com.blackspoongames.dopog	3	AppsFlyer,Yandex Ad,AppMetrica
+ru.gosoplati.app	0	
+ru.antinteractive.antlivemobile	3	Google Firebase Analytics,Facebook Login,AppMetrica
+com.tisonline.ttwcome_driver	1	Google Firebase Analytics
+ru.sber.csradar	2	Google CrashLytics,Google Firebase Analytics
+ru.sdt.courier	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+ru.gazprombank.gorodpay	3	Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+su.ati.client.android	4	Google CrashLytics,Google Firebase Analytics,Amplitude,AppMetrica
+ru.allsee.autocoach	0	
+ru.android.cars7	2	Google CrashLytics,Mapbox
+com.smartway	2	Google Firebase Analytics,Google AdMob
+ru.taxovichkof.android	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica
+ru.teligent.gazApp	3	Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.sitronics.app	3	Google Firebase Analytics,AppMetrica,Bugsee
+io.teamb.moyka	1	AppMetrica
+ru.taximaster.tmtaxicaller.id7705	7	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Login,Facebook Share,Google Tag Manager,AppMetrica
+com.gootax.zam211	7	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Login,Facebook Share,Google Tag Manager,AppMetrica
+ru.amfly.app	0	
+com.tisonline.tis_taxi	1	Google CrashLytics
+com.smarttransport.its.ordervehicle	2	Google CrashLytics,Google Firebase Analytics
+ru.bstd.tmr_trade_in_check_app	5	Google CrashLytics,Google Firebase Analytics,AppMetrica,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+com.tisonline.tis_driver_rl	1	Google CrashLytics
+su.ati.driver	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.wYAndeksTaksiregistratsiya_8953685	2	Google Firebase Analytics,Google AdMob
+com.tisonline.tis_driver_request	0	
+com.tisonline.tis_driver	1	Google Firebase Analytics
+com.wfsys.carrent	3	Google Firebase Analytics,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+ru.zencar.mobile.app	3	Google Firebase Analytics,Amplitude,AppMetrica
+ru.rncard.virtualcard	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.avtobandigital.app	2	Google CrashLytics,Google Firebase Analytics
+com.transportspb.app	3	Yandex Ad,AppMetrica,VKontakte SDK
+com.tisonline.tis_user	1	Google CrashLytics
+ru.smarttransport.monitoring_ums	2	Google CrashLytics,Google Firebase Analytics
+lime.taxi.key.id169	2	AppMetrica,Mapbox
+com.wfsys.carfleet	3	Google Firebase Analytics,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+ru.gruzovichkof.android	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica
+ru.taxovichkof.pult	2	Google CrashLytics,Google Firebase Analytics

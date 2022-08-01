@@ -1,0 +1,90 @@
+{
+  "application": {
+    "handle": "com.deliveryclub",
+    "version_name": "4.97.0",
+    "version_code": "497000",
+    "uaid": "8EA5A210FD4B447916F2E1603A302411D5CC0F71",
+    "name": "Delivery Club",
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_PHONE_NUMBERS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.USE_BIOMETRIC",
+      "android.provider.Telephony.SMS_RECEIVED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.NFC"
+    ],
+    "libraries": [
+      "com.google.android.maps",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.deliveryclub.apk",
+    "checksum": "4c4f81588dfa72affe9e6b412f9fe63967a7dbdccad03cda77445d1136a19cdf"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Branch",
+      "id": 167
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "com.biblio.android",
+    "version_name": "1.0.3",
+    "version_code": "27",
+    "uaid": "967AD16C71BD8316CD1E31F942496523DF52B21A",
+    "name": "Biblio",
+    "permissions": [
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACTION_HEADSET_PLUG",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.biblio.android.apk",
+    "checksum": "e6718b2a015cd1c7cce67e7cbc71b13fed505d8cc64220eb84c21c979c9470f2"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

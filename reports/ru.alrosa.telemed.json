@@ -1,0 +1,82 @@
+{
+  "application": {
+    "handle": "ru.alrosa.telemed",
+    "version_name": "1.0.11",
+    "version_code": "11",
+    "uaid": "051699CFF73235F400AE111EFDCE796653D1CC4F",
+    "name": "\u0422\u0435\u043b\u0435\u043c\u0435\u0434.\u0410\u041b\u0420\u041e\u0421\u0410.\u041f\u0430\u0446\u0438\u0435\u043d\u0442",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.MANAGE_OWN_CALLS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.REORDER_TASKS",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_CALENDAR",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.CAMERA"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.alrosa.telemed.apk",
+    "checksum": "abebb30ae314f02f1dc4e62b18b577533874f919fc6fb3de4e1e990bd4b2722a"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    }
+  ]
+}

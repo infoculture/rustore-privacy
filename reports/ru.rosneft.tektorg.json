@@ -1,0 +1,36 @@
+{
+  "application": {
+    "handle": "ru.rosneft.tektorg",
+    "version_name": "2.1.0",
+    "version_code": "87",
+    "uaid": "51B4AC40D9CF472EF3BCD17AF91DF53923982378",
+    "name": "\u0417\u0430\u043a\u0443\u043f\u043a\u0438 \u0420\u043e\u0441\u043d\u0435\u0444\u0442\u044c",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.rosneft.tektorg.apk",
+    "checksum": "674e726cfcdcdc2314299434a89e73cfbbbfcab4ae1c0b326797e0d810326516"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

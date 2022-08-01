@@ -1,0 +1,55 @@
+{
+  "application": {
+    "handle": "com.e1c.ERP",
+    "version_name": "2.5.11",
+    "version_code": "195",
+    "uaid": "C27FA8FB0D923C5E8FDC06F562AD1883D9DEEB56",
+    "name": "1C:ERP",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CAMERA",
+      "android.permission.BLUETOOTH",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.USE_BIOMETRIC"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.e1c.ERP.apk",
+    "checksum": "b7dc25d968a882ab74fc511de6619a5faa0059cc2e630ba204c1b6e4e0ffa375"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

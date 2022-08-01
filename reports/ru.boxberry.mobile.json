@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "ru.boxberry.mobile",
+    "version_name": "1.8.2",
+    "version_code": "2304",
+    "uaid": "F415666151FD45F69B9C52915E7C5E0AC70EB0AD",
+    "name": "Boxberry",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.boxberry.mobile.apk",
+    "checksum": "bb34d7886f837b7c7c9b0d06a4cad9bcb7e2961a44c1fb9a03c00d90617afcb7"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "application": {
+    "handle": "org.bitcoinox.bitcoinoxwallet",
+    "version_name": "2.7.4",
+    "version_code": "312",
+    "uaid": "6E4BC24B5FA0BB41E9EAD194AFB7474D18521424",
+    "name": "BitcoinOX",
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.VIBRATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_SECURE_SETTINGS",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_PROFILE",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INSTALL_SHORTCUT"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/org.bitcoinox.bitcoinoxwallet.apk",
+    "checksum": "e0064f65912d997e91d2b90fc3552fd1729a15d7dea448d8cc8a6ec5a214777a"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

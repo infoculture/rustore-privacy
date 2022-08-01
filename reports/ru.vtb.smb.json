@@ -1,0 +1,61 @@
+{
+  "application": {
+    "handle": "ru.vtb.smb",
+    "version_name": "1.2209.0.214",
+    "version_code": "214",
+    "uaid": "A8C3FF2D98FF11FD691EE76B3AA37FBAC4C1936F",
+    "name": "\u0412\u0422\u0411 \u0411\u0438\u0437\u043d\u0435\u0441 Lite",
+    "permissions": [
+      "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "ru.vtb.smb.permission.C2D_MESSAGE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.WAKE_LOCK",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "ru.vtb.smb.permission.pushserver.RECEIVE",
+      "ru.vtb.smb.permission.PROCESS_PUSH_MSG",
+      "android.permission.REORDER_TASKS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.VIBRATE",
+      "ru.vtb.smb.permission.PUSH_PROVIDER",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CALL_PHONE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_CONTACTS",
+      "android.permission.BLUETOOTH"
+    ],
+    "libraries": [
+      "androidx.camera.extensions.impl",
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.vtb.smb.apk",
+    "checksum": "978f5c642a2eb845421f03dc3d2d25d46b321fa6626d35b38c5ed57d5b85ffd7"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

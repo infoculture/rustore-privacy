@@ -1,0 +1,22 @@
+{
+  "application": {
+    "handle": "com.sgcode18.biletygtn",
+    "version_name": "2.0",
+    "version_code": "6",
+    "uaid": "FE416A527578D696E0F83585BB7F006EDC0A2767",
+    "name": "\u0411\u0438\u043b\u0435\u0442\u044b \u0413\u0422\u041d",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.sgcode18.biletygtn.apk",
+    "checksum": "4c3407be02c57e3a4a84a04ec723e91dafd5660f622c248f8972230d2206b4de"
+  },
+  "trackers": []
+}

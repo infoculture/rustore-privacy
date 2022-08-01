@@ -1,0 +1,33 @@
+{
+  "application": {
+    "handle": "com.x1000ideas.test1000lives",
+    "version_name": "3.1",
+    "version_code": "44",
+    "uaid": "4AC4841C9345E37CD275E5314A78931EF93ACCAC",
+    "name": "1000 \u0436\u0438\u0437\u043d\u0435\u0439",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.x1000ideas.test1000lives.apk",
+    "checksum": "ed32a0b606b779ac6a94eb5286663c6474f6039cd73981cc491c5a28608427a3"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "application": {
+    "handle": "ru.cardsmobile.mw3",
+    "version_name": "7.67.1",
+    "version_code": "76701002",
+    "uaid": "10C7522D74BF4EA49C67EC8B8C87A0FC298A258D",
+    "name": "\u041a\u043e\u0448\u0435\u043b\u0451\u043a",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.NFC",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.USE_BIOMETRIC",
+      "com.samsung.android.providers.hostActivity.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.DISABLE_KEYGUARD",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.USE_FACERECOGNITION",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.USE_FINGERPRINT"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.cardsmobile.mw3.apk",
+    "checksum": "9e18bcb76dc2387f83ce6b92a5eac73d3676a4df4690e6907df8d945964f2ea1"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

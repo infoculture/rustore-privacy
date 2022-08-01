@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "io.omega.omegaapp",
+    "version_name": "1.0.7",
+    "version_code": "10064",
+    "uaid": "8DDF312758E0C79CC6B9469D81A953B70632660B",
+    "name": "Sevencom",
+    "permissions": [
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.CALL_PHONE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.INTERNET",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.CAMERA",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "io.omega.omegaapp.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_APP_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/io.omega.omegaapp.apk",
+    "checksum": "d56a0931b21eaba20ac837dadee5754c42c158082a9acfbe58ed37277fa737be"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

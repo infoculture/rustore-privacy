@@ -1,0 +1,29 @@
+{
+  "application": {
+    "handle": "com.atnsoft.calculator.free",
+    "version_name": "1.4.35",
+    "version_code": "75",
+    "uaid": "504339E7D8189A0D5355B0BD452F43F79B9CBE59",
+    "name": "Calculator",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.atnsoft.calculator.free.apk",
+    "checksum": "64f134e7f5ac1fce9c6f4ba07a319bf557a0a8c6c23a12a3eff6eabd75b3b730"
+  },
+  "trackers": [
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

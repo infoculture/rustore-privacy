@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "ru.nspk.sbpay",
+    "version_name": "1.5.2.41",
+    "version_code": "39",
+    "uaid": "4D98E280F304232D15AE37749990D9AA3B9908A9",
+    "name": "\u0421\u0411\u041f\u044d\u0439",
+    "permissions": [
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CAMERA",
+      "ru.nspk.sbpay.DOCUMENT_VIEW",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.NFC",
+      "ru.nspk.sbpay.permission.PROCESS_PUSH_MSG",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "ru.nspk.sbpay.permission.PUSH_PROVIDER",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.nspk.sbpay.apk",
+    "checksum": "fcce7e22e85badcafb0f151bc5cbea8f29f03c89095a7a4ab3199a5f0060d5a3"
+  },
+  "trackers": []
+}

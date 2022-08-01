@@ -1,0 +1,27 @@
+{
+  "application": {
+    "handle": "com.creosplay.Checkers",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "B097F198ACED06A2D193FAD7D38FFD41271869CA",
+    "name": "Checkers",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.creosplay.Checkers.apk",
+    "checksum": "49317636d168a898626bb227f8bc09735969804929d813420e00c64b637e451e"
+  },
+  "trackers": [
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

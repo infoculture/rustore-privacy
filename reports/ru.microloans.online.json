@@ -1,0 +1,34 @@
+{
+  "application": {
+    "handle": "ru.microloans.online",
+    "version_name": "4",
+    "version_code": "16",
+    "uaid": "66E5315A95F0AADAB8DEA43B64B5E14A810E78F9",
+    "name": "\u0414\u0435\u043d\u044c\u0433\u0438",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.microloans.online.apk",
+    "checksum": "603da384ad028f28247bff558ddca4132b0f715d493b082fb75f9cccbbc8e00e"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

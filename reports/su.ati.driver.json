@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "su.ati.driver",
+    "version_name": "0.24b",
+    "version_code": "28",
+    "uaid": "0444CE6128B8A5ACCBE407DD4F3F50F40D909708",
+    "name": "\u0410\u0422\u0418 \u0412\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "com.huawei.permission.external_app_settings.USE_COMPONENT",
+      "oppo.permission.OPPO_COMPONENT_SAFE",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/su.ati.driver.apk",
+    "checksum": "cd86e731d0545950547af9d06e160f62d4a13bb2b8e33292e687216cc8530a37"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

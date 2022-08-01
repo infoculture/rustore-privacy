@@ -1,0 +1,74 @@
+{
+  "application": {
+    "handle": "ru.shtrafy_gibdd.nalogi",
+    "version_name": "2.6.4-google-release",
+    "version_code": "142",
+    "uaid": "3B001765EECCB18F6FCA411DF12F1B9471222DFD",
+    "name": "\u041d\u0430\u043b\u043e\u0433\u0438",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "org.policefines.finesNotCommercial.debug.provider.taxes.READ_DATABASE",
+      "android.permission.WAKE_LOCK",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.READ_APP_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.INTERNET",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "org.policefines.fines.debug.provider.taxes.READ_DATABASE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "org.policefines.finesNotCommercial.provider.taxes.READ_DATABASE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "ru.shtrafy_gibdd.nalogi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+      "org.policefines.fines.provider.taxes.READ_DATABASE",
+      "com.google.android.gms.permission.AD_ID",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.shtrafy_gibdd.nalogi.apk",
+    "checksum": "8cab3375d52e55bf6e100e22e993d9c7c9c7b81a41095abbfa10166604f4d07a"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

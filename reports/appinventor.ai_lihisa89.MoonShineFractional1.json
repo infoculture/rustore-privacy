@@ -1,0 +1,70 @@
+{
+  "application": {
+    "handle": "appinventor.ai_lihisa89.MoonShineFractional1",
+    "version_name": "3.7",
+    "version_code": "45",
+    "uaid": "75FB6A21DFF54862A4BE3763AB1E0F9D82436E39",
+    "name": "\u0414\u0440\u043e\u0431\u043d\u0430\u044f \u043f\u0435\u0440\u0435\u0433\u043e\u043d\u043a\u04301",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/appinventor.ai_lihisa89.MoonShineFractional1.apk",
+    "checksum": "1d9287a3c18a52e023d6e0b40f1b8afeb84b77e7b71b93620edd511c3b82763a"
+  },
+  "trackers": [
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Startapp",
+      "id": 195
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    },
+    {
+      "name": "Pollfish",
+      "id": 305
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

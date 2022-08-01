@@ -1,0 +1,42 @@
+{
+  "application": {
+    "handle": "ru.teligent.gazApp",
+    "version_name": "2.13.10",
+    "version_code": "2013010",
+    "uaid": "A75BA43AF4FC60DF822084E7C8AC8A07A6EAA293",
+    "name": "GAZ Connect",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "ru.teligent.gazApp.permission.PUSH_PROVIDER",
+      "ru.teligent.gazApp.permission.PROCESS_PUSH_MSG",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "android.permission.SYSTEM_ALERT_WINDOW"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.teligent.gazApp.apk",
+    "checksum": "3086caf4c89cc2f952fb8e4ae74d574a5090966379016161017d03715054e86c"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

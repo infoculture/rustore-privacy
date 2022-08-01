@@ -1,0 +1,50 @@
+{
+  "application": {
+    "handle": "com.directum.jazz",
+    "version_name": "2.2.1.71800",
+    "version_code": "166",
+    "uaid": "E4C68AF4A278B9E1BDFCCB654D6C0F96428BA887",
+    "name": "Directum Jazz",
+    "permissions": [
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.USB_PERMISSION",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.VIBRATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_SYNC_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.GET_ACCOUNTS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.directum.jazz.apk",
+    "checksum": "ad3c77b5283b2bc22467983dbc34d7b5d86ffa9dee7bd2d2b4303d14645d6ad6"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Crashes",
+      "id": 238
+    },
+    {
+      "name": "Microsoft Visual Studio App Center Analytics",
+      "id": 243
+    }
+  ]
+}

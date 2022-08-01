@@ -1,0 +1,37 @@
+{
+  "application": {
+    "handle": "com.deerslab.dinoTREX",
+    "version_name": "1.62rust",
+    "version_code": "62",
+    "uaid": "88282CB38C5BB23F9E30E7AE57778CBC43490010",
+    "name": "Dino T-Rex",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.deerslab.dinoTREX.apk",
+    "checksum": "be96f671ee8a3b059186f44bf97567a4e0edc339f2927d3e30f72cb8d0c35e1f"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

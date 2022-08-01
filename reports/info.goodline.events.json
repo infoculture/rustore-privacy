@@ -1,0 +1,94 @@
+{
+  "application": {
+    "handle": "info.goodline.events",
+    "version_name": "3.11.2",
+    "version_code": "3146800",
+    "uaid": "75CE8ECFC37A947EFBA91C8E82837C1D9A9A9294",
+    "name": "TranslucentModal",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.USE_CREDENTIALS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.READ_PHONE_STATE",
+      "com.android.vending.BILLING",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/info.goodline.events.apk",
+    "checksum": "1154c06bf6c9d6a6c958ff90f06b4f8bfb2213a0477b961567140f7727536c92"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Segment",
+      "id": 62
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "MixPanel",
+      "id": 118
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Bugsnag",
+      "id": 207
+    },
+    {
+      "name": "SmartLook",
+      "id": 291
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

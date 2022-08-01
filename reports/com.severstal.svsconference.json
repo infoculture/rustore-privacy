@@ -1,0 +1,35 @@
+{
+  "application": {
+    "handle": "com.severstal.svsconference",
+    "version_name": "2.1.0",
+    "version_code": "20100",
+    "uaid": "D06A14B9AD64BB46E46C3A360C2C310E7834F592",
+    "name": "Conferences",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.WAKE_LOCK",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.severstal.svsconference.apk",
+    "checksum": "119b8b112691ae0400929e554826f98611e652fa582c897a29459a17ea39b8c4"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

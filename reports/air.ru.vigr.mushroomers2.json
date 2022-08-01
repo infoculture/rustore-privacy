@@ -1,0 +1,70 @@
+{
+  "application": {
+    "handle": "air.ru.vigr.mushroomers2",
+    "version_name": "4.4.6",
+    "version_code": "4004006",
+    "uaid": "F720E3BAE6DD22810B618D39FD797752F00F837B",
+    "name": "Forest Clans",
+    "permissions": [
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.DISABLE_KEYGUARD",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.sec.android.provider.badge.permission.READ",
+      "air.ru.vigr.mushroomers2.permission.C2D_MESSAGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.android.vending.BILLING",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.READ_APP_BADGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/air.ru.vigr.mushroomers2.apk",
+    "checksum": "68fd3f1890e2a64c157f0a2ec23fb9d314bfc69377403dc658f779d8b58fcf38"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Tapjoy",
+      "id": 199
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

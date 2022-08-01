@@ -1,0 +1,107 @@
+id	name	num
+12	AppsFlyer	163
+27	Google CrashLytics	449
+49	Google Firebase Analytics	699
+140	AppMetrica	407
+333	Huawei Mobile Services (HMS) Core	129
+412	OpenTelemetry (OpenCensus, OpenTracing)	35
+25	Flurry	45
+48	Google Analytics	126
+105	Google Tag Manager	103
+108	Snowplow	19
+238	Microsoft Visual Studio App Center Crashes	35
+243	Microsoft Visual Studio App Center Analytics	28
+124	Yandex Ad	163
+167	Branch	14
+312	Google AdMob	234
+392	Facebook Flipper	16
+175	myTracker	144
+382	VKontakte SDK	115
+66	Facebook Analytics	147
+67	Facebook Login	172
+70	Facebook Share	145
+198	myTarget	120
+328	IAB Open Measurement	133
+52	Adjust	25
+350	Exponea	4
+122	Countly	5
+405	Cifrasoft	1
+125	Amplitude	75
+219	AltBeacon	7
+30	Schibsted	2
+34	Ogury Presage	24
+35	Twitter MoPub	7
+53	ChartBoost	8
+65	Facebook Ads	80
+72	AppLovin (MAX and SparkLabs)	90
+83	Smaato	5
+90	AdColony	59
+92	Amazon Advertisement	55
+104	Fyber	18
+106	Inmobi	27
+121	Unity3d Ads	92
+146	ironSource	62
+169	Vungle	49
+183	PubNative	6
+189	HyprMX	7
+199	Tapjoy	29
+200	Mintegral	21
+320	Verizon Ads	5
+322	maio by i-mobile	3
+336	Mail.ru	11
+363	Pangle	47
+433	Snap Ad Kit	3
+61	Moat	6
+162	Appodeal	28
+170	Criteo	25
+204	Instreamatic (Adman)	3
+368	Appodeal Stack	28
+370	BidMachine	26
+221	Mozilla Telemetry	1
+39	Pushwoosh	8
+137	Dynatrace	4
+253	UXCam	3
+193	OneSignal	44
+163	AppMonet	1
+249	Tenjin	9
+60	Locuslabs	1
+205	GameAnalytics	13
+26	HockeyApp	3
+130	New Relic	2
+69	Facebook Places	26
+190	Bugly	1
+171	Mapbox	8
+207	Bugsnag	10
+246	Metrics	2
+118	MixPanel	5
+195	Startapp	10
+305	Pollfish	4
+58	HelpShift	3
+422	Solar2D (Corona)	4
+264	Emarsys Predict	1
+62	Segment	4
+291	SmartLook	3
+17	Braze (formerly Appboy)	1
+341	Carto (formerly Nutiteq)	1
+194	Appdynamics	1
+223	Pusher	2
+222	nend	1
+28	LeanPlum	1
+174	CleverTap	1
+178	Brightcove	1
+409	Insider	1
+116	Tencent Stats	1
+127	Kochava	1
+240	Google Analytics Plugin (Cordova)	2
+233	Bugfender	1
+377	RjFun	3
+403	Bolts	1
+31	ATInternet	3
+84	Scandit	1
+241	Bugsee	2
+184	Appnext	4
+369	AppsGeyser	4
+361	AutoNavi / Amap	1
+119	Umeng Analytics	1
+120	Umeng Feedback	1
+77	HyperTrack	1

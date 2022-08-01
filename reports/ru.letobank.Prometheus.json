@@ -1,0 +1,73 @@
+{
+  "application": {
+    "handle": "ru.letobank.Prometheus",
+    "version_name": "3.25.0",
+    "version_code": "2015180",
+    "uaid": "E4860CF710B76D55C21C09E4923E01684825F07A",
+    "name": "\u041f\u043e\u0447\u0442\u0430 \u0411\u0430\u043d\u043a \u041e\u043d\u043b\u0430\u0439\u043d",
+    "permissions": [
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.WAKE_LOCK",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.VIBRATE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_APP_BADGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "com.huawei.permission.external_app_settings.USE_COMPONENT",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.USE_BIOMETRIC",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.GET_PACKAGE_SIZE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.NFC",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "oppo.permission.OPPO_COMPONENT_SAFE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.READ_CONTACTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECORD_AUDIO",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.sec.android.provider.badge.permission.READ",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.letobank.Prometheus.apk",
+    "checksum": "277a63d8069da82a6dc3b9406e05bd06436d2c41ee7eec66a52043b088fb997b"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

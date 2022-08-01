@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.beeonline.music",
+    "version_name": "4.6.3",
+    "version_code": "342",
+    "uaid": "02AB0CDC63E2AEB59F6E67FE407D68704A957BBE",
+    "name": "Music Beeline",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "ru.beeonline.music.permission.C2D_MESSAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.beeonline.music.apk",
+    "checksum": "f0d7ba56fe4697a931489d2e2a152c1889445ba2015aac8fd9ab697335216ac4"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

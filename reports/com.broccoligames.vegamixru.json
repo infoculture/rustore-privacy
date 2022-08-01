@@ -1,0 +1,39 @@
+{
+  "application": {
+    "handle": "com.broccoligames.vegamixru",
+    "version_name": "0.2",
+    "version_code": "2",
+    "uaid": "3AE855485B69162787D38320041ED2FF7E25FF50",
+    "name": "Junglemix Adventure",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.broccoligames.vegamixru.apk",
+    "checksum": "05ef76b35ef5d419e5ba01e614c6c2a35f78f70f1f585ff47dda832233658d0b"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

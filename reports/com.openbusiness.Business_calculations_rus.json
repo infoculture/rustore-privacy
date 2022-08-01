@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "com.openbusiness.Business_calculations_rus",
+    "version_name": "2.5",
+    "version_code": "44",
+    "uaid": "111283E86B3F86E18D4070E3174DBB950173FA63",
+    "name": "Business Calculation New",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.openbusiness.Business_calculations_rus.permission.C2D_MESSAGE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.openbusiness.Business_calculations_rus.apk",
+    "checksum": "5789685776bcd499574ba238edd681799adec40ea52128a6d9fbe89315fbbf57"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

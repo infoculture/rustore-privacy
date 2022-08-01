@@ -1,0 +1,54 @@
+{
+  "application": {
+    "handle": "su.ati.client.android",
+    "version_name": "2.3.4",
+    "version_code": "183",
+    "uaid": "00E0AA3CEA6E41339F34B87A660CEDA585511F01",
+    "name": "ATI.SU",
+    "permissions": [
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.POST_NOTIFICATIONS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CAMERA"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar",
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/su.ati.client.android.apk",
+    "checksum": "9bf2ecb79d6d048ff8556189b6481a3f8fdef309c3a46a2448d47bd92fea90cd"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

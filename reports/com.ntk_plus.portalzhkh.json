@@ -1,0 +1,37 @@
+{
+  "application": {
+    "handle": "com.ntk_plus.portalzhkh",
+    "version_name": "600",
+    "version_code": "600",
+    "uaid": "E791E1091FF740581324E650A621772F01A405B1",
+    "name": "\u0415\u0434\u0438\u043d\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u0416\u041a\u0425 - \u0425\u0430\u043a\u0430\u0441\u0438\u044f",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ANSWER_PHONE_CALLS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.ntk_plus.portalzhkh.permission.PUSH_PROVIDER",
+      "android.permission.INTERNET",
+      "com.ntk_plus.portalzhkh.permission.PROCESS_PUSH_MSG",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.ntk_plus.portalzhkh.apk",
+    "checksum": "c054fa2a866f1659ef16ea7866eddca3308bd1d89866678592aac6ff926cf5ac"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

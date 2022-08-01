@@ -1,0 +1,84 @@
+{
+  "application": {
+    "handle": "ru.yandex.yandexnavi",
+    "version_name": "6.70",
+    "version_code": "67010680",
+    "uaid": "ECD2ED2EC650F14CCF737EDB7E16C7B02417D88A",
+    "name": "Yandex\u00a0Navi",
+    "permissions": [
+      "android.permission.REORDER_TASKS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.sec.android.launcher.permission.BIND_WIDGET",
+      "android.permission.CALL_PHONE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERACT_ACROSS_USERS_FULL",
+      "android.permission.READ_CALENDAR",
+      "android.permission.BLUETOOTH",
+      "androidx.car.app.NAVIGATION_TEMPLATES",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "com.google.android.gms.permission.CAR_VENDOR_EXTENSION",
+      "yandex.auto.permission.INTERACT_WITH_UPDATER",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.ACTIVITY_RECOGNITION",
+      "com.google.android.gms.permission.AD_ID",
+      "com.yandex.permission.AM_COMMUNICATION",
+      "android.permission.READ_PHONE_STATE",
+      "yandex.auto.permission.ACCESS_FM_RADIO",
+      "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.android.alarm.permission.SET_ALARM",
+      "android.permission.RECORD_AUDIO",
+      "com.android.vending.BILLING",
+      "com.yandex.permission.READ_CREDENTIALS",
+      "yandex.auto.alice.PROVIDE_DEVICE_STATE",
+      "androidx.car.app.ACCESS_SURFACE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "yandex.auto.hmi.permission.TOGGLE_NOTIFICATIONS",
+      "android.permission.WRITE_SETTINGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "ru.yandex.yandexmaps.permission.READ_TRANSFER",
+      "android.permission.CAMERA",
+      "yandex.auto.hmi.permission.TOGGLE_HMI",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_BACKGROUND_LOCATION"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.yandex.yandexnavi.apk",
+    "checksum": "0aed89ad8ec5e6c8fc8506709dbd33b25bfd57b6cc64f591c2790370a3b64ddc"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "application": {
+    "handle": "com.bbesp.iphobit",
+    "version_name": "1.0.1",
+    "version_code": "7",
+    "uaid": "E822B3E4C319A111FFC606A2813FE386F4844164",
+    "name": "\u0410\u0439\u0444\u043e\u0431\u0438\u0442",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.bbesp.iphobit.apk",
+    "checksum": "267bc973d4cffc473e9f029d3d45bf6000c81f300d49c1e944b01ad53b4cc6e9"
+  },
+  "trackers": []
+}

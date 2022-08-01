@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "ru.poas.englishwords",
+    "version_name": "3.14.2",
+    "version_code": "377",
+    "uaid": "50DB4921EB5861823374D7DF1DEB103488D1D391",
+    "name": "Learn English",
+    "permissions": [
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.poas.englishwords.apk",
+    "checksum": "138d94b14be101e9f791723b9a52d83b3be693c7d397ff222c40907fd0a7d516"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

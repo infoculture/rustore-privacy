@@ -1,0 +1,65 @@
+{
+  "application": {
+    "handle": "com.gootax.zam211",
+    "version_name": "13.0.0-202206111441",
+    "version_code": "4216",
+    "uaid": "6F27C8C0A2163211E79C481A14B0879647794DA4",
+    "name": "ALMA",
+    "permissions": [
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.CHANGE_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.gootax.zam211.apk",
+    "checksum": "e68d2df01c8722e05737ac39fa1b288b386e68e197df217a8d468d2b64cea05a"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

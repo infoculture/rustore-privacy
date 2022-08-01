@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "kb2.soft.fuelcalculator",
+    "version_name": "7.03",
+    "version_code": "703",
+    "uaid": "07E7391650CFF8EBE629854502053C942AEB4348",
+    "name": "Fuel Calculator",
+    "permissions": [],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/kb2.soft.fuelcalculator.apk",
+    "checksum": "ccf9b2c32bec35bd1c37cfe35b4c0bc0cfa29a4cc0f3f48beac9b208d5086474"
+  },
+  "trackers": []
+}

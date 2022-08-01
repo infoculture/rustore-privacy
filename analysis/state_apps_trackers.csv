@@ -1,0 +1,46 @@
+package	num	trackers
+ru.rostel	4	Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.gosuslugi.auto	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.gosuslugi.pos	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.gosuslugi.goskey	2	Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+ru.mosreg.ekjp	7	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica,VKontakte SDK
+ru.mos.app	4	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica
+ru.alrosa.dp	2	Google CrashLytics,Google Firebase Analytics
+ru.gosuslugi.culture	5	Google CrashLytics,Google Firebase Analytics,AppMetrica,myTracker,Huawei Mobile Services (HMS) Core
+ru.mosreg.uslugi.mobile.beta	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.altarix.mos.pgu	2	Google CrashLytics,Google Firebase Analytics
+ru.mos.polls	2	Google CrashLytics,Google Firebase Analytics
+com.blackspoongames.hunting	0	
+com.fssp.app	1	AppMetrica
+ru.tstst.mysubsidie	2	Google CrashLytics,Google Firebase Analytics
+ru.shtrafy_gibdd.nalogi	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica
+ru.mos.ed	5	Google CrashLytics,Google Firebase Analytics,Adjust,AppMetrica,myTracker
+com.minsvyaz.gosuslugi.stopcorona	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.gibdd_pay.app	5	Google CrashLytics,Google Firebase Analytics,Adjust,Amplitude,Huawei Mobile Services (HMS) Core
+ru.altarix.mos.reception	3	Flurry,Google CrashLytics,Google Firebase Analytics
+ru.integrics.mobiled	0	
+com.uip.gosuslugi2	5	Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,Google Analytics Plugin (Cordova)
+com.uip.inspector	0	
+com.gibdd.app	1	AppMetrica
+com.uip.crowdcontrol	1	Google Firebase Analytics
+com.sc.mfcnso	2	Google CrashLytics,Google Firebase Analytics
+ru.mosreg.easuz.portal	5	Google Firebase Analytics,AppMetrica,Mapbox,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+com.venul.region72	2	Google CrashLytics,Google Firebase Analytics
+ru.orb.ag2	1	Google Firebase Analytics
+ru.orb.mfc.mobile	1	Google Firebase Analytics
+ru.tyumen.telemed	9	Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Amplitude,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+com.gkh72	2	Google CrashLytics,Google Firebase Analytics
+com.asoft.mfcmobile	2	Google Firebase Analytics,Facebook Flipper
+ru.nso.agro	0	
+info.esoft.ko	6	Google CrashLytics,Google Firebase Analytics,MixPanel,Amplitude,AppMetrica,VKontakte SDK
+ru.iserv.nk	2	Google CrashLytics,Google Firebase Analytics
+com.lsbr.call03	1	Huawei Mobile Services (HMS) Core
+ru.rosagroleasing.mobile	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.smarttransport.its.ordervehicle	2	Google CrashLytics,Google Firebase Analytics
+com.firstforma.dialog	4	Google CrashLytics,Google Firebase Analytics,Amplitude,AppMetrica
+ru.docsystems.peopleinspector	0	
+ru.katharsis.office	0	
+ru.smarttransport.monitoring_ums	2	Google CrashLytics,Google Firebase Analytics
+com.example.statsport	1	Huawei Mobile Services (HMS) Core
+com.simplight.webclient	0	
+com.application.ttssm	1	Google Firebase Analytics

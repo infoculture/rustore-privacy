@@ -1,0 +1,28 @@
+{
+  "application": {
+    "handle": "moscow.govorit.accent",
+    "version_name": "5.0.2",
+    "version_code": "74",
+    "uaid": "61C9B1BF862348508E5FC302B2AA151780B102D6",
+    "name": "\u0423\u0434\u0430\u0440\u0435\u043d\u0438\u044f",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/moscow.govorit.accent.apk",
+    "checksum": "acb538e04bd6b44397f9fd5c40571db72ae5366c42326db2da4516f025748b1e"
+  },
+  "trackers": [
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

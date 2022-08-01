@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "avbezdolny.software.game2048",
+    "version_name": "2.4",
+    "version_code": "900101",
+    "uaid": "5B76F6886DAFFC0C80AD2EB3794B1F4D05CF3309",
+    "name": "2048 + 15",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/avbezdolny.software.game2048.apk",
+    "checksum": "62a6ceb912aa0bd84b039cb469dd7c39f2cd7a8baf5691a7b58c1e20e82f592b"
+  },
+  "trackers": []
+}

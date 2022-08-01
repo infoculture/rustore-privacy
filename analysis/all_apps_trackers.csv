@@ -1,0 +1,1015 @@
+package	num	trackers
+ru.sberbankmobile	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.vtb24.mobilebanking.android	4	Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core,OpenTelemetry (OpenCensus, OpenTracing)
+ru.nspk.sbpay	0	
+ru.nspk.mirpay	0	
+ru.alfabank.mobile.android	10	AppsFlyer,Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Snowplow,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Huawei Mobile Services (HMS) Core
+ru.vtb.invest	2	Google Firebase Analytics,AppMetrica
+ru.rutube.app	9	Flurry,Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,Branch,Google AdMob,Huawei Mobile Services (HMS) Core,Facebook Flipper
+ru.aliexpress.buyer	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,myTracker,Huawei Mobile Services (HMS) Core,VKontakte SDK
+com.vkontakte.android	10	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,myTracker,myTarget,IAB Open Measurement,VKontakte SDK
+ru.goods.marketplace	7	Google CrashLytics,Google Firebase Analytics,Adjust,Google Tag Manager,AppMetrica,Huawei Mobile Services (HMS) Core,Exponea
+ru.rostel	4	Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.yandex.browser	5	Facebook Login,Facebook Share,Yandex Ad,AppMetrica,Huawei Mobile Services (HMS) Core
+com.vgtrk.smotrim	7	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Yandex Ad,AppMetrica,Google AdMob
+ru.nspk.mir.loyalty	4	Google CrashLytics,Google Firebase Analytics,Google Tag Manager,AppMetrica
+com.wildberries.ru	3	Google CrashLytics,Google Analytics,Google Firebase Analytics
+ru.yandex.yandexnavi	4	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica
+ru.domclick.mortgage	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.sberbank.spasibo	6	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica,myTracker
+com.ncloudtech.cloudoffice	3	Google CrashLytics,Countly,OpenTelemetry (OpenCensus, OpenTracing)
+ru.ozon.app.android	10	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Login,Facebook Share,Google Tag Manager,Google AdMob,Exponea,Cifrasoft
+ru.dublgis.dgismobile	11	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Amplitude,AppMetrica,AltBeacon,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.yandex.searchplugin	5	Facebook Login,Facebook Share,Yandex Ad,AppMetrica,Huawei Mobile Services (HMS) Core
+yo.app.free	7	Google CrashLytics,Google Firebase Analytics,myTracker,myTarget,Google AdMob,IAB Open Measurement,OpenTelemetry (OpenCensus, OpenTracing)
+ru.yandex.yandexmaps	4	Google CrashLytics,Schibsted,AppMetrica,Huawei Mobile Services (HMS) Core
+com.my.warface.go.online	36	AppsFlyer,Flurry,Google CrashLytics,Ogury Presage,Twitter MoPub,Google Firebase Analytics,ChartBoost,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Smaato,AdColony,Amazon Advertisement,Fyber,Inmobi,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Vungle,myTracker,PubNative,HyprMX,myTarget,Tapjoy,Mintegral,Google AdMob,Verizon Ads,maio by i-mobile,IAB Open Measurement,Mail.ru,Pangle,VKontakte SDK,Snap Ad Kit
+logo.com.mbanking	6	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Huawei Mobile Services (HMS) Core,Facebook Flipper
+ru.mts.mymts	6	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica
+ru.yoo.money	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.my.lts.ru	34	AppsFlyer,Flurry,Google CrashLytics,Ogury Presage,Twitter MoPub,Google Firebase Analytics,ChartBoost,Moat,Facebook Ads,AppLovin (MAX and SparkLabs),Smaato,AdColony,Amazon Advertisement,Fyber,Inmobi,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Vungle,myTracker,PubNative,HyprMX,myTarget,Tapjoy,Mintegral,Google AdMob,Verizon Ads,maio by i-mobile,IAB Open Measurement,Mail.ru,Pangle,VKontakte SDK,Snap Ad Kit
+com.octopod.russianpost.client.android	6	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica,myTracker
+com.openbank	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.idamob.tinkoff.android	7	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Huawei Mobile Services (HMS) Core
+ru.gosuslugi.auto	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+free.zaycev.net	24	Flurry,Google CrashLytics,Ogury Presage,Google Firebase Analytics,Facebook Ads,Facebook Analytics,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Instreamatic (Adman),Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+ru.megafon.mlk	5	Google Firebase Analytics,myTracker,Mozilla Telemetry,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+ru.ok.android	15	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,ironSource,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.mail.mailapp	15	AppsFlyer,Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Ads,Google Tag Manager,myTracker,myTarget,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core,VKontakte SDK
+com.avito.android	9	Google CrashLytics,Google Firebase Analytics,Adjust,Yandex Ad,AppMetrica,myTracker,myTarget,IAB Open Measurement,VKontakte SDK
+com.uma.musicvk	4	AppsFlyer,myTracker,myTarget,VKontakte SDK
+ru.alfadirect.app	10	AppsFlyer,Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Snowplow,AppMetrica,myTracker,Huawei Mobile Services (HMS) Core
+ru.rzd.pass	2	Google CrashLytics,Google Firebase Analytics
+com.tviztv.tviz2x45	9	AppsFlyer,Google CrashLytics,Pushwoosh,Google Firebase Analytics,Yandex Ad,AppMetrica,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Google AdMob
+ru.tele2.mytele2	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.dimice.darom	3	Yandex Ad,AppMetrica,VKontakte SDK
+ru.beeline.services	9	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,myTracker,Google AdMob,Facebook Flipper
+ru.sovcomcard.halva.v1	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Google AdMob,Huawei Mobile Services (HMS) Core
+ru.beru.android	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Adjust,Facebook Login,Facebook Share,Google Tag Manager,AppMetrica,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.sberbank.investor	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Dynatrace,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.tander.magnit	5	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,Huawei Mobile Services (HMS) Core
+com.ivolk.StrelkaGPS	0	
+ru.multibonus.program	5	Google CrashLytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,myTracker
+com.ipspirates.ort	4	Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core,Facebook Flipper
+ru.vtb.smb	2	AppMetrica,Huawei Mobile Services (HMS) Core
+ru.stoloto.mobile	9	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Amplitude,AppMetrica,Google AdMob,Huawei Mobile Services (HMS) Core
+com.herocraft.game.tempest.lite	21	AppsFlyer,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Fyber,Inmobi,Unity3d Ads,Yandex Ad,Amplitude,AppMetrica,Vungle,myTracker,Tapjoy,Google AdMob,IAB Open Measurement,Pangle
+ru.thousandcardgame.android	5	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+com.vk.im	10	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,myTracker,myTarget,IAB Open Measurement,VKontakte SDK
+ru.letobank.Prometheus	2	Google CrashLytics,Google Firebase Analytics
+ru.apteka	4	AppsFlyer,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.allgoritm.youla	11	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Unity3d Ads,ironSource,myTracker,myTarget,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.yandex.metro	3	Google CrashLytics,Yandex Ad,AppMetrica
+com.dartit.RTcabinet	7	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Dynatrace,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.sberbank_sbbol	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.cardsmobile.mw3	3	AppsFlyer,Google CrashLytics,Google Firebase Analytics
+ru.rt.video.app.mobile	6	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica,Google AdMob
+com.logistic.sdek.apk	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,UXCam
+ru.mail.search.electroscope	8	Google CrashLytics,Google Firebase Analytics,myTracker,myTarget,Microsoft Visual Studio App Center Crashes,IAB Open Measurement,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.gosuslugi.pos	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.alterevit.gorod	7	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.ntv.client	9	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Yandex Ad,AppMetrica,Google AdMob,VKontakte SDK
+ru.sber.telecom	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.mart.weather	5	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+ru.ria.ria	9	Flurry,Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,OneSignal,myTarget,Huawei Mobile Services (HMS) Core,VKontakte SDK
+com.herocraft.game.drag.auto.street.racing.heat	18	AppsFlyer,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Inmobi,Unity3d Ads,Vungle,myTracker,Tapjoy,Mintegral,Google AdMob,IAB Open Measurement,Pangle
+ru.mobstudio.andgalaxy	0	
+ru.gazprombank.android.mobilebank.app	5	AppsFlyer,Google Firebase Analytics,AppMetrica,Microsoft Visual Studio App Center Crashes,Huawei Mobile Services (HMS) Core
+com.goplaytoday.guildofheroes	37	AppsFlyer,Flurry,Google CrashLytics,Ogury Presage,Twitter MoPub,Google Analytics,Google Firebase Analytics,ChartBoost,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Smaato,AdColony,Amazon Advertisement,Fyber,Inmobi,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Vungle,myTracker,PubNative,HyprMX,myTarget,Tapjoy,Mintegral,Google AdMob,Verizon Ads,maio by i-mobile,IAB Open Measurement,Mail.ru,Pangle,VKontakte SDK,Snap Ad Kit
+ru.sberbank.sberkids	2	Google CrashLytics,Google Firebase Analytics
+ru.gosuslugi.goskey	2	Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+com.herocraft.game.cut.arcade.catchthecandy	28	AppsFlyer,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Smaato,AdColony,Amazon Advertisement,Fyber,Inmobi,Unity3d Ads,Yandex Ad,AppMetrica,AppMonet,Vungle,myTracker,PubNative,myTarget,Tapjoy,Mintegral,Tenjin,Google AdMob,Verizon Ads,IAB Open Measurement,Mail.ru,Pangle
+com.vk.mail	15	AppsFlyer,Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Ads,Google Tag Manager,myTracker,myTarget,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.mail.cloud	16	AppsFlyer,Schibsted,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Unity3d Ads,ironSource,myTracker,myTarget,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.ostrovok.android	11	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Amplitude,AppMetrica,Branch,Google AdMob,Exponea
+ru.tv1.kino	6	Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,Google AdMob,Huawei Mobile Services (HMS) Core
+ru.aeroflot	4	Google CrashLytics,Google Analytics,Locuslabs,Google Tag Manager
+ru.mts.money	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.hh.android	9	Google CrashLytics,Google Analytics,Google Firebase Analytics,Yandex Ad,AppMetrica,myTracker,Google AdMob,Huawei Mobile Services (HMS) Core,VKontakte SDK
+com.hunterhamster.snailbob	24	Google Analytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Fyber,Google Tag Manager,Inmobi,Unity3d Ads,Yandex Ad,Amplitude,AppMetrica,Vungle,Tapjoy,Mintegral,GameAnalytics,Tenjin,Google AdMob,IAB Open Measurement,Pangle
+ru.burgerking	8	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica,Google AdMob
+ru.mamba.client	16	AppsFlyer,Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,VKontakte SDK
+ru.sblogistics.android	3	AppsFlyer,Google Firebase Analytics,AppMetrica
+com.okg.theheavens	19	AppsFlyer,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Amazon Advertisement,Fyber,Unity3d Ads,Amplitude,ironSource,Vungle,myTracker,myTarget,Google AdMob,IAB Open Measurement,Mail.ru,Pangle
+ru.vseapteki	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,myTracker,myTarget,VKontakte SDK
+com.cetelem.cetelem_android	2	Google CrashLytics,AppMetrica
+ru.mts.mtstv	7	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,Google AdMob
+com.icq.mobile.client	5	HockeyApp,Google Firebase Analytics,myTracker,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+ru.openbroker.app	5	Google CrashLytics,Google Firebase Analytics,Amplitude,AppMetrica,myTracker
+ru.mosmetro.metro	7	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,Microsoft Visual Studio App Center Crashes,Huawei Mobile Services (HMS) Core
+com.zigzag_mobile.skorolek	4	Yandex Ad,AppMetrica,myTarget,Google AdMob
+com.lunappstudio.crossroyal	21	Flurry,Ogury Presage,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+ru.ritmmedia.yappy	6	Google CrashLytics,Google Firebase Analytics,Adjust,Amplitude,AppMetrica,VKontakte SDK
+com.vk.calls	10	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,myTracker,myTarget,IAB Open Measurement,VKontakte SDK
+ru.ivi.client	8	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob,VKontakte SDK
+ru.ntv.today	9	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Yandex Ad,AppMetrica,Google AdMob,VKontakte SDK
+ru.getpharma.eapteka	8	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,New Relic,AppMetrica,Google AdMob,Huawei Mobile Services (HMS) Core
+gpm.tnt_premier	7	AppsFlyer,Google CrashLytics,Pushwoosh,Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+com.herocraft.game.free.redball3	21	Flurry,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Inmobi,Unity3d Ads,Yandex Ad,Amplitude,AppMetrica,Vungle,Tapjoy,Mintegral,Tenjin,Google AdMob,IAB Open Measurement,VKontakte SDK
+com.vk.clips	6	Google CrashLytics,Google Firebase Analytics,myTracker,myTarget,IAB Open Measurement,VKontakte SDK
+ru.mail.mailnews	4	Google CrashLytics,Google Firebase Analytics,myTracker,myTarget
+ru.mosreg.ekjp	7	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica,VKontakte SDK
+ru.drom.pdd.android.app	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+com.holden.radio	4	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+ru.rabota.app2	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.psbank.msb.dev.psb_appstore	2	Google CrashLytics,Google Firebase Analytics
+com.easypay_fssp	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Branch,OpenTelemetry (OpenCensus, OpenTracing)
+com.icepower.greetcard	5	Google Firebase Analytics,Yandex Ad,AppMetrica,OneSignal,Huawei Mobile Services (HMS) Core
+intech.global.com.beeline	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager
+ru.ok.messages	5	Google CrashLytics,Google Firebase Analytics,myTracker,myTarget,VKontakte SDK
+com.zengalt.engster	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica
+ru.drom.fines	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+ru.sberins.insureapp.android	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.espritgames.rpg.nine.songs	9	AppsFlyer,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Amplitude,Bugly,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.mosparking.appnew	5	Flurry,Google CrashLytics,Google Firebase Analytics,Mapbox,Huawei Mobile Services (HMS) Core
+com.openbank.msb	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+su.sovietgames.everlasting_summer	0	
+info.goodline.vrach42	9	Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Amplitude,AppMetrica,Bugsnag,Metrics
+ru.tinkoff.investing	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Google AdMob,Huawei Mobile Services (HMS) Core
+net.wapsmskey.wartank	2	Adjust,myTracker
+ru.sutochno_redesign	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.mail.horo.android	10	Flurry,Google CrashLytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,myTracker,myTarget
+ru.rbc.news.starter	4	Google CrashLytics,Google Firebase Analytics,AppMetrica,Google AdMob
+com.tvoytrener.timkoilia	0	
+ru.mos.app	4	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica
+ru.gdemoideti.parent	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,AppMetrica
+com.fishermator.fishermator	0	
+ru.cn.tv	11	Flurry,Google CrashLytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Inmobi,Yandex Ad,AppMetrica,myTarget,Google AdMob,Huawei Mobile Services (HMS) Core
+com.gamemisctop.busSimulator3D	2	Unity3d Ads,Google AdMob
+ru.more.play	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,Huawei Mobile Services (HMS) Core
+com.programmisty.emiasapp	3	Google Firebase Analytics,AppMetrica,Google AdMob
+com.sberauto.mobile	8	AppsFlyer,Google CrashLytics,Google Firebase Analytics,MixPanel,AppMetrica,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core
+ru.alrosa.dp	2	Google CrashLytics,Google Firebase Analytics
+appinventor.ai_lihisa89.MoonShine	13	Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,OneSignal,Startapp,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Pollfish,Google AdMob,IAB Open Measurement
+ru.alexeydubinin.birthdays	2	Yandex Ad,AppMetrica
+com.ivolk.estrelka	0	
+ru.alfabank.oavdo.amc	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Snowplow,Huawei Mobile Services (HMS) Core
+com.playtox.mf.rustore	4	Google Firebase Analytics,Facebook Login,AppMetrica,VKontakte SDK
+ru.kari.android	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.rambler.lenta	0	
+reactivephone.msearch	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.beeline.tve.android	8	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,AppMetrica
+com.simplepayments.gkh	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Branch,OpenTelemetry (OpenCensus, OpenTracing)
+ru.sbcs.store	12	Google CrashLytics,Google Analytics,Google Firebase Analytics,Adjust,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,myTracker,myTarget,VKontakte SDK,Facebook Flipper
+ru.gosuslugi.culture	5	Google CrashLytics,Google Firebase Analytics,AppMetrica,myTracker,Huawei Mobile Services (HMS) Core
+ru.ria.radiosputnik	7	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,OneSignal,myTarget,Huawei Mobile Services (HMS) Core
+com.atnsoft.calculator.free	1	Google AdMob
+ru.zhuck.webapp	4	Google CrashLytics,Google Firebase Analytics,Google AdMob,Huawei Mobile Services (HMS) Core
+com.lunappstudio.evopuzzles	20	Flurry,Ogury Presage,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Appodeal Stack,BidMachine
+ru.mosreg.uslugi.mobile.beta	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.yandex.androidkeyboard	1	AppMetrica
+com.deliveryclub	12	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Amplitude,AppMetrica,Branch,myTracker,myTarget,Huawei Mobile Services (HMS) Core,VKontakte SDK
+mint.dating	5	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob,VKontakte SDK
+ru.publishing1c.heroes	14	Google CrashLytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,Unity3d Ads,AppMetrica,ironSource,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle
+ru.tinkoff.mvno	8	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Amplitude,Google AdMob,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.yandex.translate	1	AppMetrica
+skyeng.words.prod	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,VKontakte SDK
+ru.farpost.dromfilter	6	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Huawei Mobile Services (HMS) Core
+ru.yandex.taxi	6	Google Analytics,Google Firebase Analytics,Adjust,Google Tag Manager,AppMetrica,Huawei Mobile Services (HMS) Core
+heroeswm.ru	1	AppMetrica
+com.my.juggernautwars	27	AppsFlyer,Flurry,HockeyApp,Google Analytics,Google Firebase Analytics,ChartBoost,Moat,Facebook Ads,Facebook Analytics,Facebook Login,AppLovin (MAX and SparkLabs),AdColony,Fyber,Google Tag Manager,Inmobi,Unity3d Ads,ironSource,Vungle,myTracker,HyprMX,myTarget,Tapjoy,Microsoft Visual Studio App Center Crashes,Google AdMob,IAB Open Measurement,Mail.ru,VKontakte SDK
+ru.sber.investor	1	Google Firebase Analytics
+ru.vkusvill	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,AppMetrica
+ru.crptech.mark	5	Google CrashLytics,Google Firebase Analytics,AppMetrica,myTracker,VKontakte SDK
+com.ertelecom.smarthome	10	Flurry,Google CrashLytics,Pushwoosh,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager
+com.gsgroup.tricoloronline.mobile	5	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google AdMob
+ru.mts.music.android	8	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,Branch,VKontakte SDK
+ru.hi_chef.twa	2	Google Firebase Analytics,myTracker
+com.nekki.shadowfightarena_xsolla	23	AppsFlyer,Google CrashLytics,Google Firebase Analytics,ChartBoost,HelpShift,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Fyber,Unity3d Ads,ironSource,Vungle,myTracker,myTarget,Tapjoy,Bugsnag,Google AdMob,IAB Open Measurement,Pangle
+com.interactive.novella	17	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Amazon Advertisement,Unity3d Ads,ironSource,Vungle,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle
+com.sberbank.sberpravo	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.smp.android	4	Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.beeline.beebookreader	5	Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica
+ru.litres.android	10	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,AppMetrica,VKontakte SDK
+com.animagames.forgotten_treasure_2	5	Google Firebase Analytics,Unity3d Ads,Yandex Ad,AppMetrica,Google AdMob
+com.plushki	4	Google CrashLytics,Google Firebase Analytics,AppMetrica,myTracker
+ru.altarix.mos.pgu	2	Google CrashLytics,Google Firebase Analytics
+com.platfomni.vita	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica
+tv.ntvplus.app	8	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,Branch,Google AdMob,VKontakte SDK
+ru.alexeydubinin.holidays	2	Yandex Ad,AppMetrica
+com.dmobin.red.ball	27	Google CrashLytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Fyber,Inmobi,Unity3d Ads,Yandex Ad,Amplitude,AppMetrica,Vungle,myTracker,PubNative,myTarget,Tapjoy,Mintegral,Tenjin,Google AdMob,Verizon Ads,IAB Open Measurement,Mail.ru,Pangle
+ru.poas.englishwords	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+ru.rian.inosmi	12	Flurry,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Yandex Ad,AppMetrica,OneSignal,myTarget,Huawei Mobile Services (HMS) Core,VKontakte SDK
+com.severgroup.lk	2	Google CrashLytics,Google Firebase Analytics
+ru.abrr.gas	2	Google Firebase Analytics,Bugsnag
+com.mybedy.antiradar.rustore	0	
+com.infoshell.recradio	9	Google CrashLytics,Google Firebase Analytics,Facebook Login,Yandex Ad,AppMetrica,OneSignal,Instreamatic (Adman),Huawei Mobile Services (HMS) Core,VKontakte SDK
+com.simplepayments_fns	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Branch,OpenTelemetry (OpenCensus, OpenTracing)
+ru.beeline.family	2	Google CrashLytics,Google Firebase Analytics
+com.playtox.tanks.gp.strategy.rustore	4	Google Firebase Analytics,Facebook Login,AppMetrica,VKontakte SDK
+com.tomato.crossword.collection	13	Google Firebase Analytics,AppLovin (MAX and SparkLabs),AdColony,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,myTarget,Google AdMob,IAB Open Measurement,Appodeal Stack,Solar2D (Corona)
+ru.sberbank.sberbankir2020	2	Google CrashLytics,Google Firebase Analytics
+com.its.yarus	8	Google CrashLytics,Google Firebase Analytics,Adjust,Facebook Login,Facebook Share,AppMetrica,Google AdMob,VKontakte SDK
+com.hero.craft.mr.knight.how.loot.pull.pin.scape	22	Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Inmobi,Unity3d Ads,Yandex Ad,Amplitude,AppMetrica,ironSource,Vungle,Tapjoy,Mintegral,Bugsnag,Tenjin,Google AdMob,IAB Open Measurement,Pangle
+com.my.world.above	21	AppsFlyer,Google Firebase Analytics,ChartBoost,Moat,Facebook Ads,Facebook Analytics,Facebook Login,AppLovin (MAX and SparkLabs),Fyber,Inmobi,Unity3d Ads,ironSource,Vungle,myTracker,Tapjoy,Microsoft Visual Studio App Center Crashes,Google AdMob,IAB Open Measurement,Mail.ru,Pangle,VKontakte SDK
+com.ertelecom.domrutv	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.cloud.disk	6	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Yandex Ad,AppMetrica
+com.merigotech.fillwords	21	Flurry,Ogury Presage,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+ru.vigroup.apteka	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.dev_professional.ru.mynotepad	2	Yandex Ad,AppMetrica
+ru.overmobile.tower	23	AppsFlyer,Google Firebase Analytics,ChartBoost,Moat,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Inmobi,Unity3d Ads,ironSource,Vungle,myTracker,myTarget,Tapjoy,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Google AdMob,IAB Open Measurement,Pangle,VKontakte SDK
+ru.ergosolo.kurilbrosil	0	
+com.greenbuttongames.idlebutton	28	Google CrashLytics,Ogury Presage,Google Firebase Analytics,Adjust,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Fyber,Inmobi,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Vungle,myTracker,PubNative,HyprMX,myTarget,Tapjoy,Mintegral,GameAnalytics,Google AdMob,IAB Open Measurement,Pangle
+air.ru.nikitaonline.panicroom.mobile	9	Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,OneSignal,Huawei Mobile Services (HMS) Core,VKontakte SDK
+com.samogon_pro.beercalc	11	Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,OneSignal,Startapp,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Pollfish,Google AdMob
+com.deliveryclub.rider	8	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Amplitude,myTracker,AltBeacon,VKontakte SDK
+com.yanartnv.com.tanks	25	Google CrashLytics,Ogury Presage,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,GameAnalytics,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+com.tjuraniaapp	3	AppsFlyer,Google Firebase Analytics,Amplitude
+com.Jafexe.LastDayofSurvival	0	
+com.zvooq.openplay	9	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Branch,Instreamatic (Adman),Emarsys Predict,VKontakte SDK,Facebook Flipper
+info.goodline.events	14	AppsFlyer,Google Firebase Analytics,Segment,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,MixPanel,Amplitude,AppMetrica,Bugsnag,SmartLook,Google AdMob,VKontakte SDK
+cb.ibank	4	Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.invitro.app	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.okg.mergecats	14	AppsFlyer,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Unity3d Ads,Amplitude,ironSource,myTracker,Google AdMob,IAB Open Measurement,Mail.ru
+ru.mos.polls	2	Google CrashLytics,Google Firebase Analytics
+ru.cenozavr.mobile_android	2	Google CrashLytics,Google Firebase Analytics
+com.goplaytoday.shiftrace	26	Google CrashLytics,Ogury Presage,Google Firebase Analytics,Adjust,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Fyber,Inmobi,Unity3d Ads,AppMetrica,ironSource,Vungle,myTracker,HyprMX,myTarget,Tapjoy,Mintegral,GameAnalytics,Google AdMob,IAB Open Measurement,Pangle
+ru.ideast.gazeta	3	Pushwoosh,Google Firebase Analytics,AppMetrica
+ru.beeonline.music	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.survival.squid.and.game	0	
+uralpro.wordfromwords	2	Yandex Ad,AppMetrica
+moscow.govorit.accent	1	Google AdMob
+ru.progstech.mergeblocks	4	Yandex Ad,AppMetrica,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+com.sgcode18.biletypdd	0	
+ru.tabor.search	5	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob,VKontakte SDK
+ru.boxberry.mobile	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.bifit.rncbbeta	2	Google Firebase Analytics,AppMetrica
+com.maningame.fanwars.rs	1	AppMetrica
+ru.tinkoff.bnpl	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Huawei Mobile Services (HMS) Core
+ru.rt.smarthome	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.tochka.bank	4	Google CrashLytics,Google Firebase Analytics,Huawei Mobile Services (HMS) Core,OpenTelemetry (OpenCensus, OpenTracing)
+ru.platius.mobile	4	AppsFlyer,Google CrashLytics,Pushwoosh,Google Firebase Analytics
+ru.poas.chinesewords	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+com.geography.travel.quiz	25	AppsFlyer,Ogury Presage,Google Firebase Analytics,Adjust,Facebook Ads,Facebook Analytics,Facebook Login,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,GameAnalytics,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+com.aimp.player	0	
+sovfin.game.noughtscrosses	2	Yandex Ad,AppMetrica
+kb2.soft.fuelcalculator	0	
+uralpro.cameralockbirch	1	Google AdMob
+com.aigrind.warspear.rustore	7	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Fyber,Google Tag Manager,AppMetrica
+ru.bloodsoft.gibddchecker	5	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+ru.tinkoff.sme	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Huawei Mobile Services (HMS) Core
+com.ashberrysoft.leadertask	6	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share
+ru.rambler.mail	7	Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,AppMetrica,VKontakte SDK
+com.blackspoongames.hunting	0	
+ru.hoff.app	10	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Amplitude,AppMetrica,UXCam,Google AdMob,Exponea
+com.fssp.app	1	AppMetrica
+com.tsartech.dots	7	AppsFlyer,Facebook Analytics,Facebook Login,Facebook Share,Unity3d Ads,Amplitude,Google AdMob
+ru.rt.video.app.mobile.b2b	4	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics
+com.bitrebus.antarium.huawei	2	IAB Open Measurement,Huawei Mobile Services (HMS) Core
+com.rg_mobile.prod	2	Google Firebase Analytics,Facebook Flipper
+com.nevosoft.mylittleplanet	21	Google CrashLytics,Twitter MoPub,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Fyber,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Vungle,myTracker,myTarget,Tapjoy,Mintegral,Google AdMob,IAB Open Measurement,Pangle,VKontakte SDK
+ru.eneva.stbtv	0	
+ru.over.keepers	9	AppsFlyer,Google Firebase Analytics,Facebook Analytics,Facebook Login,Unity3d Ads,ironSource,myTracker,Google AdMob,IAB Open Measurement
+com.zedtema.android.radio	5	Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica
+com.app.myfriend	1	Google Firebase Analytics
+com.brutalduckgames.rustorefarm	3	Unity3d Ads,Amplitude,Google AdMob
+ru.vtbmobile.app	0	
+ru.tstst.mysubsidie	2	Google CrashLytics,Google Firebase Analytics
+ru.shtrafy_gibdd.nalogi	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica
+me.incrdbl.android.wordbyword	21	AppsFlyer,Google CrashLytics,Twitter MoPub,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Unity3d Ads,Yandex Ad,AppMetrica,myTracker,myTarget,GameAnalytics,Pollfish,Google AdMob,IAB Open Measurement,Pangle,VKontakte SDK,OpenTelemetry (OpenCensus, OpenTracing)
+ru.rian.dynamics	7	Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,OneSignal,Huawei Mobile Services (HMS) Core
+com.sputniknews.sputnik	8	Flurry,Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,OneSignal,myTarget,Huawei Mobile Services (HMS) Core
+ru.mos.mes	2	Google CrashLytics,Google Firebase Analytics
+ru.alexeydubinin.lineyka	2	Yandex Ad,AppMetrica
+com.dating.mylove	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica,VKontakte SDK
+com.herocraft.game.free.jollydaysfarm	22	AppsFlyer,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Fyber,Inmobi,Unity3d Ads,Yandex Ad,Amplitude,AppMetrica,Vungle,myTracker,Tapjoy,Google AdMob,IAB Open Measurement,Mail.ru,Pangle
+ru.tinkoff.invest.course	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,myTracker
+com.fireboywatergirl.al	2	Unity3d Ads,Google AdMob
+com.uchi.app	2	Google CrashLytics,Google Firebase Analytics
+org.reactivephone	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.reactivephone.Visitors	0	
+org.ray.auto	5	Google CrashLytics,Google Firebase Analytics,HelpShift,Amplitude,AppMetrica
+com.dekovir2.abreakerfree	17	Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Inmobi,Unity3d Ads,Yandex Ad,Amplitude,AppMetrica,Mintegral,Tenjin,Google AdMob,IAB Open Measurement
+ru.belkacar.belkacar	10	AppsFlyer,Braze (formerly Appboy),Google CrashLytics,Pushwoosh,Google Firebase Analytics,Facebook Login,Facebook Share,AppMetrica,Mapbox,Facebook Flipper
+ru.beeline.safety.family	9	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Login,Facebook Share,Amplitude,myTracker,Huawei Mobile Services (HMS) Core,OpenTelemetry (OpenCensus, OpenTracing)
+com.waszoi.filmssti	4	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+ru.vedomosti.android	11	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Yandex Ad,AppMetrica,OneSignal,myTarget,VKontakte SDK
+com.strict.mkenin.agf.cardgames2	23	Google CrashLytics,Ogury Presage,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+com.overmobile.container.elem	9	AppsFlyer,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Unity3d Ads,ironSource,Vungle,IAB Open Measurement
+ru.bkfon	8	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Adjust,Facebook Analytics,Facebook Login,Google Tag Manager
+uralpro.getword	3	Yandex Ad,AppMetrica,Google AdMob
+com.taxsee.taxsee	7	AppsFlyer,Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Carto (formerly Nutiteq)
+com.stdio.pue_7	0	
+ru.neopharm.stolichki	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.ligastavok.android	7	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Appdynamics,Pusher,Google AdMob
+appinventor.ai_lihisa89.MoonShineFractional1	11	Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,OneSignal,Startapp,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Pollfish,Google AdMob
+ru.sport24	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Yandex Ad,Amplitude,AppMetrica
+com.chessking.android.learn	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,Google AdMob,VKontakte SDK,OpenTelemetry (OpenCensus, OpenTracing)
+ru.beeline.cloud	4	Flurry,Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.afisha.android	8	Google CrashLytics,Google Firebase Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,AppMetrica,VKontakte SDK
+ru.playvision.durak	18	Google CrashLytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,myTracker,myTarget,Mintegral,Google AdMob,IAB Open Measurement
+ru.mos.ed	5	Google CrashLytics,Google Firebase Analytics,Adjust,AppMetrica,myTracker
+com.livejournal.android	6	Google CrashLytics,Google Firebase Analytics,Facebook Login,Facebook Share,AppMetrica,VKontakte SDK
+ru.mts.mtscashback	11	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,AppMetrica,Branch,myTracker
+com.anlina.fraziruss	4	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+com.playtox.wos.rustore	4	Google Firebase Analytics,Facebook Login,AppMetrica,VKontakte SDK
+com.minsvyaz.gosuslugi.stopcorona	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.rostelecom.ideas	3	Google CrashLytics,Google Firebase Analytics,Google AdMob
+com.supabook.otkritki	4	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+ru.zen.android	2	Yandex Ad,AppMetrica
+ru.psbank.invest	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+ru.poas.words_de_ru	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+com.holden.trendrecipes	4	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+ru.gibdd_pay.app	5	Google CrashLytics,Google Firebase Analytics,Adjust,Amplitude,Huawei Mobile Services (HMS) Core
+legal.screenshot.app	5	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,AppMetrica
+com.lunappstudio.wordomaze	23	Flurry,Ogury Presage,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+ai.treep	18	Google CrashLytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,myTracker,OneSignal,myTarget,nend,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core
+ru.rshb.dbo	1	Google Firebase Analytics
+ru.cbalkp.rel2	6	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,VKontakte SDK
+net.wapsmskey.mrush	2	Adjust,myTracker
+org.ray.fines	6	Google CrashLytics,Google Firebase Analytics,HelpShift,Amplitude,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.ntvplus.service	5	Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,OneSignal
+com.wast.katuna	7	Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Yandex Ad,AppMetrica,Google AdMob
+com.merigotech.chestofwords	12	Flurry,Google Firebase Analytics,AppLovin (MAX and SparkLabs),Yandex Ad,AppMetrica,Appodeal,myTracker,myTarget,Google AdMob,Appodeal Stack,BidMachine,Solar2D (Corona)
+ru.publishing1c.kikoriki.abc.kids.reading	1	AppMetrica
+com.zedtema.android.videocourses	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.invoicebox.troika.individual	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+com.madlemonlab.sportup	2	Google CrashLytics,Google Firebase Analytics
+avbezdolny.software.game2048	0	
+ru.mkb.mobile	4	Google CrashLytics,Google Firebase Analytics,Dynatrace,Google AdMob
+ru.altarix.mos.reception	3	Flurry,Google CrashLytics,Google Firebase Analytics
+com.mobi.magi	1	AppsFlyer
+ru.gid.app	3	Google Firebase Analytics,myTracker,Google AdMob
+org.mechs.earth	0	
+ru.poas.spanishwords	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+ru.vin.proverka.auto	5	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+com.herocraft.game.free.spaceshipbattles	20	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Amazon Advertisement,Inmobi,Unity3d Ads,Amplitude,Vungle,myTracker,Tapjoy,Mintegral,Bugsnag,Google AdMob,IAB Open Measurement,Mail.ru
+com.titapp	5	AppsFlyer,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share
+ru.onlime.my.app	2	Google CrashLytics,Google Firebase Analytics
+com.adaptech.gymup	21	Google CrashLytics,Ogury Presage,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+ru.foxford.foxfordtextbook	3	Google CrashLytics,Google Firebase Analytics,Amplitude
+com.app.cookup	1	Google Firebase Analytics
+ru.sold.fat.burner	16	Google CrashLytics,Google Firebase Analytics,Adjust,AppLovin (MAX and SparkLabs),Amazon Advertisement,Yandex Ad,AppMetrica,Appodeal,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+ru.spravmedicakt.mobile	2	Google Firebase Analytics,AppMetrica
+ru.tutu.tutu_emp	10	AppsFlyer,Google CrashLytics,LeanPlum,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica,Google AdMob,VKontakte SDK
+digital.fact.saver	4	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica
+ru.pikabu.android	17	AppsFlyer,Google CrashLytics,Twitter MoPub,Google Analytics,Google Firebase Analytics,Adjust,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,Yandex Ad,AppMetrica,CleverTap,myTracker,myTarget,Google AdMob,IAB Open Measurement
+ru.ideast.championat	15	Flurry,Google CrashLytics,Twitter MoPub,Pushwoosh,Google Analytics,Google Firebase Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Yandex Ad,AppMetrica,Google AdMob,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.sferum.android	6	Google CrashLytics,Google Firebase Analytics,myTracker,myTarget,Huawei Mobile Services (HMS) Core,VKontakte SDK
+ru.boloid.lifenews	5	Google CrashLytics,Google Firebase Analytics,Brightcove,OneSignal,Huawei Mobile Services (HMS) Core
+ru.gdemoideti.child	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.severstal.info	2	Google CrashLytics,Google Firebase Analytics
+ru.alfa.alfapeople	2	Google CrashLytics,Google Firebase Analytics
+com.mordor.game	2	Google CrashLytics,Google Firebase Analytics
+com.overmobile.container.zamki	9	AppsFlyer,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Unity3d Ads,ironSource,Vungle,IAB Open Measurement
+ru.godville.android	1	Google Firebase Analytics
+com.DefaultCompany.Nardi	2	Yandex Ad,AppMetrica
+ru.tinkoff.mb.kids	7	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Huawei Mobile Services (HMS) Core
+com.kirlanik497	6	Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement
+ru.mes.dnevnik	4	Google CrashLytics,Google Firebase Analytics,AppMetrica,Facebook Flipper
+com.whisperarts.white.noise.whispy.rustore	11	Google CrashLytics,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core
+com.playtox.lords.rustore	4	Google Firebase Analytics,Facebook Login,AppMetrica,VKontakte SDK
+sovfin.game.spacerocket	2	Yandex Ad,AppMetrica
+ru.superjob.client.android	12	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Login,Facebook Share,Google Tag Manager,Yandex Ad,AppMetrica,myTarget,Huawei Mobile Services (HMS) Core,VKontakte SDK
+com.blackspoongames.gims	1	AppsFlyer
+infobot.gibdd.vin.auto	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.vtb.npf	2	Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+com.playtox.flib.rustore	4	Google Firebase Analytics,Facebook Login,AppMetrica,VKontakte SDK
+avbezdolny.software.bukva	0	
+ru.over.mwiz	4	AppsFlyer,Google Firebase Analytics,ironSource,IAB Open Measurement
+com.geoalex.guessword	20	Flurry,Ogury Presage,Google Firebase Analytics,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+com.hikari.crimea_unobvious	2	OneSignal,Huawei Mobile Services (HMS) Core
+com.ciliz.spinthebottle	9	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Tapjoy,VKontakte SDK
+com.biblio.android	3	Google Firebase Analytics,AppMetrica,Google AdMob
+ru.finam.android	2	Google Firebase Analytics,AppMetrica
+ru.paribet	8	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Adjust,Facebook Analytics,Facebook Login,Google Tag Manager
+ru.tvil.guest	3	Google Firebase Analytics,AppMetrica,Facebook Flipper
+youdrive.today	7	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,myTracker,myTarget,VKontakte SDK
+air.ru.mail.dwar	10	Google Analytics,Moat,AppLovin (MAX and SparkLabs),AdColony,Unity3d Ads,ironSource,Vungle,myTracker,IAB Open Measurement,VKontakte SDK
+com.animagames.magic_circus	5	Flurry,Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+com.dreamcraftstudio.fantasyhearts	4	Google Firebase Analytics,AppMetrica,OneSignal,Huawei Mobile Services (HMS) Core
+air.ru.vigr.mushroomers2	6	Google Analytics,Google Firebase Analytics,Google Tag Manager,OneSignal,Tapjoy,Huawei Mobile Services (HMS) Core
+com.lunappstudio.orderofwords	25	Flurry,Google CrashLytics,Ogury Presage,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+app.neuropunk	1	Google Firebase Analytics
+ru.hh.employer.android	7	Google CrashLytics,Google Analytics,Google Firebase Analytics,Yandex Ad,AppMetrica,myTracker,Huawei Mobile Services (HMS) Core
+ru.integrics.mobiled	0	
+org.reactivephone.pdd.lite	20	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,AppLovin (MAX and SparkLabs),Google Tag Manager,Unity3d Ads,Yandex Ad,Amplitude,AppMetrica,ironSource,myTracker,myTarget,Google AdMob,IAB Open Measurement
+poezd.na.bilet	0	
+com.gawk.voicenotes	22	Flurry,Google CrashLytics,Ogury Presage,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine,OpenTelemetry (OpenCensus, OpenTracing)
+com.sibirix.singularityapp	2	Google CrashLytics,Google Firebase Analytics
+ru.sravnizaim	0	
+com.boloid.dominos	12	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Adjust,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,New Relic,Huawei Mobile Services (HMS) Core,Insider
+ru.vgtrofimov.ballsshmalls	0	
+com.overmobile.container.nebo	9	AppsFlyer,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Unity3d Ads,ironSource,Vungle,IAB Open Measurement
+ru.poas.turkishwords	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+com.simplepayments_gibdd	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Branch,OpenTelemetry (OpenCensus, OpenTracing)
+ru.alfacapital.lk	8	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.aviabilety.deshevo	16	Google CrashLytics,Google Analytics,Google Firebase Analytics,Segment,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,Snowplow,Tencent Stats,MixPanel,Amplitude,Bugsnag,SmartLook,Google AdMob,VKontakte SDK
+com.poputti.app	2	Google CrashLytics,Google Firebase Analytics
+ru.rtlabs.mobile.ebs.android	2	Google CrashLytics,Google Firebase Analytics
+com.x1000ideas.test1000lives	2	Google CrashLytics,Google Firebase Analytics
+com.playtox.zoner.rustore	4	Google Firebase Analytics,Facebook Login,AppMetrica,VKontakte SDK
+yet.another.dino	4	Google CrashLytics,Google Firebase Analytics,Kochava,Google AdMob
+com.simplepayments.gosoplata	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Branch,OpenTelemetry (OpenCensus, OpenTracing)
+ru.mail.biz.avocado	5	HockeyApp,Google Firebase Analytics,myTracker,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+ru.poas.italianwords	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+ru.platiuslugi.app	0	
+com.uip.gosuslugi2	5	Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,Google Analytics Plugin (Cordova)
+com.myscaryteacher.tips	3	Google Firebase Analytics,Unity3d Ads,Google AdMob
+com.uip.inspector	0	
+com.memeglish.learn.english.language.words.by.memes	2	Google CrashLytics,Google Firebase Analytics
+media.soundstream.soundstream.rustore	7	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica,VKontakte SDK
+ru.gpbmobile.lk	5	Google CrashLytics,Google Firebase Analytics,AppMetrica,Bugfender,Huawei Mobile Services (HMS) Core
+ru.biogenom.mobile.android	7	Google Firebase Analytics,Facebook Analytics,Facebook Login,Amplitude,AppMetrica,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+com.progaonline.punctuation	2	Yandex Ad,AppMetrica
+com.notwebstudio.ruenglish	2	Google Firebase Analytics,AppMetrica
+com.overmobile.container.mworld	4	AppsFlyer,Google Firebase Analytics,ironSource,IAB Open Measurement
+com.stdio.a1000voltsrf	0	
+ru.tcsbank.tinkoffplatinum	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Huawei Mobile Services (HMS) Core
+ru.dixy.personal	3	Google CrashLytics,Google Firebase Analytics,Amplitude
+com.sebbia.delivery.client	9	Google CrashLytics,Google Firebase Analytics,Adjust,Facebook Analytics,Facebook Login,Facebook Share,Amplitude,Huawei Mobile Services (HMS) Core,OpenTelemetry (OpenCensus, OpenTracing)
+ru.poas.learn.japanese.jlpt.katakana.kana.hiragana.kanji.romaji	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+com.ivideon.client	2	Google CrashLytics,Google Firebase Analytics
+air.ru.vigr.forestbounty	6	Google Analytics,Google Firebase Analytics,Google Tag Manager,OneSignal,Tapjoy,Huawei Mobile Services (HMS) Core
+ru.minbank.android	2	Google CrashLytics,Google Firebase Analytics
+com.playtox.bratki.rustore	4	Google Firebase Analytics,Facebook Login,AppMetrica,VKontakte SDK
+com.webart2013.Calculator2Memory	0	
+com.itdating.ru.com.app	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager
+ru.deposit.cards	2	AppsFlyer,Google Firebase Analytics
+com.zelder.bigquest2	2	Yandex Ad,AppMetrica
+ru.opentrainer.app	7	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Dynatrace,AppMetrica,myTracker
+ru.poas.frenchwords	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+com.rostelecom.printservice	1	Google Firebase Analytics
+com.herocraft.game.free.taptapbuilder	20	AppsFlyer,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Inmobi,Unity3d Ads,Yandex Ad,Amplitude,AppMetrica,Vungle,Tapjoy,Mintegral,Tenjin,Google AdMob,IAB Open Measurement
+ru.vgtrofimov.zengame	0	
+com.overmobile.container.titans	9	AppsFlyer,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Unity3d Ads,ironSource,Vungle,IAB Open Measurement
+com.fruitshake.fairyrpg	6	AppsFlyer,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,VKontakte SDK
+com.severstal.severstalquizlab	13	Flurry,Google Analytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Inmobi,Amplitude,OneSignal,RjFun
+com.broccoligames.vegamixru	3	AppsFlyer,Google CrashLytics,Google Firebase Analytics
+tv.lfstrm.smotreshka	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,AppMetrica,Huawei Mobile Services (HMS) Core
+com.hwggames.poppy.huggy.wuggy.factory	1	GameAnalytics
+ru.stmlabs.procheck.app	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+sovfin.game.pukman	3	Google Firebase Analytics,Yandex Ad,AppMetrica
+vtbmobile.id.abonent	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.dimice.poiskzverei	3	Yandex Ad,AppMetrica,VKontakte SDK
+ru.livegames.playnet	4	Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share
+com.creosplay.Checkers	1	AppMetrica
+tech.studio3.bestcave	17	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Amazon Advertisement,Fyber,ironSource,Vungle,myTracker,myTarget,Tapjoy,Mintegral,Google AdMob,IAB Open Measurement
+ru.betcity.android	3	AppsFlyer,Google CrashLytics,Google Firebase Analytics
+com.mommylonggame.ca	2	Unity3d Ads,Google AdMob
+com.deerslab.dinoTREX	3	Google CrashLytics,Google Firebase Analytics,Google AdMob
+ru.mosgorpass	9	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Amplitude,AppMetrica,Mapbox,VKontakte SDK
+ru.zebomba.find	17	AppsFlyer,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,OneSignal,Mintegral,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core
+app.datebox.dalla	22	Ogury Presage,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,OneSignal,myTarget,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core,Pangle,Appodeal Stack,BidMachine
+com.tsartech.bricks	7	AppsFlyer,Facebook Analytics,Facebook Login,Facebook Share,Unity3d Ads,Amplitude,Google AdMob
+com.ataxmobile.mygirls	2	Google Firebase Analytics,Google AdMob
+ru.tatarstan	6	Google CrashLytics,Google Firebase Analytics,AppMetrica,Mapbox,OneSignal,Huawei Mobile Services (HMS) Core
+ru.rambler.horoscopes.twa	0	
+com.example.bodyskills	2	Yandex Ad,AppMetrica
+ru.tmgame.client	1	AppsFlyer
+com.merigotech.fillwordsthemes	21	Flurry,Ogury Presage,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+ru.profmedia.avtoradio	2	Google Firebase Analytics,AppMetrica
+ru.vgtrofimov.restfortheeyesmt	4	myTracker,myTarget,Google AdMob,IAB Open Measurement
+ru.moihottur.moihottur	1	AppMetrica
+ru.mail.browser	7	AppsFlyer,Google CrashLytics,Google Firebase Analytics,myTracker,myTarget,Google AdMob,VKontakte SDK
+ru.boxberry.couriers	2	Google CrashLytics,Google Firebase Analytics
+voiceapp.commands.alice	8	Google Firebase Analytics,Unity3d Ads,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement
+uralpro.CapitalsOfTheWorld	3	Yandex Ad,AppMetrica,Google AdMob
+ru.airnet.cctv	2	Google CrashLytics,Google Firebase Analytics
+com.herocraft.game.fruitshake.brawlking	19	Google CrashLytics,Google Firebase Analytics,Moat,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Inmobi,Unity3d Ads,Yandex Ad,Amplitude,AppMetrica,Tapjoy,Mintegral,Tenjin,Google AdMob,IAB Open Measurement
+com.sgcode18.biletygims	0	
+goldapple.ru.goldapple.customers	10	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Google Tag Manager,Amplitude,AppMetrica,VKontakte SDK
+ru.vk.vkdoc	2	Google CrashLytics,Google Firebase Analytics
+live.talkme.sprint_2	7	AppsFlyer,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Amplitude,VKontakte SDK
+net.elvista.game101	18	Google CrashLytics,Google Firebase Analytics,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,Appodeal,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine,Solar2D (Corona)
+com.kirlanik552	6	Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement
+com.gibdd.app	1	AppMetrica
+com.zaimnakarty.kreditblesk	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+in.x42.zenbox	0	
+com.lunappstudio.photoelephant	12	Flurry,Google Firebase Analytics,AppLovin (MAX and SparkLabs),Yandex Ad,AppMetrica,Appodeal,Startapp,myTarget,Google AdMob,IAB Open Measurement,Appodeal Stack,Solar2D (Corona)
+com.DDreamgames.Hoosegow	26	AppsFlyer,Google CrashLytics,Ogury Presage,Google Firebase Analytics,Adjust,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+ru.russpass.tourist	5	Google CrashLytics,Google Firebase Analytics,Facebook Login,AppMetrica,VKontakte SDK
+ru.calculators.buyer	3	Google Firebase Analytics,Yandex Ad,AppMetrica
+com.otkritie.daily	3	Google Firebase Analytics,OneSignal,Huawei Mobile Services (HMS) Core
+ru.rt.mb_installer	2	Google CrashLytics,Google Firebase Analytics
+com.creosplay.toycar	22	AppsFlyer,Google Firebase Analytics,ChartBoost,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Fyber,Inmobi,Unity3d Ads,AppMetrica,ironSource,Vungle,myTracker,HyprMX,myTarget,Tapjoy,Google AdMob,IAB Open Measurement,Pangle
+com.zmedia.wordtower	11	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Adjust,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,Unity3d Ads,Google AdMob
+com.moex.finuslugi	2	Google CrashLytics,Google Firebase Analytics
+ru.lexican	1	Google Firebase Analytics
+com.vladdrummer.autorus	1	AppMetrica
+ru.poas.koreanwords	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+com.DefaultCompany.Kosinka	2	Yandex Ad,AppMetrica
+ru.sberbank.sbersign	1	Google Firebase Analytics
+com.chaihona1.app	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.dobro	5	Google CrashLytics,Google Firebase Analytics,AppMetrica,OneSignal,Huawei Mobile Services (HMS) Core
+logoped.language.speech.therapy.zv09	0	
+com.timenzzo.Moon_Calendar	3	myTracker,myTarget,IAB Open Measurement
+ru.sovcombank.investor	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+plus.lifetime.app	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.pegast_agent	0	
+bashnabash.com	2	Yandex Ad,AppMetrica
+tv.netup.android.mobile	2	Google Analytics,Google Tag Manager
+logoped.language.speech.therapy.zv42	0	
+uralpro.CountriesOfTheWorld	3	Yandex Ad,AppMetrica,Google AdMob
+com.severstal.svsconference	2	Google CrashLytics,Google Firebase Analytics
+uralpro.MasterOfFinds	3	Yandex Ad,AppMetrica,Google AdMob
+sovfin.game.cosmojohn	2	Yandex Ad,AppMetrica
+com.catdonut.smartrabbit	0	
+ru.elveesneotek.o2kclient	0	
+com.geoscope.QRZ	0	
+ru.linevo.pddabm	3	Google Firebase Analytics,Yandex Ad,AppMetrica
+aero.svo.app	2	Google Firebase Analytics,AltBeacon
+com.app.everypay	0	
+com.DigitalOxygen.LiveDinosaurs	0	
+com.aksgaming.sudoku3d	2	Google Firebase Analytics,Google AdMob
+ru.rt.key	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.kih.transport.sochi	0	
+ru.crm.crm_ksk_ekk	0	
+air.LovestoryJailbreak	1	Google Analytics
+com.e1c.MobileAccounting	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+com.training.HomeVodka	0	
+ru.kredit.calculator	0	
+com.bssys.roscapretail	1	Google Firebase Analytics
+com.app.road	5	Google Firebase Analytics,AppMetrica,OneSignal,Huawei Mobile Services (HMS) Core,OpenTelemetry (OpenCensus, OpenTracing)
+logoped.language.speech.therapy.zv01	0	
+ru.publishing1c.nik	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+com.ecdo	3	Google Firebase Analytics,AppMetrica,VKontakte SDK
+ru.rt.life	2	Google CrashLytics,Google Firebase Analytics
+ru.comfortkino.androidapp	2	Google CrashLytics,Google Firebase Analytics
+ru.sberlogistics.steersman	0	
+com.radbrothers.popit.master.antistress.calm.games	7	Google Firebase Analytics,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Google AdMob,IAB Open Measurement
+com.CyberRom.TwentyFortyEight	0	
+com.whisperarts.erby.rustore	14	Google CrashLytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Yandex Ad,AppMetrica,myTarget,Tenjin,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core
+com.SoftWeather.SayMyName	0	
+ru.calculator.vkladov	0	
+com.serviceit.tgc1lk	2	Google CrashLytics,Google Firebase Analytics
+games.odin.ppsv2	7	Google Firebase Analytics,Adjust,Facebook Analytics,Facebook Login,Facebook Share,ironSource,IAB Open Measurement
+ru.webinar.mobile	2	Google CrashLytics,Google Firebase Analytics
+ru.tinkoff.accounting	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Huawei Mobile Services (HMS) Core
+io.ionic.autoinfo	5	Google Analytics,Google Firebase Analytics,OneSignal,Google Analytics Plugin (Cordova),Huawei Mobile Services (HMS) Core
+ru.creditcards.onlain	1	Google Firebase Analytics
+com.ivhome_app.zamer_free	0	
+ru.poas.polishwords	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+com.imagion.slovo	0	
+ru.sima_land.spb.market	7	Google CrashLytics,Google Firebase Analytics,Facebook Login,Facebook Share,AppMetrica,Huawei Mobile Services (HMS) Core,VKontakte SDK
+tv.lfstrm.ttktv	6	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,OneSignal
+uralpro.Game2048	3	Yandex Ad,AppMetrica,Google AdMob
+ru.finapp.appzaymbot	2	Google Firebase Analytics,AppMetrica
+ru.yandex.subtitles	1	AppMetrica
+com.radbrothers.heartbox	7	Google Firebase Analytics,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Google AdMob,IAB Open Measurement
+com.AlexKiZZZGames.VirusWorld	6	Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Unity3d Ads,Google AdMob
+com.do_apps.catalog_309	6	Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement
+com.whisperarts.period.tracker.rustore	2	Google CrashLytics,Google Firebase Analytics
+ru.rambler.moskino	7	Google CrashLytics,Pushwoosh,Google Firebase Analytics,Facebook Login,Google Tag Manager,AppMetrica,VKontakte SDK
+com.ARTMLOXStudio.FlySky	2	Unity3d Ads,Google AdMob
+com.bifit.dvbank	1	Google Firebase Analytics
+com.telecom.telecom.ecofon	3	Google CrashLytics,Google Firebase Analytics,Google AdMob
+logoped.language.speech.therapy.zv43	0	
+com.motw.spellathon	1	Amplitude
+com.radbrothers.fun.colors.coloring.drawing.game.kids.free	7	Google Firebase Analytics,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Google AdMob,IAB Open Measurement
+ru.passgen.net	4	Google Firebase Analytics,OneSignal,Google AdMob,Huawei Mobile Services (HMS) Core
+pskovnefteproduct.appAndroid	1	Google Firebase Analytics
+appex.game3d.maze	0	
+com.uip.crowdcontrol	1	Google Firebase Analytics
+com.Maam.ru.Openthedoor	0	
+com.bpc.crossplatform_trading.bpc_trading	2	Google CrashLytics,Google Firebase Analytics
+ru.farfor	2	Google Firebase Analytics,AppMetrica
+com.cofounder_app	2	OneSignal,Huawei Mobile Services (HMS) Core
+ru.poas.learn.russian.language.words.vocabulary	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+com.sgcode18.biletygtn	0	
+ru.gazprombank.broker	1	AppMetrica
+com.sc.mfcnso	2	Google CrashLytics,Google Firebase Analytics
+ru.sberleasing	6	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica
+ru.anex_agent_ru	1	Google Firebase Analytics
+ru.elzforesttech.gisapp	1	Mapbox
+chat.kilo	1	Google Firebase Analytics
+com.saleskit.ru	5	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,AppMetrica
+ru.gazprombank.android.eventmanager	2	Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+ru.mosreg.easuz.portal	5	Google Firebase Analytics,AppMetrica,Mapbox,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+org.policefines.finesNotCommercial	9	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,AppMetrica,OpenTelemetry (OpenCensus, OpenTracing)
+com.UltramarineGames.ColoringGarden	13	Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Unity3d Ads,ironSource,Vungle,Tapjoy,Google AdMob,IAB Open Measurement,Pangle
+ru.neopharm.neoapp	0	
+com.do_apps.catalog_69	6	Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement
+ru.softinvent.bikecomp	2	Google CrashLytics,Google Firebase Analytics
+ru.sutochno.rentap	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+org.bitcoinox.bitcoinoxwallet	1	Google Firebase Analytics
+com.severstal.pla	0	
+com.severstal.learnmobile	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Huawei Mobile Services (HMS) Core
+ru.rcamel.workday	0	
+ru.poas.finnishwords	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+pro.nadogames.bp	6	Unity3d Ads,myTracker,myTarget,GameAnalytics,Google AdMob,IAB Open Measurement
+ru.practus.smartdeal	1	Google Firebase Analytics
+logoped.language.speech.therapy.zv79	0	
+ru.mediasphera.app	2	Google CrashLytics,Google Firebase Analytics
+com.lisagames.savetheruble	4	myTracker,myTarget,GameAnalytics,IAB Open Measurement
+com.ideas1000.tarot1000roads	2	Google CrashLytics,Google Firebase Analytics
+com.severstal.clientarb	2	Google CrashLytics,Google Firebase Analytics
+ru.itserebra.diz	0	
+ienergo.energosbyt	1	AppMetrica
+com.herocraft.game.mafioso.gangster.paradise.pvp	24	AppsFlyer,Flurry,Google CrashLytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Inmobi,Unity3d Ads,Yandex Ad,AppMetrica,Vungle,myTracker,OneSignal,Tapjoy,Mintegral,GameAnalytics,Google AdMob,IAB Open Measurement,Pangle
+ru.rcamel.estimate	4	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+ru.bookmakersrating.rbforecasts	3	AppsFlyer,Google CrashLytics,Google Firebase Analytics
+ru.sunhome.dreams	0	
+ru.grandtrain.app	2	Google CrashLytics,Google Firebase Analytics
+com.nemesisgamestudio.HardCorePlatformer	2	Unity3d Ads,Google AdMob
+ru.beeline.dol	0	
+logoped.language.speech.therapy.zv08	0	
+club.skllzz.fitness	2	Google CrashLytics,Google Firebase Analytics
+ru.mobileup.aerostat	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager
+pro.nado.tetris	4	myTracker,myTarget,GameAnalytics,IAB Open Measurement
+ru.sports.spartak	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.mestamira	0	
+ru.banki.banki	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.venul.region72	2	Google CrashLytics,Google Firebase Analytics
+ru.tstst.schoolboy	2	Google CrashLytics,Google Firebase Analytics
+ru.m4bank.softpos.open	0	
+com.nekko.rutouch	0	
+logoped.language.speech.therapy.zv38	0	
+logoped.language.speech.therapy.zv41	0	
+com.whisperarts.kids.breastfeeding.rustore	12	Google CrashLytics,Google Firebase Analytics,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,Bolts
+ru.jcat.jcat	2	Google Firebase Analytics,AppMetrica
+com.openbusiness.Business_calculations_rus	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+ru.psbank.msb.softpos	0	
+ru.invoicebox.troika	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+ru.yoo.kassa	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.jcat.work	2	Google Firebase Analytics,AppMetrica
+ru.may24.app	3	AppsFlyer,Google CrashLytics,Google Firebase Analytics
+com.tap2go.softpos	0	
+com.sveza.ds	13	Flurry,Google Analytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Inmobi,Amplitude,OneSignal,RjFun
+ru.zayman	1	AppMetrica
+com.blackspoongames.dopog	3	AppsFlyer,Yandex Ad,AppMetrica
+ru.gosoplati.app	0	
+ru.smartengines.se	0	
+com.weeek	9	Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,myTarget,Pusher
+logoped.language.speech.therapy.zv80	0	
+com.Foxford.GBL_PVP	3	Google Firebase Analytics,Amplitude,AppMetrica
+ru.antinteractive.antlivemobile	3	Google Firebase Analytics,Facebook Login,AppMetrica
+logoped.language.speech.therapy.zv34	0	
+logoped.language.speech.therapy.zv05	0	
+com.lisagames.mower	4	myTracker,myTarget,GameAnalytics,IAB Open Measurement
+com.microfox.creditcalcultor	19	Ogury Presage,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),Smaato,AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Criteo,Startapp,myTarget,Google AdMob,IAB Open Measurement,Appodeal Stack,BidMachine
+ru.rt.mobileoffice	2	Google CrashLytics,Google Firebase Analytics
+ru.alrosa.telemed	9	Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Amplitude,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+com.radugaskidok.kids	2	Google Firebase Analytics,AppMetrica
+logoped.language.speech.therapy.zv35	0	
+logoped.language.speech.therapy.zv40	0	
+ru.orb.ag2	1	Google Firebase Analytics
+ru.business.online	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+rshb.broker.mapp	2	Google CrashLytics,Google Firebase Analytics
+com.tisonline.ttwcome_driver	1	Google Firebase Analytics
+ru.autoassistent.checker	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,OpenTelemetry (OpenCensus, OpenTracing)
+media.aboutrussia	9	Flurry,ATInternet,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,Countly,Google AdMob
+ru.sber.csradar	2	Google CrashLytics,Google Firebase Analytics
+ru.net.tritel.tv	2	Google CrashLytics,Google Firebase Analytics
+logoped.language.speech.therapy.zv77	0	
+ru.yoo.sdk.kassa.payments.example.release	1	AppMetrica
+ru.dev_professional.ru.xoonline	2	Google Firebase Analytics,Google AdMob
+ru.orb.mfc.mobile	1	Google Firebase Analytics
+com.e1c.DocMan22	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+com.CyberRom.SodaDefender	3	Unity3d Ads,Amplitude,Google AdMob
+ru.bank_hlynov.xbank	1	Scandit
+ru.rt.videocomfort	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica
+com.kirlanik499	6	Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement
+ru.crptech.b2bmark	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.kickex.android	7	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Amplitude,Facebook Flipper
+com.movika.android	20	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Inmobi,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Vungle,myTracker,myTarget,Tapjoy,Mintegral,Google AdMob,IAB Open Measurement,Pangle,VKontakte SDK
+ru.harlion.psy	4	Google CrashLytics,Google Firebase Analytics,myTarget,Google AdMob
+logoped.language.speech.therapy.zv78	0	
+logoped.language.speech.therapy.zv10	0	
+ru.rcamel.minisklad	4	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+com.dartit.mobileagent	2	Google CrashLytics,Google Firebase Analytics
+ru.ogon.app	2	Google Firebase Analytics,myTracker
+com.labmedia.boxbattlepro	4	Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share
+ru.vkpm.comedy	2	Google Firebase Analytics,AppMetrica
+ru.sdt.courier	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+com.taberplay.cutgrass	4	ironSource,myTracker,myTarget,IAB Open Measurement
+com.LittleStories.DivinationQRCode	19	Ogury Presage,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+ru.tyumen.telemed	9	Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Amplitude,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+online.uclass.app	3	Google CrashLytics,Google Firebase Analytics,Microsoft Visual Studio App Center Crashes
+ru.gazprombank.gorodpay	3	Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.mybox.app	7	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Huawei Mobile Services (HMS) Core
+bel.argun.candycoloration	2	Yandex Ad,AppMetrica
+com.telemost	0	
+logoped.language.speech.therapy.zv39	0	
+ru.tatarstan.care	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.kolba.app	2	Google CrashLytics,Google Firebase Analytics
+com.dumham.PuzzleBox	2	Unity3d Ads,Google AdMob
+naprovode.dev.professional.ru	3	Yandex Ad,AppMetrica,VKontakte SDK
+ru.sibgenco.general	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager
+com.photoholding.android.mobile.v3	6	Google CrashLytics,Google Firebase Analytics,AppMetrica,OneSignal,Huawei Mobile Services (HMS) Core,OpenTelemetry (OpenCensus, OpenTracing)
+com.aksgaming.thewhiterabbitsecurechat	2	Google Firebase Analytics,Google AdMob
+ru.scid.minicen	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica
+su.ati.client.android	4	Google CrashLytics,Google Firebase Analytics,Amplitude,AppMetrica
+com.gkh72	2	Google CrashLytics,Google Firebase Analytics
+ru.rdshop.app	2	Google CrashLytics,Google Firebase Analytics
+ru.allsee.autocoach	0	
+com.birzha_rt	3	Google Firebase Analytics,Google AdMob,Facebook Flipper
+am.mobile.greenway	0	
+com.e1c.mobile.client.doc21	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+ru.bokus.aidera	6	Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,OneSignal,Huawei Mobile Services (HMS) Core
+ru.jcat.realty	2	Google Firebase Analytics,AppMetrica
+ru.netfinbank.application	2	Google Firebase Analytics,AppMetrica
+com.vinteo.mobile.app	2	Google CrashLytics,Google Firebase Analytics
+logoped.language.speech.therapy.zv29	0	
+ru.android.cars7	2	Google CrashLytics,Mapbox
+ru.sberbank.onlineencashment	2	Google CrashLytics,Google Firebase Analytics
+app.datebox	22	Ogury Presage,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,OneSignal,myTarget,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core,Pangle,Appodeal Stack,BidMachine
+logoped.language.speech.therapy.zv71	0	
+logoped.language.speech.therapy.zv11	0	
+ru.marathonbet.sportsbook	8	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,Amplitude
+ru.nlpproject.omnio	5	Google CrashLytics,Google Firebase Analytics,Amplitude,Branch,myTracker
+ru.plusvklad.app	2	Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+org.zonatelecom.mobileclient	4	Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.sokrat.ktc	2	Google CrashLytics,Google Firebase Analytics
+ru.fourpillars.fourpillarsappru	2	Google CrashLytics,Google Firebase Analytics
+ru.handh.petrovich	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Bugsee,Huawei Mobile Services (HMS) Core
+org.rad.flig	7	Google Firebase Analytics,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Google AdMob,IAB Open Measurement
+com.sevensky.app	9	Google Analytics,Google Firebase Analytics,Segment,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,Amplitude,Google AdMob
+com.smartway	2	Google Firebase Analytics,Google AdMob
+logoped.language.speech.therapy.zv75	0	
+ru.microloans.online	2	AppsFlyer,Google Firebase Analytics
+com.do_apps.catalog_155	6	Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement
+online.proga.hospitalcalc	2	Yandex Ad,AppMetrica
+com.progaonline.syntax	4	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+ru.saturn.sp.mobileapp	1	Google Firebase Analytics
+com.sitiy_app	2	Google Firebase Analytics,AppMetrica
+com.app.gogym	4	AppsFlyer,Google Firebase Analytics,Amplitude,AppMetrica
+logoped.language.speech.therapy.zv25	0	
+com.kinorium.kinoriumapp	3	Google CrashLytics,Google Firebase Analytics,Facebook Login
+com.uspeivziatdeneg.vdolg	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.pechatikmetro.app.androidoverview	4	Google Firebase Analytics,Startapp,Google AdMob,IAB Open Measurement
+pro.citylink.smarthome	2	Google CrashLytics,Google Firebase Analytics
+ru.taxovichkof.android	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica
+ru.itserebra.bloki	0	
+ru.teligent.gazApp	3	Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.netpoliceinfo.snf	7	Flurry,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share
+com.PE.imageeditor	4	Google Firebase Analytics,Adjust,myTarget,Google AdMob
+com.timenzzo.Bonsai_Handbook	3	myTracker,myTarget,IAB Open Measurement
+com.preggieapp.preggie	8	Google CrashLytics,Google Firebase Analytics,Adjust,Facebook Login,Facebook Share,AppMetrica,myTracker,Google AdMob
+com.asoft.mfcmobile	2	Google Firebase Analytics,Facebook Flipper
+company.wap.android5880cef11ea23	4	Google Firebase Analytics,Startapp,Google AdMob,IAB Open Measurement
+com.sitronics.app	3	Google Firebase Analytics,AppMetrica,Bugsee
+ru.synergy.abiturients	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,myTracker
+logoped.language.speech.therapy.zv06	0	
+logoped.language.speech.therapy.zv03	0	
+com.bifit.mobile.corporate.dvbank	1	Google Firebase Analytics
+ru.nso.teacher	2	Google CrashLytics,Google Firebase Analytics
+ru.rcamel.mwcloud	3	Google Analytics,Google Firebase Analytics,Google Tag Manager
+io.teamb.moyka	1	AppMetrica
+app.molodostroy.ru	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager
+com.bbesp.iphobit	0	
+logoped.language.speech.therapy.zv67	0	
+logoped.language.speech.therapy.zv27	0	
+com.wInstructionGuard_11307987	21	Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,AppMetrica,ironSource,Appodeal,Criteo,myTracker,Appnext,OneSignal,myTarget,AltBeacon,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core,Pangle,Appodeal Stack,AppsGeyser,BidMachine
+ru.taximaster.tmtaxicaller.id7705	7	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Login,Facebook Share,Google Tag Manager,AppMetrica
+com.progaonline.antiplagiat	4	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+ru.poas.czechwords	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+com.sawaProduct.findme	2	Yandex Ad,AppMetrica
+com.beehome.geozoncare	3	Google Firebase Analytics,Huawei Mobile Services (HMS) Core,AutoNavi / Amap
+logoped.language.speech.therapy.zv76	0	
+ru.webview.krediska	0	
+media.worldpotatoco	9	Flurry,ATInternet,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,Countly,Google AdMob
+farm.sr.app	2	Google CrashLytics,Google Firebase Analytics
+logoped.language.speech.therapy.zv63	0	
+logoped.language.speech.therapy.zv73	0	
+logoped.language.speech.therapy.zv30	0	
+ru.nso.agro	0	
+com.wZakonyiiprikazyidlyaCHO_11369195	21	Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,AppMetrica,ironSource,Appodeal,Criteo,myTracker,Appnext,OneSignal,myTarget,AltBeacon,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core,Pangle,Appodeal Stack,AppsGeyser,BidMachine
+com.kamin.inventorisation	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+company.wap.android587bca109ef58	4	Google Firebase Analytics,Startapp,Google AdMob,IAB Open Measurement
+info.esoft.ko	6	Google CrashLytics,Google Firebase Analytics,MixPanel,Amplitude,AppMetrica,VKontakte SDK
+ru.iserv.nk	2	Google CrashLytics,Google Firebase Analytics
+com.bssys.mbcphone.ubrir	1	Google Firebase Analytics
+com.gootax.zam211	7	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Login,Facebook Share,Google Tag Manager,AppMetrica
+ru.amfly.app	0	
+com.geozon.home	1	Google Firebase Analytics
+com.tisonline.tis_taxi	1	Google CrashLytics
+logoped.language.speech.therapy.zv68	0	
+logoped.language.speech.therapy.zv37	0	
+logoped.language.speech.therapy.zv13	0	
+ru.kraslabs.arming	2	Google CrashLytics,Google Firebase Analytics
+ru.bcstech.chat	3	Google CrashLytics,Google Firebase Analytics,Bugsnag
+system.potato.app	9	Flurry,ATInternet,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Share,Countly,Google AdMob
+ru.unitech_mo.ies	2	Google CrashLytics,Google Firebase Analytics
+ru.taxcom.cashdesk	2	Google CrashLytics,Google Firebase Analytics
+com.revisorlab.vms.eyecont	1	Google Firebase Analytics
+com.nordgold.hr_services	2	Google CrashLytics,Google Firebase Analytics
+co.feip.tokyo	2	Google Firebase Analytics,AppMetrica
+com.tvelly.mobile	2	Google CrashLytics,Google Firebase Analytics
+com.boloid.veedo	2	Google Firebase Analytics,OneSignal
+logoped.language.speech.therapy.zv72	0	
+logoped.language.speech.therapy.zv19	0	
+com.baziscenter.bazisonline	0	
+com.lsbr.call03	1	Huawei Mobile Services (HMS) Core
+ru.zdorovoeobrazovanie.app	4	Google Firebase Analytics,OneSignal,Google AdMob,Huawei Mobile Services (HMS) Core
+tech.zappa.coupons	0	
+ru.rcamel.paymaster	4	Google Firebase Analytics,Yandex Ad,AppMetrica,Google AdMob
+ru.salon	8	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica,VKontakte SDK
+com.wRukovodstvuCHOO_11352509	21	Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,AppMetrica,ironSource,Appodeal,Criteo,myTracker,Appnext,OneSignal,myTarget,AltBeacon,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core,Pangle,Appodeal Stack,AppsGeyser,BidMachine
+im.micro.dimm.tv.sibirskieSeti	3	Google Firebase Analytics,AppMetrica,Google AdMob
+com.ETEMA.ticketClient	0	
+com.severstal.innovation	13	Flurry,Google Analytics,Google Firebase Analytics,Facebook Ads,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Inmobi,Amplitude,OneSignal,RjFun
+com.equeo.ngacademy2	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Huawei Mobile Services (HMS) Core
+ru.airnet.proeye_acs	2	Google CrashLytics,Google Firebase Analytics
+com.imabuilder.deryvierstudio.tonyperotti	0	
+logoped.language.speech.therapy.zv69	0	
+logoped.language.speech.therapy.zv02	0	
+logoped.language.speech.therapy.zv04	0	
+ru.rikmasters.flutter_irkutskenetrgo_yur	1	AppMetrica
+ru.mkbb.mobile	2	Google CrashLytics,Google Firebase Analytics
+ru.kreditclick.app	0	
+com.timenzzo.srmbeerscanner	3	myTracker,myTarget,IAB Open Measurement
+ru.sports.euro2016liverus	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+systems.m4.mobile	2	Google Firebase Analytics,Google AdMob
+logoped.language.speech.therapy.zv58	0	
+ru.vkusnadom.app	1	Google Firebase Analytics
+ru.vsk.insurance	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.nso.dnevnik	2	Google CrashLytics,Google Firebase Analytics
+ru.rosagroleasing.mobile	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.imabuilder.brunoperri.brunoperri	0	
+ru.carmoney.client	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.enqualcomm.kidsys.geozon_guard	3	Google Firebase Analytics,Umeng Analytics,Umeng Feedback
+ru.tensor.showcase	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,VKontakte SDK
+logoped.language.speech.therapy.zv66	0	
+logoped.language.speech.therapy.zv74	0	
+logoped.language.speech.therapy.zv31	0	
+logoped.language.speech.therapy.zv24	0	
+logoped.language.speech.therapy.zv15	0	
+logoped.language.speech.therapy.zv07	0	
+com.breackneck.mysecondprojectmoneybox	20	Ogury Presage,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+ru.scid.newapteka	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica
+ru.rshb.urozhai	0	
+com.fimkos.electroseti_24_mobile_v1_0_1	0	
+com.flor2you	10	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,AppMetrica,myTracker
+ru.hwgame.three	3	Google Firebase Analytics,Unity3d Ads,Google AdMob
+delivery.sflowers.sflowers	1	Google Firebase Analytics
+logoped.language.speech.therapy.zv47	0	
+logoped.language.speech.therapy.zv57	0	
+logoped.language.speech.therapy.zv81	0	
+logoped.language.speech.therapy.zv70	0	
+logoped.language.speech.therapy.zv14	0	
+logoped.language.speech.therapy.zv26	0	
+logoped.language.speech.therapy.zv20	0	
+logoped.language.speech.therapy.zv32	0	
+logoped.language.speech.therapy.zv23	0	
+logoped.language.speech.therapy.zv12	0	
+logoped.language.speech.therapy.zv18	0	
+logoped.language.speech.therapy.zv36	0	
+ru.genisoft.android.kozirnaya.karta	3	AppsFlyer,Google CrashLytics,Google Firebase Analytics
+com.education72	2	Google CrashLytics,Google Firebase Analytics
+company.wap.android59be231b5cad9	4	Google Firebase Analytics,Startapp,Google AdMob,IAB Open Measurement
+com.smarttransport.its.ordervehicle	2	Google CrashLytics,Google Firebase Analytics
+ru.zatochisto.radio107fm	0	
+com.app.prosport	1	AppMetrica
+com.imabuilder.fioramorebullatti.fioramorebullatti	0	
+biz.imredi.mobile.audit.pro	3	Google Firebase Analytics,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+ru.bstd.tmr_trade_in_check_app	5	Google CrashLytics,Google Firebase Analytics,AppMetrica,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+com.tisonline.tis_driver_rl	1	Google CrashLytics
+logoped.language.speech.therapy.zv46	0	
+logoped.language.speech.therapy.zv50	0	
+logoped.language.speech.therapy.zv48	0	
+logoped.language.speech.therapy.zv64	0	
+logoped.language.speech.therapy.zv65	0	
+logoped.language.speech.therapy.zv33	0	
+su.ati.driver	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.firstforma.dialog	4	Google CrashLytics,Google Firebase Analytics,Amplitude,AppMetrica
+pro.sber_zvuk	2	Google CrashLytics,Google Firebase Analytics
+ru.inelt.lk.kpso	1	Google Firebase Analytics
+com.wYAndeksTaksiregistratsiya_8953685	2	Google Firebase Analytics,Google AdMob
+com.mesus.android	2	Google CrashLytics,Google Firebase Analytics
+ru.taxcom.filer	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.sports.zenit	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.docsystems.peopleinspector	0	
+air.com.gs.aqualife3d.android	1	VKontakte SDK
+ru.AWBooking.app	0	
+ru.tvil	3	Google Firebase Analytics,AppMetrica,Facebook Flipper
+ru.gfcrussia.android	2	Google Firebase Analytics,UXCam
+ru.hwgame.one	3	Google Firebase Analytics,Unity3d Ads,Google AdMob
+com.neirodev.sobytie	0	
+pro.crpt.p	1	Google Firebase Analytics
+ru.hwgame.two	3	Google Firebase Analytics,Unity3d Ads,Google AdMob
+com.tisonline.tis_driver_request	0	
+logoped.language.speech.therapy.zv51	0	
+logoped.language.speech.therapy.zv62	0	
+logoped.language.speech.therapy.zv59	0	
+logoped.language.speech.therapy.zv45	0	
+logoped.language.speech.therapy.zv55	0	
+logoped.language.speech.therapy.zv52	0	
+logoped.language.speech.therapy.zv53	0	
+logoped.language.speech.therapy.zv21	0	
+logoped.language.speech.therapy.zv16	0	
+logoped.language.speech.therapy.zv28	0	
+ru.alpina.singleapp	8	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica,Branch,VKontakte SDK
+co.kalitero.coman.app	3	Google Firebase Analytics,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+ru.sports.khl	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.airnet.lk	2	Google CrashLytics,Google Firebase Analytics
+ru.rshb.ips_qr	2	Google CrashLytics,Google Firebase Analytics
+com.Uplus.spr	0	
+com.Uplus.Suffix	0	
+com.taxcom.informer	2	Google CrashLytics,Google Firebase Analytics
+com.tisonline.tis_driver	1	Google Firebase Analytics
+com.xforta.msg	0	
+com.istokaudio.smarthome2	0	
+ru.jam.me	9	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Amplitude,AppMetrica,VKontakte SDK
+com.wfsys.carrent	3	Google Firebase Analytics,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+ru.zencar.mobile.app	3	Google Firebase Analytics,Amplitude,AppMetrica
+logoped.language.speech.therapy.zv56	0	
+logoped.language.speech.therapy.zv54	0	
+logoped.language.speech.therapy.zv17	0	
+ru.elt.ubsmobile	1	Google Firebase Analytics
+com.m.vodovoz	6	Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica,VKontakte SDK
+com.wVhodvSEPO_11194833	21	Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,AppMetrica,ironSource,Appodeal,Criteo,myTracker,Appnext,OneSignal,myTarget,AltBeacon,Google AdMob,IAB Open Measurement,Huawei Mobile Services (HMS) Core,Pangle,Appodeal Stack,AppsGeyser,BidMachine
+com.databasetest.linkrain.metrologonline	0	
+ru.rncard.virtualcard	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.tvhelp.acs_controller_manager	0	
+ru.tsarday.clan	1	Google Firebase Analytics
+ru.shelfy.android	8	Google CrashLytics,Google Firebase Analytics,Segment,MixPanel,Countly,Amplitude,Bugsnag,SmartLook
+ru.eligovision.msk.ar.model.journal	0	
+com.derastudio.weekend	0	
+logoped.language.speech.therapy.zv60	0	
+logoped.language.speech.therapy.zv61	0	
+logoped.language.speech.therapy.zv49	0	
+logoped.language.speech.therapy.zv44	0	
+logoped.language.speech.therapy.zv22	0	
+com.ntk_plus.portalzhkh	2	Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+ru.cabinet.abonenta	4	Google Firebase Analytics,AppMetrica,OneSignal,Huawei Mobile Services (HMS) Core
+ru.rshb.svoe_rodnoe	2	Google CrashLytics,AppMetrica
+ru.rshb.privatebusiness	0	
+ru.sngb.dbo.client.android	1	HyperTrack
+ru.katharsis.office	0	
+pro.etag.tovarius3	0	
+com.bifit.mobile.ubrr	1	Google Firebase Analytics
+ru.ubrr.corporate	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager
+ru.sports.hockey	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.jurburonosov.mobile	0	
+com.firstforma.chat	4	Google CrashLytics,Google Firebase Analytics,Amplitude,AppMetrica
+ru.avtobandigital.app	2	Google CrashLytics,Google Firebase Analytics
+com.directum.jazz	3	Google Firebase Analytics,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+ru.video.krasview	2	AppMetrica,VKontakte SDK
+com.oilmarket	1	Google Firebase Analytics
+poisk.zhivotnih	0	
+com.dalli.app7	0	
+com.firstforma.skolcity	4	Google CrashLytics,Google Firebase Analytics,Amplitude,AppMetrica
+ru.sneakerhead.android	9	AppsFlyer,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,OneSignal,Microsoft Visual Studio App Center Crashes,Huawei Mobile Services (HMS) Core,Facebook Flipper
+com.transportspb.app	3	Yandex Ad,AppMetrica,VKontakte SDK
+com.tisonline.tis_user	1	Google CrashLytics
+com.sitogon.webrecord	0	
+com.invoiceboxapp	3	Google Firebase Analytics,AppMetrica,Facebook Flipper
+ru.smarttransport.monitoring_ums	2	Google CrashLytics,Google Firebase Analytics
+ru.sports.nhl	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+am.mobile.olife	0	
+ru.taxcom.cashdeskpartner	2	Google CrashLytics,Google Firebase Analytics
+com.bifit.mobile.citizen.chbrr	1	Google Firebase Analytics
+com.starplace.pro.aleale	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+com.example.statsport	1	Huawei Mobile Services (HMS) Core
+com.helpdeskRGMU.uit.stsp	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+ru.taxcom.vsd	2	Google CrashLytics,Google Firebase Analytics
+lime.taxi.key.id169	2	AppMetrica,Mapbox
+ru.sports.cska	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.epl	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+com.e1c.Trade	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+xyz.appmaker.vgojow	0	
+io.omega.omegaapp	1	Google Firebase Analytics
+com.simplight.webclient	0	
+com.whisperarts.kids.stopmotion.rustore	10	Google CrashLytics,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement
+com.wfsys.carfleet	3	Google Firebase Analytics,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+com.firstforma.vkusvill	4	Google CrashLytics,Google Firebase Analytics,Amplitude,AppMetrica
+ru.gruzovichkof.android	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica
+company.wap.android62d80c328e006	4	Google Firebase Analytics,Startapp,Google AdMob,IAB Open Measurement
+com.alxsakh.corp	1	Google Firebase Analytics
+ru.kslabs.agorta_kassa	0	
+com.application.ttssm	1	Google Firebase Analytics
+systems.m4.service	2	Google Firebase Analytics,Google AdMob
+ru.sibset	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.breckneck.debtbook	2	Yandex Ad,AppMetrica
+ru.sports.rfpl	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+org.suz.quasar.app	1	Google Firebase Analytics
+ru.alrosa.doctor	10	Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Amplitude,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics
+appspot.com.uitrgmu	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+com.example.chickenpizaa_android_compose	1	Google Firebase Analytics
+ru.rkeeper.reports	1	Google Firebase Analytics
+com.e1c.ERP	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+com.e1c.KA	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+ru.ada.adaphotoplan	1	Google CrashLytics
+pro.nado.crash	6	Unity3d Ads,myTracker,myTarget,GameAnalytics,Google AdMob,IAB Open Measurement
+com.nordgold.app.ru	0	
+app.norta	0	
+ru.ucs.rk_lite_pos	3	Google CrashLytics,Google Firebase Analytics,Metrics
+com.umbrellait.unspot.web	2	Google CrashLytics,Google Firebase Analytics
+ru.agorta.atolWebServer	0	
+sutor.game.shichkomethod	0	
+com.gurmanfresh.app	4	Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share
+ru.rt.masterkey	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica
+ru.airnet.gatewaypastorallake	2	Google CrashLytics,Google Firebase Analytics
+com.sit.pyramidelectrician	1	Google Firebase Analytics
+ru.trueapp.fifthelement	1	Google Firebase Analytics
+ru.sports.lokomotiv	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.real	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.chitaigorod.mobile	7	Google CrashLytics,Google Firebase Analytics,Facebook Login,AppMetrica,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,VKontakte SDK
+ru.trueapp.twopizza	1	Google Firebase Analytics
+ru.mymove.app	1	Google Firebase Analytics
+com.ascon.pilot_fly	1	Google Firebase Analytics
+ru.ucs.rkmobwaiter5	2	Google CrashLytics,Google Firebase Analytics
+ru.skillpoint.sergiopizza	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.future.trybaby	1	Google Firebase Analytics
+ru.vetexpert	2	AppsFlyer,AppMetrica
+ru.gazprombank.invest	6	AppsFlyer,Google Firebase Analytics,Facebook Login,Facebook Share,AppMetrica,Bugsnag
+ru.rosneft.tektorg	2	Google CrashLytics,Google Firebase Analytics
+com.animan_publishing.diamond_dungeon	5	Google Firebase Analytics,Unity3d Ads,Yandex Ad,AppMetrica,Google AdMob
+ru.taxovichkof.pult	2	Google CrashLytics,Google Firebase Analytics
+ru.saby.clients.brand.mili	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,VKontakte SDK
+com.lunettes.lunettes	1	AppMetrica
+ru.sports.barcelona	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.manutd	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.juventus	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK
+ru.sports.khl_salavat_ulaev	14	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppLovin (MAX and SparkLabs),Snowplow,Yandex Ad,AppMetrica,myTracker,myTarget,Google AdMob,IAB Open Measurement,VKontakte SDK

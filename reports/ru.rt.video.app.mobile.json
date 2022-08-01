@@ -1,0 +1,59 @@
+{
+  "application": {
+    "handle": "ru.rt.video.app.mobile",
+    "version_name": "1.39.1",
+    "version_code": "139100",
+    "uaid": "646F6C52E2F631A8ABFF4D2C93E54AFF96CB7556",
+    "name": "Wink",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NOTIFICATION_POLICY",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.BLUETOOTH",
+      "android.permission.VIBRATE",
+      "com.android.vending.BILLING"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.rt.video.app.mobile.apk",
+    "checksum": "5bef3c7e6228bd3c4db19183ab80be10a9c22cf3e726f369e58826c64db7baa5"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

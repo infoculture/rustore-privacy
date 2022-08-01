@@ -1,0 +1,140 @@
+package	num	trackers
+ru.sberbankmobile	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.vtb24.mobilebanking.android	4	Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core,OpenTelemetry (OpenCensus, OpenTracing)
+ru.nspk.sbpay	0	
+ru.nspk.mirpay	0	
+ru.alfabank.mobile.android	10	AppsFlyer,Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Snowplow,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Huawei Mobile Services (HMS) Core
+ru.vtb.invest	2	Google Firebase Analytics,AppMetrica
+ru.nspk.mir.loyalty	4	Google CrashLytics,Google Firebase Analytics,Google Tag Manager,AppMetrica
+ru.sberbank.spasibo	6	AppsFlyer,Google CrashLytics,Google Analytics,Google Firebase Analytics,AppMetrica,myTracker
+logo.com.mbanking	6	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Huawei Mobile Services (HMS) Core,Facebook Flipper
+ru.yoo.money	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.openbank	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.idamob.tinkoff.android	7	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Huawei Mobile Services (HMS) Core
+ru.alfadirect.app	10	AppsFlyer,Flurry,Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,Snowplow,AppMetrica,myTracker,Huawei Mobile Services (HMS) Core
+ru.sovcomcard.halva.v1	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Google AdMob,Huawei Mobile Services (HMS) Core
+ru.sberbank.investor	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Dynatrace,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.vtb.smb	2	AppMetrica,Huawei Mobile Services (HMS) Core
+ru.letobank.Prometheus	2	Google CrashLytics,Google Firebase Analytics
+ru.sberbank_sbbol	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.cardsmobile.mw3	3	AppsFlyer,Google CrashLytics,Google Firebase Analytics
+ru.gazprombank.android.mobilebank.app	5	AppsFlyer,Google Firebase Analytics,AppMetrica,Microsoft Visual Studio App Center Crashes,Huawei Mobile Services (HMS) Core
+ru.sberbank.sberkids	2	Google CrashLytics,Google Firebase Analytics
+ru.mts.money	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.cetelem.cetelem_android	2	Google CrashLytics,AppMetrica
+ru.openbroker.app	5	Google CrashLytics,Google Firebase Analytics,Amplitude,AppMetrica,myTracker
+ru.psbank.msb.dev.psb_appstore	2	Google CrashLytics,Google Firebase Analytics
+com.easypay_fssp	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Branch,OpenTelemetry (OpenCensus, OpenTracing)
+ru.drom.fines	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+ru.sberins.insureapp.android	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.openbank.msb	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.tinkoff.investing	6	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Google AdMob,Huawei Mobile Services (HMS) Core
+ru.alfabank.oavdo.amc	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Snowplow,Huawei Mobile Services (HMS) Core
+com.simplepayments.gkh	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Branch,OpenTelemetry (OpenCensus, OpenTracing)
+ru.zhuck.webapp	4	Google CrashLytics,Google Firebase Analytics,Google AdMob,Huawei Mobile Services (HMS) Core
+ru.sber.investor	1	Google Firebase Analytics
+com.sberbank.sberpravo	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.smp.android	4	Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.abrr.gas	2	Google Firebase Analytics,Bugsnag
+com.simplepayments_fns	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Branch,OpenTelemetry (OpenCensus, OpenTracing)
+ru.sberbank.sberbankir2020	2	Google CrashLytics,Google Firebase Analytics
+cb.ibank	4	Google CrashLytics,Google Firebase Analytics,AppMetrica,Huawei Mobile Services (HMS) Core
+com.bifit.rncbbeta	2	Google Firebase Analytics,AppMetrica
+com.tochka.bank	4	Google CrashLytics,Google Firebase Analytics,Huawei Mobile Services (HMS) Core,OpenTelemetry (OpenCensus, OpenTracing)
+ru.platius.mobile	4	AppsFlyer,Google CrashLytics,Pushwoosh,Google Firebase Analytics
+ru.tinkoff.sme	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Huawei Mobile Services (HMS) Core
+com.fssp.app	1	AppMetrica
+ru.shtrafy_gibdd.nalogi	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica
+ru.tinkoff.invest.course	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,myTracker
+ru.psbank.invest	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+ru.rshb.dbo	1	Google Firebase Analytics
+ru.cbalkp.rel2	6	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,AppMetrica,VKontakte SDK
+org.ray.fines	6	Google CrashLytics,Google Firebase Analytics,HelpShift,Amplitude,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.mkb.mobile	4	Google CrashLytics,Google Firebase Analytics,Dynatrace,Google AdMob
+digital.fact.saver	4	Google CrashLytics,Google Firebase Analytics,Yandex Ad,AppMetrica
+ru.tinkoff.mb.kids	7	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Microsoft Visual Studio App Center Crashes,Microsoft Visual Studio App Center Analytics,Huawei Mobile Services (HMS) Core
+ru.vtb.npf	2	Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+ru.finam.android	2	Google Firebase Analytics,AppMetrica
+ru.sravnizaim	0	
+com.simplepayments_gibdd	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Branch,OpenTelemetry (OpenCensus, OpenTracing)
+ru.alfacapital.lk	8	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica,Huawei Mobile Services (HMS) Core
+ru.rtlabs.mobile.ebs.android	2	Google CrashLytics,Google Firebase Analytics
+com.simplepayments.gosoplata	10	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Places,Facebook Share,Google Tag Manager,Branch,OpenTelemetry (OpenCensus, OpenTracing)
+ru.platiuslugi.app	0	
+ru.tcsbank.tinkoffplatinum	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Huawei Mobile Services (HMS) Core
+ru.minbank.android	2	Google CrashLytics,Google Firebase Analytics
+ru.deposit.cards	2	AppsFlyer,Google Firebase Analytics
+ru.stmlabs.procheck.app	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.zaimnakarty.kreditblesk	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.calculators.buyer	3	Google Firebase Analytics,Yandex Ad,AppMetrica
+com.otkritie.daily	3	Google Firebase Analytics,OneSignal,Huawei Mobile Services (HMS) Core
+com.moex.finuslugi	2	Google CrashLytics,Google Firebase Analytics
+ru.sovcombank.investor	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.app.everypay	0	
+com.e1c.MobileAccounting	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+ru.kredit.calculator	0	
+com.bssys.roscapretail	1	Google Firebase Analytics
+ru.calculator.vkladov	0	
+com.serviceit.tgc1lk	2	Google CrashLytics,Google Firebase Analytics
+ru.tinkoff.accounting	5	AppsFlyer,Google CrashLytics,Google Firebase Analytics,Amplitude,Huawei Mobile Services (HMS) Core
+ru.creditcards.onlain	1	Google Firebase Analytics
+ru.finapp.appzaymbot	2	Google Firebase Analytics,AppMetrica
+com.bifit.dvbank	1	Google Firebase Analytics
+com.bpc.crossplatform_trading.bpc_trading	2	Google CrashLytics,Google Firebase Analytics
+com.cofounder_app	2	OneSignal,Huawei Mobile Services (HMS) Core
+ru.gazprombank.broker	1	AppMetrica
+ru.sberleasing	6	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,AppMetrica
+org.policefines.finesNotCommercial	9	Google CrashLytics,Google Analytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Google Tag Manager,AppMetrica,OpenTelemetry (OpenCensus, OpenTracing)
+org.bitcoinox.bitcoinoxwallet	1	Google Firebase Analytics
+ru.banki.banki	4	AppsFlyer,Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.m4bank.softpos.open	0	
+com.openbusiness.Business_calculations_rus	4	Google Analytics,Google Firebase Analytics,Google Tag Manager,Google AdMob
+ru.psbank.msb.softpos	0	
+ru.yoo.kassa	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.tap2go.softpos	0	
+ru.zayman	1	AppMetrica
+ru.rt.mobileoffice	2	Google CrashLytics,Google Firebase Analytics
+ru.business.online	3	Google CrashLytics,Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+rshb.broker.mapp	2	Google CrashLytics,Google Firebase Analytics
+ru.autoassistent.checker	5	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager,OpenTelemetry (OpenCensus, OpenTracing)
+ru.yoo.sdk.kassa.payments.example.release	1	AppMetrica
+ru.bank_hlynov.xbank	1	Scandit
+com.kickex.android	7	Google CrashLytics,Google Firebase Analytics,Facebook Analytics,Facebook Login,Facebook Share,Amplitude,Facebook Flipper
+ru.ogon.app	2	Google Firebase Analytics,myTracker
+ru.netfinbank.application	2	Google Firebase Analytics,AppMetrica
+ru.sberbank.onlineencashment	2	Google CrashLytics,Google Firebase Analytics
+ru.plusvklad.app	2	Google Firebase Analytics,OpenTelemetry (OpenCensus, OpenTracing)
+ru.microloans.online	2	AppsFlyer,Google Firebase Analytics
+online.proga.hospitalcalc	2	Yandex Ad,AppMetrica
+com.uspeivziatdeneg.vdolg	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.bifit.mobile.corporate.dvbank	1	Google Firebase Analytics
+ru.webview.krediska	0	
+com.bssys.mbcphone.ubrir	1	Google Firebase Analytics
+ru.mkbb.mobile	2	Google CrashLytics,Google Firebase Analytics
+ru.kreditclick.app	0	
+ru.vsk.insurance	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.rosagroleasing.mobile	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+ru.carmoney.client	3	Google CrashLytics,Google Firebase Analytics,AppMetrica
+com.breackneck.mysecondprojectmoneybox	20	Ogury Presage,Google Firebase Analytics,Facebook Ads,AppLovin (MAX and SparkLabs),AdColony,Amazon Advertisement,Unity3d Ads,Yandex Ad,AppMetrica,ironSource,Appodeal,Vungle,Criteo,myTracker,myTarget,Google AdMob,IAB Open Measurement,Pangle,Appodeal Stack,BidMachine
+ru.rshb.urozhai	0	
+ru.genisoft.android.kozirnaya.karta	3	AppsFlyer,Google CrashLytics,Google Firebase Analytics
+ru.rshb.ips_qr	2	Google CrashLytics,Google Firebase Analytics
+ru.zencar.mobile.app	3	Google Firebase Analytics,Amplitude,AppMetrica
+ru.elt.ubsmobile	1	Google Firebase Analytics
+com.ntk_plus.portalzhkh	2	Google Firebase Analytics,Huawei Mobile Services (HMS) Core
+ru.rshb.svoe_rodnoe	2	Google CrashLytics,AppMetrica
+ru.rshb.privatebusiness	0	
+ru.sngb.dbo.client.android	1	HyperTrack
+com.bifit.mobile.ubrr	1	Google Firebase Analytics
+ru.ubrr.corporate	4	Google CrashLytics,Google Analytics,Google Firebase Analytics,Google Tag Manager
+com.oilmarket	1	Google Firebase Analytics
+com.invoiceboxapp	3	Google Firebase Analytics,AppMetrica,Facebook Flipper
+com.bifit.mobile.citizen.chbrr	1	Google Firebase Analytics
+ru.kslabs.agorta_kassa	0	
+com.breckneck.debtbook	2	Yandex Ad,AppMetrica
+ru.rkeeper.reports	1	Google Firebase Analytics
+ru.ucs.rk_lite_pos	3	Google CrashLytics,Google Firebase Analytics,Metrics
+ru.agorta.atolWebServer	0	
+ru.ucs.rkmobwaiter5	2	Google CrashLytics,Google Firebase Analytics
+ru.gazprombank.invest	6	AppsFlyer,Google Firebase Analytics,Facebook Login,Facebook Share,AppMetrica,Bugsnag
+ru.rosneft.tektorg	2	Google CrashLytics,Google Firebase Analytics

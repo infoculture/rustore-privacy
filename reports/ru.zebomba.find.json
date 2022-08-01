@@ -1,0 +1,117 @@
+{
+  "application": {
+    "handle": "ru.zebomba.find",
+    "version_name": "1.1.21",
+    "version_code": "10121",
+    "uaid": "2F25D0F3E8257A1D8706C2AB96D695689156C6F3",
+    "name": "What's the difference?",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.android.vending.BILLING",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.WAKE_LOCK",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.INTERNET",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "ru.zebomba.find.permission.C2D_MESSAGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.zebomba.find.apk",
+    "checksum": "254a560cbe4f3bbab8191c4f5224bc275521ae07e075ba0e888879deaaab70d2"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppLovin (MAX and SparkLabs)",
+      "id": 72
+    },
+    {
+      "name": "AdColony",
+      "id": 90
+    },
+    {
+      "name": "Amazon Advertisement",
+      "id": 92
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Mintegral",
+      "id": 200
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

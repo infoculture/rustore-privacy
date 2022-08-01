@@ -1,0 +1,61 @@
+{
+  "application": {
+    "handle": "ru.zdorovoeobrazovanie.app",
+    "version_name": "1.0.4",
+    "version_code": "1165",
+    "uaid": "14167E22E49DA1E81D2B12F6CFF51EA282390CC6",
+    "name": "\u0417\u0434\u043e\u0440\u043e\u0432\u043e\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435",
+    "permissions": [
+      "com.sec.android.provider.badge.permission.READ",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "ru.zdorovoeobrazovanie.app.permission.C2D_MESSAGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.GET_ACCOUNTS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.oppo.launcher.permission.READ_SETTINGS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.zdorovoeobrazovanie.app.apk",
+    "checksum": "e4f551a7a0033febee653e04a84a55d4d1dfbd708d3570a839143c9b16291987"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

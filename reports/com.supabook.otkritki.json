@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "com.supabook.otkritki",
+    "version_name": "2.0",
+    "version_code": "2",
+    "uaid": "37E866C7DB29F6C4BE81EA9687E9DAC9CF5CAFC4",
+    "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u043a\u0438 \u0438 \u043f\u043e\u0437\u0434\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.supabook.otkritki.apk",
+    "checksum": "3df73cb72088b660f4116de08e8959b1a18a44de74990987a4babb7a5221e1e8"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

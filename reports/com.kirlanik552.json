@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "com.kirlanik552",
+    "version_name": "2.2.1",
+    "version_code": "20201",
+    "uaid": "8FDFF4356F83A178B46406DE75ADD919737B667B",
+    "name": "\u0424\u0438\u0437\u0438\u043a\u0430 (\u043a\u0430\u043b\u044c\u043a\u0443\u043b\u044f\u0442\u043e\u0440)",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.kirlanik552.apk",
+    "checksum": "2ae144981eeb543fd00245cffdaecfdc37da73bc60b64cdc1860a539f0c78f5b"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

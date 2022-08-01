@@ -1,0 +1,53 @@
+{
+  "application": {
+    "handle": "com.e1c.mobile.client.doc21",
+    "version_name": "1.0.8",
+    "version_code": "189",
+    "uaid": "50829084CA4D184B5268F7E908BFDFFD7B7256B0",
+    "name": "1\u0421:Document management MC",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CAMERA",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.FLASHLIGHT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.e1c.mobile.client.doc21.apk",
+    "checksum": "875295351f782e4753285a3ece4d1a1591e8f7441a40a3155d62399470cc59ec"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

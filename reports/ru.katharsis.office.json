@@ -1,0 +1,27 @@
+{
+  "application": {
+    "handle": "ru.katharsis.office",
+    "version_name": "2.0",
+    "version_code": "20038",
+    "uaid": "87978714F6295F5E99F03B750DB60DED9D26FB64",
+    "name": "\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a",
+    "permissions": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_COARSE_LOCATION"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.katharsis.office.apk",
+    "checksum": "c5789bfa4862c5c60d870d757a51cdb0abc49f48dc06a2242925d841823f3b42"
+  },
+  "trackers": []
+}

@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "ru.kreditclick.app",
+    "version_name": "1.1.1",
+    "version_code": "3",
+    "uaid": "69FB3D64B81B2195DA1D05408776DC98B3529D0C",
+    "name": "\u041a\u0420\u0415\u0414\u0418\u0422\u043a\u043b\u0438\u043a",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.kreditclick.app.apk",
+    "checksum": "70e5d47c4de9988d9c13f17695963983572dfa501f4b4cfda5e96a3b60ca9ea8"
+  },
+  "trackers": []
+}

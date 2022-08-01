@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "ru.dixy.personal",
+    "version_name": "2.3.04",
+    "version_code": "93",
+    "uaid": "152CA737272564EABE7BF44BA76399673D372C97",
+    "name": "\u0414\u0438\u043a\u0441\u0438.Staff",
+    "permissions": [
+      "android.permission.FLASHLIGHT",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.INTERNET",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CAMERA",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.GET_TASKS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.honeywell.decode.permission.DECODE",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.dixy.personal.apk",
+    "checksum": "ef2728a163d449aa4a040d240a5bdf199d50ebf4d0eb28d98baab2b10db5014c"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    }
+  ]
+}

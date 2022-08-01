@@ -1,0 +1,37 @@
+{
+  "application": {
+    "handle": "com.Foxford.GBL_PVP",
+    "version_name": "1.0.81",
+    "version_code": "615509",
+    "uaid": "75CBE0B6218C47D4EB4A161CC1611143AF79CB9D",
+    "name": "\u041c\u0430\u0442\u0435\u043c\u0430\u0433\u0438\u044f",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_LOGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.Foxford.GBL_PVP.apk",
+    "checksum": "8545c3e0892b1552813a8ffa6ab4bc644f02f8610401c4b5b7c86f05de4fedd0"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

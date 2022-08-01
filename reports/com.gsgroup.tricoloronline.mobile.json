@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "com.gsgroup.tricoloronline.mobile",
+    "version_name": "2.2.2300",
+    "version_code": "2022300",
+    "uaid": "AA3CF1CA4AF389AC5980B463D640CD1181E4C246",
+    "name": "\u041a\u0438\u043d\u043e \u0438 \u0422\u0412",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_PHONE_STATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.gsgroup.tricoloronline.mobile.apk",
+    "checksum": "9b94465ba916d561c1a31f35f6dac470b0be6d9a1b73504be09d894f3a2bbab2"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

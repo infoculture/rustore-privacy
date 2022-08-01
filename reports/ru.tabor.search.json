@@ -1,0 +1,77 @@
+{
+  "application": {
+    "handle": "ru.tabor.search",
+    "version_name": "2.4.4",
+    "version_code": "19020403",
+    "uaid": "6A95F9101928A3166665174C789E98B94F15166F",
+    "name": "Tabor",
+    "permissions": [
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.VIBRATE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.DISABLE_KEYGUARD",
+      "com.android.vending.BILLING",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.CAMERA",
+      "android.permission.READ_APP_BADGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.RECORD_AUDIO"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.tabor.search.apk",
+    "checksum": "4cab2234bbd81d93896a806b0dd95c3aa7560b914b6dcf27d1a55021c9661c0d"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

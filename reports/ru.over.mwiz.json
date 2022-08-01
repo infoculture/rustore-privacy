@@ -1,0 +1,44 @@
+{
+  "application": {
+    "handle": "ru.over.mwiz",
+    "version_name": "1.1",
+    "version_code": "14",
+    "uaid": "79EA3966FE542F0BF0500164DD499FC05F9166EE",
+    "name": "\u0412\u043e\u043b\u0448\u0435\u0431\u043d\u0438\u043a\u0438",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.over.mwiz.apk",
+    "checksum": "07c88136856a0866aa6f45b87fa06a67ead970a84a6ee1e55a678e50285c95cc"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "ironSource",
+      "id": 146
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    }
+  ]
+}

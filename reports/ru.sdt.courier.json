@@ -1,0 +1,47 @@
+{
+  "application": {
+    "handle": "ru.sdt.courier",
+    "version_name": "2.10",
+    "version_code": "210",
+    "uaid": "86DB337224F30C47ECB43F0BD75D8DA3119C6299",
+    "name": "SDT \u041a\u0443\u0440\u044c\u0435\u0440",
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sdt.courier.apk",
+    "checksum": "c19032d58700c4a79842107670a3689bd0338b778e1997169e1049e6af021782"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

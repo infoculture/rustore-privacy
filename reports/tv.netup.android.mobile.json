@@ -1,0 +1,30 @@
+{
+  "application": {
+    "handle": "tv.netup.android.mobile",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "8E7A984A720B927C83B5BAD609CA681709C161A9",
+    "name": "UTV",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/tv.netup.android.mobile.apk",
+    "checksum": "887e3e76b4dffacd0f4c4e9085305570aa1fe08922b87d63330226f9b8826367"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "ru.vgtrofimov.ballsshmalls",
+    "version_name": "1.02",
+    "version_code": "2",
+    "uaid": "F2A68A54F265F8362BD2B004B667ED166FADB62A",
+    "name": "\u041d\u0430\u0448\u0430\u0440\u0438\u043a",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.vgtrofimov.ballsshmalls.apk",
+    "checksum": "e9088e270968e524d510884585c62c8f2092d8b91f6a1fb1c92c9852d610ac10"
+  },
+  "trackers": []
+}

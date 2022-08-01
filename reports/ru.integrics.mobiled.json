@@ -1,0 +1,27 @@
+{
+  "application": {
+    "handle": "ru.integrics.mobiled",
+    "version_name": "6.3",
+    "version_code": "9",
+    "uaid": "470FA100F38E9C53DB676AD429CA6CC9DC23D492",
+    "name": "\u0426\u0438\u0444\u0440\u043e\u0432\u0430\u044f \u0428\u043a\u043e\u043b\u0430 \u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0436\u044c\u044f",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.integrics.mobiled.apk",
+    "checksum": "e978e16b88300ef7164679df1ef59fbdc4d0202da539c60bad5839896ff73ecb"
+  },
+  "trackers": []
+}

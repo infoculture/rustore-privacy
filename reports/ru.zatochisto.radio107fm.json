@@ -1,0 +1,27 @@
+{
+  "application": {
+    "handle": "ru.zatochisto.radio107fm",
+    "version_name": "2",
+    "version_code": "5",
+    "uaid": "358C1E38B905FA8DE6957ECF8DB537DA91CCFB37",
+    "name": "107.0 FM",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.BROADCAST_STICKY",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.zatochisto.radio107fm.apk",
+    "checksum": "b864c2621070df71481dac3554dc1c35ca067163b89f42120ac7fb090daa7664"
+  },
+  "trackers": []
+}

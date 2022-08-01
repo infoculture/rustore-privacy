@@ -1,0 +1,71 @@
+{
+  "application": {
+    "handle": "com.taxsee.taxsee",
+    "version_name": "3.13.4",
+    "version_code": "378",
+    "uaid": "5292382FEE3BCA6087E519FAFD8ED1C8A26664EC",
+    "name": "maxim \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+    "permissions": [
+      "android.permission.RECORD_AUDIO",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.GET_TASKS",
+      "android.permission.BLUETOOTH",
+      "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.ACCESS_COARSE_UPDATES",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.CHANGE_WIFI_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.taxsee.taxsee.apk",
+    "checksum": "e1e8fd137c3fbd601272d57fd0aa8c92ced53ddc07cbae2e361d788f2bb48019"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Carto (formerly Nutiteq)",
+      "id": 341
+    }
+  ]
+}

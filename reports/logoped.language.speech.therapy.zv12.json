@@ -1,0 +1,20 @@
+{
+  "application": {
+    "handle": "logoped.language.speech.therapy.zv12",
+    "version_name": "1.0.4.4",
+    "version_code": "1000404",
+    "uaid": "0F9700AEBB52E0B45752A6B4548A8E00367B459C",
+    "name": "\u041a\u0430\u0440\u0442\u043e\u0447\u043a\u0438 \u043b\u043e\u0433\u043e\u043f\u0435\u0434\u0430 12 [\u041c\u2019]",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/logoped.language.speech.therapy.zv12.apk",
+    "checksum": "fcbce9455dad1ced1e220c077e7a5e54525778cb0732f9f9a15c4336bec893af"
+  },
+  "trackers": []
+}

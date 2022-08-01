@@ -1,0 +1,18 @@
+{
+  "application": {
+    "handle": "ru.sravnizaim",
+    "version_name": "1.0.0",
+    "version_code": "10000",
+    "uaid": "13861F1DBFA399B2C2A177C450817259405EC359",
+    "name": "\u0421\u0440\u0430\u0432\u043d\u0438 \u0417\u0430\u0439\u043c",
+    "permissions": [
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.sravnizaim.apk",
+    "checksum": "9e9be72991174a2687b8876e9d698c6f3ab144027f33b0ba88dc7c2c41f29e5d"
+  },
+  "trackers": []
+}

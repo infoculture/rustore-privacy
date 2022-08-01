@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "com.lsbr.call03",
+    "version_name": "3.0.17",
+    "version_code": "29",
+    "uaid": "8C863FC2424EF74DDE74A034145C3A673BC10D8F",
+    "name": "\u0412\u042b\u0417\u041e\u0412 \u0421\u041a\u041e\u0420\u041e\u0419 \u0427.\u0420.",
+    "permissions": [
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "com.lsbr.call03.permission.PUSH_PROVIDER",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.lsbr.call03.permission.PROCESS_PUSH_MSG",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.CALL_PHONE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.lsbr.call03.apk",
+    "checksum": "86532bb4d60945a1f9bc3e892f119b231f641f30ddf4a8c146759e4632e997da"
+  },
+  "trackers": [
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "application": {
+    "handle": "ru.mts.music.android",
+    "version_name": "8.55",
+    "version_code": "353533",
+    "uaid": "BFFD6174D47642A3604A1517E8F7C8F2AAEEF4D0",
+    "name": "\u041c\u0422\u0421 Music",
+    "permissions": [
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.WAKE_LOCK",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.DISABLE_KEYGUARD",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "com.android.alarm.permission.SET_ALARM",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.MANAGE_ACCOUNTS",
+      "com.android.vending.BILLING",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.USE_CREDENTIALS",
+      "android.permission.VIBRATE",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.BLUETOOTH",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.CAMERA",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.webkit.PermissionRequest"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.mts.music.android.apk",
+    "checksum": "205f981620064fee98b7735a98662c3712f46a8cbc30503d32593136714b319d"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Branch",
+      "id": 167
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

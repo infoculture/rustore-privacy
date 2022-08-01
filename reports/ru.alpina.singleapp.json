@@ -1,0 +1,71 @@
+{
+  "application": {
+    "handle": "ru.alpina.singleapp",
+    "version_name": "8.3.9",
+    "version_code": "614",
+    "uaid": "210FD3213BCE0247B650059A963884FE3D4F5708",
+    "name": "\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430",
+    "permissions": [
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.GET_TASKS",
+      "android.permission.MEDIA_CONTENT_CONTROL",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.CAMERA",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.media.action.IMAGE_CAPTURE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_LOGS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.alpina.singleapp.apk",
+    "checksum": "0831c6d64505fc366ef6bf99c6d3097dd7bb2db8af3fbe4981520bfb5b7ff6f9"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Branch",
+      "id": 167
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

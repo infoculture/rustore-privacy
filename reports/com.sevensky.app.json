@@ -1,0 +1,81 @@
+{
+  "application": {
+    "handle": "com.sevensky.app",
+    "version_name": "2.3.2",
+    "version_code": "15",
+    "uaid": "B8F0023E44FE9ACCF8D87F25BAFD2E701ACC0F72",
+    "name": "SevenSky",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.CAMERA_ROLL",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.CAMERA",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.VIBRATE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "host.exp.exponent.permission.C2D_MESSAGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.READ_APP_BADGE",
+      "com.sevensky.app.permission.C2D_MESSAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.sevensky.app.apk",
+    "checksum": "17fdec24b838f72446663e20fd671c9e75bc00bb1af2462af54aa8eb70eb208a"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Segment",
+      "id": 62
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

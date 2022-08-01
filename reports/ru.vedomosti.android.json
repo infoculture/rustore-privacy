@@ -1,0 +1,95 @@
+{
+  "application": {
+    "handle": "ru.vedomosti.android",
+    "version_name": "6.0.11",
+    "version_code": "2000046",
+    "uaid": "718E18893EA3D61D14E676AB8A35A0258DA79463",
+    "name": "\u0412\u0435\u0434\u043e\u043c\u043e\u0441\u0442\u0438",
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "ru.vedomosti.android.permission.C2D_MESSAGE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.android.vending.BILLING",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.INTERNET",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "ru.vedomosti.android.C2D_MESSAGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.GET_ACCOUNTS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.READ_APP_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.vedomosti.android.apk",
+    "checksum": "d2dd6c01822c44a41e507b58f9fac0447eda640d383ff9b79d2f736959200e15"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "application": {
+    "handle": "com.app.myfriend",
+    "version_name": "1.2.2",
+    "version_code": "6",
+    "uaid": "343A4D683F4C573D828E46CA439BDA364F38DA3F",
+    "name": "\u041c\u043e\u0439 \u0434\u0440\u0443\u0433",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.vending.BILLING"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.app.myfriend.apk",
+    "checksum": "e34f5a221d2613ed62b8d76f4b31a3114e7a8a4cd7410fc4251dfe88192bd4fe"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

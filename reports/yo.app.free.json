@@ -1,0 +1,69 @@
+{
+  "application": {
+    "handle": "yo.app.free",
+    "version_name": "2.34.17",
+    "version_code": "1316",
+    "uaid": "4D17ED459695979F1B33C3B35F601D76EF9120C7",
+    "name": "YoWindow",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.android.alarm.permission.SET_ALARM",
+      "android.permission.VIBRATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.android.vending.BILLING",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "com.android.vending.CHECK_LICENSE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "org.apache.http.legacy",
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/yo.app.free.apk",
+    "checksum": "828daf094e721ee7e5514296fa8e685bbf8fd20d953595614bd8b8f3a0dc4962"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

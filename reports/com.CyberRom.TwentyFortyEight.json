@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "com.CyberRom.TwentyFortyEight",
+    "version_name": "1.7.1",
+    "version_code": "16",
+    "uaid": "647FEB7DAA510B1D6C5626C0BC5CE78E35253B9B",
+    "name": "2048 3D",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.CyberRom.TwentyFortyEight.apk",
+    "checksum": "94b7bacbc586a65d647b840ca0afeb2c72ada5e0d827038c11c62963e80e051a"
+  },
+  "trackers": []
+}

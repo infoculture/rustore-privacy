@@ -1,0 +1,28 @@
+{
+  "application": {
+    "handle": "com.aimp.player",
+    "version_name": "v3.22, build 1199 (30.06.2022)",
+    "version_code": "1199",
+    "uaid": "B0E75399950CBC850860518DD0FC0A331A3D6AA3",
+    "name": "AIMP",
+    "permissions": [
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.READ_MEDIA_AUDIO",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_ALL_DOWNLOADS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BLUETOOTH"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.aimp.player.apk",
+    "checksum": "5f6086c86c2c1faa4f8daaedc445a210e9cf89861e173acc7c086cf36ecf3c4c"
+  },
+  "trackers": []
+}

@@ -1,0 +1,18 @@
+{
+  "application": {
+    "handle": "com.survival.squid.and.game",
+    "version_name": "1",
+    "version_code": "1",
+    "uaid": "E52B8A05F35F48053457BDCAE2B3D09F170CB0E5",
+    "name": "Games And Squid",
+    "permissions": [
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.survival.squid.and.game.apk",
+    "checksum": "1b1184992539d9ccf6c1c83a3e894e4fa6500366cb9484aa9d3655d20b043438"
+  },
+  "trackers": []
+}

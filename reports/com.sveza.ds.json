@@ -1,0 +1,98 @@
+{
+  "application": {
+    "handle": "com.sveza.ds",
+    "version_name": "3.31.4",
+    "version_code": "33104",
+    "uaid": "CE1B269FF2C9A222BD2F46AD0CDACA0C40BEA59D",
+    "name": "\u0426\u0438\u0444\u0440\u043e\u0432\u0430\u044f \u0421\u0432\u0435\u0437\u0430",
+    "permissions": [
+      "com.amazon.device.messaging.permission.RECEIVE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.READ_APP_BADGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.INTERNET",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sveza.ds.permission.C2D_MESSAGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.sveza.ds.permission.RECEIVE_ADM_MESSAGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.sveza.ds.apk",
+    "checksum": "4c86bbcadb9ba3651ef9b3ab21ef38599b3aa56020c772b504d1474051a2c163"
+  },
+  "trackers": [
+    {
+      "name": "Flurry",
+      "id": 25
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Ads",
+      "id": 65
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Places",
+      "id": 69
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Inmobi",
+      "id": 106
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "RjFun",
+      "id": 377
+    }
+  ]
+}

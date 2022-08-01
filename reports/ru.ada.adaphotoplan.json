@@ -1,0 +1,31 @@
+{
+  "application": {
+    "handle": "ru.ada.adaphotoplan",
+    "version_name": "2.6",
+    "version_code": "12",
+    "uaid": "4B3B927BDF21213F7B3BD7BBBFB57720CAE47984",
+    "name": "ADA Photo Plan",
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.ada.adaphotoplan.apk",
+    "checksum": "c3aab79edc7328d8b882d93ec61d90f52cfbb1a85d94a6177de9a6ab7693b9da"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    }
+  ]
+}

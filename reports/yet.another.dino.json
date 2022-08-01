@@ -1,0 +1,43 @@
+{
+  "application": {
+    "handle": "yet.another.dino",
+    "version_name": "1.0.9",
+    "version_code": "11",
+    "uaid": "F1B03D7451CBB4FF1B4D31E92C30D6A2409C2FBE",
+    "name": "Yet Another Dino",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/yet.another.dino.apk",
+    "checksum": "203ece433531114ec84157da2adb425fa35bc1499e0c04c7aed396dbe9cebc1f"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Kochava",
+      "id": 127
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

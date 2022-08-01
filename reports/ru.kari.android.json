@@ -1,0 +1,49 @@
+{
+  "application": {
+    "handle": "ru.kari.android",
+    "version_name": "1.27",
+    "version_code": "131",
+    "uaid": "8A11173FCB206D4EB5DCF348733FCA9BF28EA426",
+    "name": "Kari",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.CAMERA",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.BLUETOOTH",
+      "android.permission.BLUETOOTH_CONNECT"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.kari.android.apk",
+    "checksum": "8cb9737061e6fe79ebea395ebd13c3f48ada77e1f5a67eab9ff66842e5541b1a"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

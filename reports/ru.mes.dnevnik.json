@@ -1,0 +1,65 @@
+{
+  "application": {
+    "handle": "ru.mes.dnevnik",
+    "version_name": "2.53.5",
+    "version_code": "1655394828",
+    "uaid": "B3578718A6CF987067F9B5A30C8E52E3245C7AC8",
+    "name": "\u0414\u043d\u0435\u0432\u043d\u0438\u043a \u041c\u042d\u0428",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.READ_APP_BADGE",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.USE_FINGERPRINT",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.CAMERA",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.mes.dnevnik.apk",
+    "checksum": "cc3c366b79136df383e1db84c26ba7cd0fea12d3ffab57ec915fc07b104dcd7e"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Facebook Flipper",
+      "id": 392
+    }
+  ]
+}

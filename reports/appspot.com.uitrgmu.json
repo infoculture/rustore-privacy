@@ -1,0 +1,55 @@
+{
+  "application": {
+    "handle": "appspot.com.uitrgmu",
+    "version_name": "1.0.1",
+    "version_code": "49",
+    "uaid": "46B6972EBD3DB5414814C384FF6F0B663D9C0705",
+    "name": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0418\u0422 \u0420\u043e\u0441\u0442\u0413\u041c\u0423",
+    "permissions": [
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.FLASHLIGHT",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CALL_PHONE",
+      "android.permission.BLUETOOTH",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.WAKE_LOCK",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/appspot.com.uitrgmu.apk",
+    "checksum": "f9dfe46361ef3a91495d259fa4986c17d36627f2d83109a1b96b4647d54fce68"
+  },
+  "trackers": [
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

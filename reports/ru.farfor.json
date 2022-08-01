@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "ru.farfor",
+    "version_name": "22.6.10",
+    "version_code": "21006776",
+    "uaid": "6E7C0795209F7AF2656556C58A560A8E54D13FAC",
+    "name": "Farfor",
+    "permissions": [
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.SCHEDULE_EXACT_ALARM",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.RECORD_AUDIO",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.CAMERA",
+      "android.permission.GET_TASKS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.farfor.apk",
+    "checksum": "510a626361a61a126e8513e74246903a446531cab8ca303c30be0072fb78a62f"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

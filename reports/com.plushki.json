@@ -1,0 +1,52 @@
+{
+  "application": {
+    "handle": "com.plushki",
+    "version_name": "2.1.21",
+    "version_code": "172",
+    "uaid": "3B6266406E401A0DD9ADC9AE2A8F1308A3F14817",
+    "name": "ReactNativeART",
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.READ_PROFILE",
+      "android.permission.WRITE_PROFILE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.android.vending.CHECK_LICENSE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "android.permission.INTERNET",
+      "android.permission.VIBRATE",
+      "com.google.android.c2dm.permission.RECEIVE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.plushki.apk",
+    "checksum": "d2869cc8bbc84f4025deb09b9ea3605416355a2714b056dd5c8ca01fbdb64303"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    }
+  ]
+}

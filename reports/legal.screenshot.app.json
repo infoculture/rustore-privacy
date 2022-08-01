@@ -1,0 +1,54 @@
+{
+  "application": {
+    "handle": "legal.screenshot.app",
+    "version_name": "1.1.2",
+    "version_code": "6",
+    "uaid": "2A4C3B14B20EDBB7EE08111FF6722CFD848AD577",
+    "name": "ShotApp",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.READ_PHONE_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.CAMERA",
+      "android.permission.PACKAGE_USAGE_STATS",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": [
+      "androidx.camera.extensions.impl"
+    ]
+  },
+  "apk": {
+    "path": "apks/legal.screenshot.app.apk",
+    "checksum": "1b1bc1df44a1c6e6452ecf4649047aed7eedbf7d744a31827f3268070be171b9"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}

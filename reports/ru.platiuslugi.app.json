@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "ru.platiuslugi.app",
+    "version_name": "5",
+    "version_code": "5",
+    "uaid": "40231C171F06D88C57A6DCB3C2CC182372069D1D",
+    "name": "\u041f\u043b\u0430\u0442\u0438\u0423\u0441\u043b\u0443\u0433\u0438.\u0440\u0443",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.platiuslugi.app.apk",
+    "checksum": "9779fb765e5ff139b3aeb3ff52a7b2dbea8f6d2b95520fc787fe1acf85871401"
+  },
+  "trackers": []
+}

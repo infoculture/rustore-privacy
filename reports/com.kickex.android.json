@@ -1,0 +1,64 @@
+{
+  "application": {
+    "handle": "com.kickex.android",
+    "version_name": "1.1.3",
+    "version_code": "109",
+    "uaid": "568F6D09F6DEFA2AF75A3ABDB89474A71487817B",
+    "name": "KickEX",
+    "permissions": [
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_SETTINGS",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.USE_BIOMETRIC",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.POST_NOTIFICATIONS",
+      "android.permission.NFC",
+      "android.permission.USE_FINGERPRINT",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.kickex.android.apk",
+    "checksum": "f97a5717f2d98f91147f0c01fa5c5c68d68fe04cdb1964bd0f2e9628d22d79c1"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "Facebook Flipper",
+      "id": 392
+    }
+  ]
+}

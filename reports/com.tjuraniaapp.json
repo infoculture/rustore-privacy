@@ -1,0 +1,41 @@
+{
+  "application": {
+    "handle": "com.tjuraniaapp",
+    "version_name": "2.1.14",
+    "version_code": "21071460",
+    "uaid": "A21B7425AFA60B7084FDB4398DCA3246F2927E73",
+    "name": "Tinkoff Journal",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.tjuraniaapp.apk",
+    "checksum": "794fdd6beba099a323321df5c9dc105f0f0f01ed554c522478f5be69b51921fc"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    }
+  ]
+}

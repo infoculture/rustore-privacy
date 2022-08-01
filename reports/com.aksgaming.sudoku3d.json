@@ -1,0 +1,33 @@
+{
+  "application": {
+    "handle": "com.aksgaming.sudoku3d",
+    "version_name": "1.0.7.19",
+    "version_code": "1000719",
+    "uaid": "F694B1B659C6F032225CF8A6A805DC3B47CE31C7",
+    "name": "Sudoku3D.org",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.VIBRATE",
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.aksgaming.sudoku3d.apk",
+    "checksum": "2843a8894efeb239dccd5f4cca8b69b0e5b85a638e3b0e0cdaef171ba7b73937"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

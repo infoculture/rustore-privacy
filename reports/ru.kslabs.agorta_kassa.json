@@ -1,0 +1,25 @@
+{
+  "application": {
+    "handle": "ru.kslabs.agorta_kassa",
+    "version_name": "1.02",
+    "version_code": "3",
+    "uaid": "E1D1D915EDF90D2AC7AD35BA0D1AF10526947146",
+    "name": "Agorta Kassa",
+    "permissions": [
+      "android.permission.MANAGE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.kslabs.agorta_kassa.apk",
+    "checksum": "63e8749ae784c607e079526a28fa731900717a4d00de5c816744305e83b42229"
+  },
+  "trackers": []
+}

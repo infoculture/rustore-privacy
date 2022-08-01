@@ -1,0 +1,36 @@
+{
+  "application": {
+    "handle": "ru.sber.csradar",
+    "version_name": "1.0.9",
+    "version_code": "10",
+    "uaid": "4458285BCAD9DE5248BBE82830F82C76862E09C3",
+    "name": "CS Radar",
+    "permissions": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.CAMERA",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.sber.csradar.apk",
+    "checksum": "10711ec14860dafecd28f4df8a99884ef76644caadce9b39970e84dc857bfbc5"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

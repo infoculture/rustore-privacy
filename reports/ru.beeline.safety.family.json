@@ -1,0 +1,85 @@
+{
+  "application": {
+    "handle": "ru.beeline.safety.family",
+    "version_name": "1.18.2",
+    "version_code": "817",
+    "uaid": "F8EF8619D8F9840611B5CB28376AF9D7B9621EB1",
+    "name": "Kinbery",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.ACCESS_NOTIFICATION_POLICY",
+      "android.permission.CAMERA",
+      "com.google.android.gms.permission.AD_ID",
+      "ru.beeline.safety.family.permission.PROCESS_PUSH_MSG",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.android.vending.BILLING",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.CALL_PHONE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET",
+      "com.huawei.permission.SECURITY_DIAGNOSE",
+      "android.permission.PACKAGE_USAGE_STATS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "android.permission.VIBRATE",
+      "ru.beeline.safety.family.permission.PUSH_PROVIDER",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+      "com.huawei.android.launcher.permission",
+      "android.permission.ACTIVITY_RECOGNITION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.beeline.safety.family.apk",
+    "checksum": "f2503ba6c484c2d9c3214f810adcc90493c3435324a69a1d10864e08b828e039"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Facebook Share",
+      "id": 70
+    },
+    {
+      "name": "Amplitude",
+      "id": 125
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

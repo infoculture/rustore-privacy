@@ -1,0 +1,40 @@
+{
+  "application": {
+    "handle": "com.tisonline.tis_taxi",
+    "version_name": "1.0.4.39",
+    "version_code": "2",
+    "uaid": "159AE1731EED8DBC931F478CC58ABFCFB2137093",
+    "name": "\u0410\u0420\u041c \u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f",
+    "permissions": [
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.ACCESS_BACKGROUND_LOCATION",
+      "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.READ_INTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.WRITE_INTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.VIBRATE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.tisonline.tis_taxi.apk",
+    "checksum": "a1667777a1d28ab9c26f0f12486657d19a9e80d802ab37df94c54f48a225ca90"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    }
+  ]
+}

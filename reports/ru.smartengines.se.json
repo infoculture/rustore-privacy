@@ -1,0 +1,19 @@
+{
+  "application": {
+    "handle": "ru.smartengines.se",
+    "version_name": "1.11.0",
+    "version_code": "107946",
+    "uaid": "AECB6C82E475AF31D2F45D8A80BDFE0046D60CB3",
+    "name": "Smart Engines ru",
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.smartengines.se.apk",
+    "checksum": "16f9f21a6bf973007186e0d7948e38b1005e1a065daf4b457af93827fca157e2"
+  },
+  "trackers": []
+}

@@ -1,0 +1,74 @@
+{
+  "application": {
+    "handle": "ru.goods.marketplace",
+    "version_name": "4.10",
+    "version_code": "40100005",
+    "uaid": "026469D4CDFF37617C7058E9A56322394A75BC27",
+    "name": "\u0421\u0431\u0435\u0440\u041c\u0435\u0433\u0430\u041c\u0430\u0440\u043a\u0435\u0442",
+    "permissions": [
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "ru.goods.marketplace.permission.PROCESS_PUSH_MSG",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.CAMERA",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.BLUETOOTH",
+      "ru.goods.marketplace.permission.PUSH_PROVIDER",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.providers.gsf.permission.READ_GSERVICES",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.INTERNET",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.goods.marketplace.apk",
+    "checksum": "f3a1b7b0967f97c9a09bfacddb7cd2377a9d3c3c6328a58a2753591dbe8df43b"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Adjust",
+      "id": 52
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "Exponea",
+      "id": 350
+    }
+  ]
+}

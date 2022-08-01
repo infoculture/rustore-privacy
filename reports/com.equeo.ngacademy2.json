@@ -1,0 +1,89 @@
+{
+  "application": {
+    "handle": "com.equeo.ngacademy2",
+    "version_name": "10.4.1",
+    "version_code": "2022063011",
+    "uaid": "DA202DEE16B6D552EE064EDCE3402B317D74F2BE",
+    "name": "NG Academy",
+    "permissions": [
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.GET_ACCOUNTS",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.READ_CALENDAR",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.VIBRATE",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.CAMERA",
+      "com.equeo.ngacademy2.permission.PROCESS_PUSH_MSG",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.BROADCAST_STICKY",
+      "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.MANAGE_ACCOUNTS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.BLUETOOTH",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_TASKS",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.CALL_PHONE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WRITE_CALENDAR",
+      "android.permission.READ_APP_BADGE",
+      "com.equeo.ngacademy2.permission.PUSH_PROVIDER",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "android.permission.READ_PHONE_STATE",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.RECORD_AUDIO",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.AUTHENTICATE_ACCOUNTS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.equeo.ngacademy2.apk",
+    "checksum": "72361a5123a6aca074f893e79d58e571a7fd6f1cbaef628bac48348983e8f041"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    }
+  ]
+}

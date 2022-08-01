@@ -1,0 +1,46 @@
+{
+  "application": {
+    "handle": "ru.rcamel.paymaster",
+    "version_name": "2.2.14",
+    "version_code": "3100011",
+    "uaid": "48815D5BDAD57132E0E40B76E442318D306A919A",
+    "name": "\u041a\u0430\u0437\u043d\u0430\u0447\u0435\u0439",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WAKE_LOCK",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.rcamel.paymaster.apk",
+    "checksum": "c5551d74a2cffe43bf5d3de09644847b0ed6d5076ab186ba851a28dcdf60ef95"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

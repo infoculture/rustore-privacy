@@ -1,0 +1,22 @@
+{
+  "application": {
+    "handle": "ru.tvhelp.acs_controller_manager",
+    "version_name": "0.0.6",
+    "version_code": "6",
+    "uaid": "5B4326B776CBB927BD4E5DB6647ACF79E7627309",
+    "name": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440\u0430\u043c\u0438 \u0421\u041a\u0423\u0414",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.tvhelp.acs_controller_manager.apk",
+    "checksum": "25be93b443bfde79e361b55a3f3ad9ab0e0f141f041169e5f0e896933ba6bd14"
+  },
+  "trackers": []
+}

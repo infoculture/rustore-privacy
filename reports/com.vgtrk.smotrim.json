@@ -1,0 +1,61 @@
+{
+  "application": {
+    "handle": "com.vgtrk.smotrim",
+    "version_name": "8.4",
+    "version_code": "80408",
+    "uaid": "CC935109A52F2BFBCCA1879F07816BF81574FF2A",
+    "name": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c",
+    "permissions": [
+      "android.permission.FOREGROUND_SERVICE",
+      "com.android.vending.BILLING",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.INTERNET",
+      "android.permission.EXPAND_STATUS_BAR",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.WAKE_LOCK",
+      "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.vgtrk.smotrim.apk",
+    "checksum": "188c515437debf3e508770cfa2d0dd6366965cab7b572cb03dc13f2dc25b5a86"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Facebook Analytics",
+      "id": 66
+    },
+    {
+      "name": "Facebook Login",
+      "id": 67
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

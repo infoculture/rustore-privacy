@@ -1,0 +1,68 @@
+{
+  "application": {
+    "handle": "ru.mts.mtstv",
+    "version_name": "3.1.57.6",
+    "version_code": "2022310514",
+    "uaid": "013B3787BB5AF22D8C3069D759D6678BABDD4C56",
+    "name": "KION",
+    "permissions": [
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.INTERNET",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.MANAGE_ACCOUNTS",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.CAMERA",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.USE_CREDENTIALS",
+      "com.android.vending.BILLING",
+      "android.permission.VIBRATE",
+      "android.permission.WAKE_LOCK",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.mts.mtstv.apk",
+    "checksum": "50be824c6b3f83338adf256d6eeafc24f1d13c0b3d399040f34ade28fcc0f21e"
+  },
+  "trackers": [
+    {
+      "name": "AppsFlyer",
+      "id": 12
+    },
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

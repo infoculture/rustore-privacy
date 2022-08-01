@@ -1,0 +1,37 @@
+{
+  "application": {
+    "handle": "com.uchi.app",
+    "version_name": "1.17",
+    "version_code": "312",
+    "uaid": "AE7746D0ECD5A0F53756036813695672F08A071D",
+    "name": "\u0423\u0447\u0438.\u0440\u0443",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.WAKE_LOCK",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "androidx.window.extensions",
+      "androidx.window.sidecar"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.uchi.app.apk",
+    "checksum": "cfc54a1995fb78261d4686b7c83cfc67d5426d0d6b94d3c959c815b55c9ab227"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

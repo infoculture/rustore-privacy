@@ -1,0 +1,36 @@
+{
+  "application": {
+    "handle": "ru.sberbank.sbersign",
+    "version_name": "1.0.0",
+    "version_code": "1",
+    "uaid": "9BB5093469459F9310053683F2DF606CE92FBC12",
+    "name": "SberSign",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USB_PERMISSION",
+      "android.permission.WAKE_LOCK",
+      "android.permission.CAMERA",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.NFC",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.BLUETOOTH",
+      "android.permission.QUERY_ALL_PACKAGES"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.sberbank.sbersign.apk",
+    "checksum": "5baada590f3f42b9b4bda67b796f889b3686e69a9cf0e68b3465a7a96a055672"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

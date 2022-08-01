@@ -1,0 +1,48 @@
+{
+  "application": {
+    "handle": "ru.sibgenco.general",
+    "version_name": "3.9.14",
+    "version_code": "41",
+    "uaid": "E4C461F60FAC453C60E2C3A119748A698A230E47",
+    "name": "\u0421\u0413\u041a",
+    "permissions": [
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.WAKE_LOCK",
+      "ru.sibgenco.general.permission.C2D_MESSAGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.INTERNET"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.sibgenco.general.apk",
+    "checksum": "39e4533feedf413f0bbd993c13714f51af24f4b60da3713ec3df3f22a7b3072d"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Analytics",
+      "id": 48
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Google Tag Manager",
+      "id": 105
+    }
+  ]
+}

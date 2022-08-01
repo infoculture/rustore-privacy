@@ -1,0 +1,30 @@
+{
+  "application": {
+    "handle": "com.gamemisctop.busSimulator3D",
+    "version_name": "2.1.1",
+    "version_code": "6",
+    "uaid": "A0FE12D753CEC245E78D0AF413220DFA43BEBC09",
+    "name": "Bus Simulator 3D",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.gamemisctop.busSimulator3D.apk",
+    "checksum": "559ff898d170ac30760f19b78bd91ace335e81374a28964c8d78067afd14bebb"
+  },
+  "trackers": [
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

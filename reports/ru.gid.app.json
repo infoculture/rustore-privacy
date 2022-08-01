@@ -1,0 +1,59 @@
+{
+  "application": {
+    "handle": "ru.gid.app",
+    "version_name": "0.16.12",
+    "version_code": "16120001",
+    "uaid": "8C0B8BDD02B97DB1C173A499E3E361D82F863CCD",
+    "name": "\u0413\u0418\u0414",
+    "permissions": [
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.READ_APP_BADGE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.INTERNET",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WAKE_LOCK",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.QUERY_ALL_PACKAGES",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_FINE_LOCATION"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.gid.app.apk",
+    "checksum": "8aea9083ae2cd022fd6d55cd22b0b3418f3920591a3dbd3a9190dddd5f1ee780"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "application": {
+    "handle": "com.app.road",
+    "version_name": "1.08",
+    "version_code": "9",
+    "uaid": "30C891D550144B0FCD2F0B06CDA848B607CBDEB2",
+    "name": "\u041f\u0443\u0442\u044c",
+    "permissions": [
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "android.permission.NFC",
+      "com.google.android.gms.permission.AD_ID",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_APP_BADGE",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "com.app.road.permission.C2D_MESSAGE",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "android.permission.INTERNET",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "com.sec.android.provider.badge.permission.READ",
+      "android.permission.POST_NOTIFICATIONS",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "android.permission.FOREGROUND_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "android.permission.VIBRATE",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.app.road.apk",
+    "checksum": "0fb70f9aa101460df43c96633366d211336d1f282969d440f87d20c21bf90e9b"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "OneSignal",
+      "id": 193
+    },
+    {
+      "name": "Huawei Mobile Services (HMS) Core",
+      "id": 333
+    },
+    {
+      "name": "OpenTelemetry (OpenCensus, OpenTracing)",
+      "id": 412
+    }
+  ]
+}

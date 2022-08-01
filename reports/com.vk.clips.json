@@ -1,0 +1,111 @@
+{
+  "application": {
+    "handle": "com.vk.clips",
+    "version_name": "1.10",
+    "version_code": "13433",
+    "uaid": "AA0849086B2B8C7BE40ED0D4AB35F19ED26781CC",
+    "name": "VK Clips",
+    "permissions": [
+      "android.permission.INTERNET",
+      "android.permission.ACTIVITY_RECOGNITION",
+      "com.sonyericsson.home.permission.BROADCAST_BADGE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "com.vkontakte.android.usersstore.permission.LOAD",
+      "android.provider.Telephony.SMS_RECEIVED",
+      "com.vkontakte.android.permission.APP_REDIRECT",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.AUTHENTICATE_ACCOUNTS",
+      "com.vkontakte.android.permission.ACCESS_DATA",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.htc.launcher.permission.UPDATE_SHORTCUT",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.MODIFY_AUDIO_SETTINGS",
+      "com.sec.android.provider.badge.permission.READ",
+      "com.huawei.android.launcher.permission.READ_SETTINGS",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.CHANGE_NETWORK_STATE",
+      "com.vk.calls.usersstore.permission.SAVE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_CONTACTS",
+      "android.permission.CHANGE_WIFI_STATE",
+      "android.permission.USE_BIOMETRIC",
+      "android.permission.QUICKBOOT_POWERON",
+      "com.oppo.launcher.permission.READ_SETTINGS",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.READ_APP_BADGE",
+      "android.permission.BLUETOOTH",
+      "com.sec.android.provider.badge.permission.WRITE",
+      "android.permission.USE_FULL_SCREEN_INTENT",
+      "com.oppo.launcher.permission.WRITE_SETTINGS",
+      "com.android.launcher.permission.INSTALL_SHORTCUT",
+      "android.permission.READ_PHONE_NUMBERS",
+      "com.vk.im.usersstore.permission.LOAD",
+      "com.anddoes.launcher.permission.UPDATE_COUNT",
+      "com.vkontakte.android.usersstore.permission.SAVE",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CAMERA",
+      "me.everything.badger.permission.BADGE_COUNT_WRITE",
+      "android.permission.FOREGROUND_SERVICE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS",
+      "com.vk.clips.usersstore.permission.SAVE",
+      "com.huawei.android.launcher.permission.CHANGE_BADGE",
+      "android.gms.permission.ACTIVITY_RECOGNITION",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.VIBRATE",
+      "android.permission.BLUETOOTH_ADMIN",
+      "android.permission.READ_PHONE_STATE",
+      "com.vk.clips.usersstore.permission.LOAD",
+      "com.vk.im.usersstore.permission.SAVE",
+      "com.vk.usersstore.permission.LOAD",
+      "com.htc.launcher.permission.READ_SETTINGS",
+      "me.everything.badger.permission.BADGE_COUNT_READ",
+      "com.android.vending.BILLING",
+      "android.permission.WAKE_LOCK",
+      "com.majeur.launcher.permission.UPDATE_BADGE",
+      "com.vk.calls.usersstore.permission.LOAD",
+      "com.vk.usersstore.permission.SAVE",
+      "android.permission.ACCESS_MEDIA_LOCATION",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.WRITE_SYNC_SETTINGS",
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+      "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/com.vk.clips.apk",
+    "checksum": "b2a9d120a0e39b3524cd77d3a2aad1f361aee3d939265809b536aae8ddaca04c"
+  },
+  "trackers": [
+    {
+      "name": "Google CrashLytics",
+      "id": 27
+    },
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "myTracker",
+      "id": 175
+    },
+    {
+      "name": "myTarget",
+      "id": 198
+    },
+    {
+      "name": "IAB Open Measurement",
+      "id": 328
+    },
+    {
+      "name": "VKontakte SDK",
+      "id": 382
+    }
+  ]
+}

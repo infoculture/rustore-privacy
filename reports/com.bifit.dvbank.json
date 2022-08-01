@@ -1,0 +1,42 @@
+{
+  "application": {
+    "handle": "com.bifit.dvbank",
+    "version_name": "46.4.56",
+    "version_code": "20046890",
+    "uaid": "BB3984A73A83F7EFD92F10E2423FCAC6888680A4",
+    "name": "\u0414\u0412 \u0431\u0430\u043d\u043a",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.REQUEST_INSTALL_PACKAGES",
+      "com.google.android.c2dm.permission.RECEIVE",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_CONTACTS",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "ru.rtlabs.mobile.ebs.permission.VERIFICATION",
+      "android.permission.USE_FINGERPRINT",
+      "android.permission.FLASHLIGHT",
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.VIBRATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_CONTACTS",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.GET_ACCOUNTS"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.bifit.dvbank.apk",
+    "checksum": "8ef68a54b2e92098772301f7a3103ed062f2992a21bd5fe32d3c8b116ba7f59f"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    }
+  ]
+}

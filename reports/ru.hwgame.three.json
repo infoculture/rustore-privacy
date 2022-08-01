@@ -1,0 +1,37 @@
+{
+  "application": {
+    "handle": "ru.hwgame.three",
+    "version_name": "1.01.272",
+    "version_code": "52",
+    "uaid": "AB59E8719E9CE5DBEF841447C61F924D9DCCECDA",
+    "name": "Happyx Pump",
+    "permissions": [
+      "android.permission.INTERNET",
+      "com.android.vending.BILLING",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WAKE_LOCK"
+    ],
+    "libraries": [
+      "org.apache.http.legacy"
+    ]
+  },
+  "apk": {
+    "path": "apks/ru.hwgame.three.apk",
+    "checksum": "ffb69ad59180bbb6ed1bac02e158a77a35952f87bf4816ed03281c31602e19bf"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Unity3d Ads",
+      "id": 121
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

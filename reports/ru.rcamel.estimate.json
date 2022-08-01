@@ -1,0 +1,46 @@
+{
+  "application": {
+    "handle": "ru.rcamel.estimate",
+    "version_name": "4.6.16",
+    "version_code": "3200051",
+    "uaid": "2C792B0DC5A44A14F1FDE234D7D56AF022C464BD",
+    "name": "\u041c\u0438\u043d\u0438\u0421\u043c\u0435\u0442\u0430",
+    "permissions": [
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+      "android.permission.ACCESS_WIFI_STATE",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.CAMERA",
+      "android.permission.WAKE_LOCK",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "com.android.vending.BILLING",
+      "android.permission.INTERNET",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.FOREGROUND_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.rcamel.estimate.apk",
+    "checksum": "fd34858c196d3e3c419bf092d1a51bd55a0f3c812b01d1bb78f180b1fb990663"
+  },
+  "trackers": [
+    {
+      "name": "Google Firebase Analytics",
+      "id": 49
+    },
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    },
+    {
+      "name": "Google AdMob",
+      "id": 312
+    }
+  ]
+}

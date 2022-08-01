@@ -1,0 +1,16 @@
+{
+  "application": {
+    "handle": "ru.rambler.horoscopes.twa",
+    "version_name": "1",
+    "version_code": "3",
+    "uaid": "E3209CA4145DE29F094E8B7D1D99EBFCB6A07C2B",
+    "name": "\u0420\u0430\u043c\u0431\u043b\u0435\u0440/\u0433\u043e\u0440\u043e\u0441\u043a\u043e\u043f\u044b",
+    "permissions": [],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/ru.rambler.horoscopes.twa.apk",
+    "checksum": "b34629109d91eb7fb2f409f03c6acae7400583e9b3fafafedd4e09c0a6763ac7"
+  },
+  "trackers": []
+}

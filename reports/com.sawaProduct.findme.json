@@ -1,0 +1,31 @@
+{
+  "application": {
+    "handle": "com.sawaProduct.findme",
+    "version_name": "1.0",
+    "version_code": "1",
+    "uaid": "DFB4B47D72B2F01206E56367B3890013C3398ADC",
+    "name": "Find Me",
+    "permissions": [
+      "android.permission.ACCESS_WIFI_STATE",
+      "com.google.android.gms.permission.AD_ID",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+    ],
+    "libraries": []
+  },
+  "apk": {
+    "path": "apks/com.sawaProduct.findme.apk",
+    "checksum": "1e556608199c91d08a0667e836dcc35c85cdc4080b5e28f80b1a76f77a9d3c3e"
+  },
+  "trackers": [
+    {
+      "name": "Yandex Ad",
+      "id": 124
+    },
+    {
+      "name": "AppMetrica",
+      "id": 140
+    }
+  ]
+}
